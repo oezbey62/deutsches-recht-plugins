@@ -1,0 +1,99 @@
+# Spiegelt alle Plugins aus Klotzkette/claude-fuer-deutsches-recht in dieses Repository,
+# ohne die Testakten (rund 1,1 GB) und alle anderen Ordner, die keine Plugins sind.
+# So bleibt das Repository klein genug, um es in Claude als Marketplace hinzuzufügen.
+name: Plugins von Klotzkette spiegeln
+
+on:
+  schedule:
+    - cron: "23 3 * * *"   # täglich um 03:23 UTC
+  workflow_dispatch:        # zusätzlich per Knopfdruck startbar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-klotzkette
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Eigenes Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Plugins von Klotzkette holen und übernehmen
+        env:
+          UPSTREAM_URL: https://github.com/Klotzkette/claude-fuer-deutsches-recht
+        run: |
+          set -euo pipefail
+          UP="${RUNNER_TEMP}/upstream"
+
+          # 1) Upstream flach und ohne Dateiinhalte klonen, zunächst nur die Marketplace-Liste laden
+          git clone --depth 1 --filter=blob:none --sparse "$UPSTREAM_URL" "$UP"
+          git -C "$UP" sparse-checkout set .claude-plugin
+
+          # 2) Aus der Marketplace-Liste die Plugin-Ordner ermitteln
+          python3 - "$UP" > "${RUNNER_TEMP}/dirs.txt" <<'PY'
+          import json, pathlib, sys
+          up = pathlib.Path(sys.argv[1])
+          mf = json.loads((up / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
+          for p in mf["plugins"]:
+              s = p.get("source")
+              if isinstance(s, str) and s.startswith("./"):
+                  print(s[2:].rstrip("/"))
+          PY
+
+          # 3) Nur diese Plugin-Ordner nachladen (Testakten, docs usw. bleiben draußen)
+          { echo ".claude-plugin"; cat "${RUNNER_TEMP}/dirs.txt"; } | git -C "$UP" sparse-checkout set --stdin
+
+          # 4) In dieses Repository übernehmen (mit Sicherheitsprüfungen)
+          python3 - "$UP" <<'PY'
+          import os, pathlib, shutil, sys
+          up = pathlib.Path(sys.argv[1])
+          dst = pathlib.Path(".")
+          KEEP = {".git", ".github", "README.md"}
+          dirs = [l.strip() for l in open(os.environ["RUNNER_TEMP"] + "/dirs.txt", encoding="utf-8") if l.strip()]
+          if len(dirs) < 100:
+              sys.exit("Abbruch: ungewöhnlich wenige Plugins (%d). Es wurde nichts verändert." % len(dirs))
+          for d in dirs:
+              parts = pathlib.PurePosixPath(d).parts
+              if d.startswith("/") or ".." in parts or not (up / d).is_dir():
+                  sys.exit("Abbruch: Plugin-Ordner ungültig oder nicht vorhanden: %s" % d)
+          for e in list(dst.iterdir()):
+              if e.name in KEEP:
+                  continue
+              if e.is_dir() and not e.is_symlink():
+                  shutil.rmtree(e)
+              else:
+                  e.unlink()
+          shutil.copytree(up / ".claude-plugin", dst / ".claude-plugin")
+          for d in dirs:
+              shutil.copytree(up / d, dst / d)
+          for f in ("LICENSE", "LICENSE-APACHE", "LICENSE-MIT", "NOTICE"):
+              if (up / f).is_file():
+                  shutil.copy2(up / f, dst / f)
+          if not (dst / "README.md").exists():
+              (dst / "README.md").write_text(
+                  "# Spiegel: Plugins für deutsches Recht\n\n"
+                  "Dieses Repository spiegelt täglich alle Plugins aus "
+                  "[Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht), "
+                  "jedoch ohne die Testakten. Es dient nur dazu, die Plugins in Claude als Marketplace hinzuzufügen. "
+                  "Urheber und Lizenz (Apache-2.0 oder MIT) siehe LICENSE und NOTICE. "
+                  "Änderungen bitte im Original-Repository vornehmen.\n",
+                  encoding="utf-8",
+              )
+          print("Übernommen: %d Plugins" % len(dirs))
+          PY
+
+          # 5) Nur committen, wenn sich etwas geändert hat
+          SHA="$(git -C "$UP" rev-parse --short HEAD)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen seit dem letzten Sync."
+          else
+            git commit -q -m "Sync von Klotzkette (${SHA})"
+            git push
+          fi
