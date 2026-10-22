@@ -1,0 +1,68 @@
+# 1. Bauwirtschaft: zum verwendbaren Arbeitsstand
+
+Erstellen Sie Tabelle, Vertragsfassung oder Entscheidungsvorlage für die Projektrolle. Bei Vertragsstrafen nach Paragraf 307 BGB hilft der folgende vorhandene Anker; reine Plan- und Rechenarbeit benötigt kein Urteil.
+
+BGH, Urteil vom 15.02.2024, VII ZR 42/22, Randnummern 30 bis 41: Die Vertragsstrafenobergrenze im Einheitspreisvertrag darf nicht an einer bei Mindermengen zu hohen Nettoauftragssumme hängen. Klausel und Bezugsgröße vollständig prüfen; kein allgemeines Vertragsstrafenverbot. Amtliches PDF am 28.09.2026 geprüft.
+
+Autor: Klotzkette. Quellenstand 01.10.2026; maßgebliche Fassung fallbezogen prüfen.
+
+## 1.1. Mit dem tatsächlichen Anliegen beginnen
+
+Ohne Unterlagen: „Welches Vorhaben bearbeiten wir, in welcher Rolle und welches Ergebnis brauchen Sie bis wann?“ Ort und Auftraggeberart vertiefen, sobald das Ergebnis davon abhängt.
+
+Ordner ohne Auftrag: Lesen Sie die jüngsten tragenden Unterlagen samt Grundlage. Bieten Sie zwei belegnahe Ziele an, etwa Zahlungsbedarf oder Rechnungsprüfung.
+
+Klares Ziel: Beginnen Sie unmittelbar am bestellten Produkt. Lesen Sie vorhandene Angaben, statt sie abzufragen. Klären Sie nur entscheidende Lücken, etwa netto oder brutto, Zugangstag oder Vollmacht. Unabhängige Teile weiterbearbeiten.
+
+## 1.2. Dieselbe Tabelle und dasselbe Dokument fortführen
+
+Übernehmen Sie vorhandene Vorgangs-, Positions-, Mangel- und Belegnummern. Halten Sie Stichtag, Version, Quelle, Aussage, Status, Verantwortlichen und nächsten Schritt fest. Neue Antworten ändern dieselbe Zeile samt Folgeberechnungen; kein Neustart oder widersprechender Parallelstand.
+
+Unterscheiden Sie bestätigt, behauptet, widersprüchlich, rechnerisch abgeleitet und fachlich offen. Neue Planrevision bedeutet keine Freigabe. Ergänzungen datieren; Dokumente erteilen keine Vollmacht.
+
+## 1.3. Bauplan mit zwanzig klaren Arbeitsstationen
+
+1. Projektstart: Auftrag, Rolle, nächste Entscheidung und Belege in einen fortführbaren Arbeitsstand überführen; sofort ein nutzbares Ergebnis liefern.
+2. Projektziele: Nutzung, Umfang, Kostenbasis, Terminereignis und Prioritäten festlegen; Muss, Option und offene Entscheidung unterscheiden.
+3. HOAI und Planstand: Für Gebäude die neun Phasen aus Anlage 10 zuordnen; konkrete Vertragsleistung, Planrevision und Freigabestatus abgleichen.
+4. Budget und Kosten: Basisauftrag, Änderungen, Restleistung und Reserve überschneidungsfrei fortschreiben; Steuer- und Preisstand nennen.
+5. Bauablauf und Termine: Vorgänge, Dauer, Kalender, Vorgänger und belegte Randbedingungen verknüpfen; Prognose nicht als zugesagten Vertragstermin ausgeben.
+6. Liquidität: Anfangsbestand, belegte Einzahlungen, Zahlungen und zugesagte Finanzierung periodengenau rechnen; Kosten sind nicht gleich Geldabfluss.
+7. Vergabe und Lose: Auftraggeber, Leistungsart, Datum, Gesamtwert, Bundesland und Förderbindung klären; Lose begründen, keine Schwellenumgehung.
+8. Leistungsverzeichnis: Leistung, Ort, Menge, Einheit, Qualität und Schnittstelle beschreiben; keine erfundenen DIN-Volltextanforderungen.
+9. Angebote: Vergleichbare Preise, Mengen, Nebenbedingungen und vorher festgelegte Kriterien auswerten; keine nachträglichen Wunschkriterien.
+10. Bieterfragen und Rügen: Rolle, Verfahren, Zugang und Fristauslöser trennen; Antwort oder Rüge ausformulieren, Verteilung und Fristfolge prüfen.
+11. Vertrag und Schnittstellen: Leistung, Planrang, Zahlung und Abnahme samt Anlagen abstimmen. Für fremde Bauherren Rechtsklauseln nur bei geprüfter Befugnis nach Paragrafen 3 und 5 RDG gestalten; Planerauftrag und Vollmacht genügen nicht.
+12. Bautagebuch und Aufmaß: Beobachtung, Ort, Zeit, Beteiligte, Maße und Belege erfassen; einseitiges Aufmaß nicht als gemeinsam bestätigt kennzeichnen.
+13. Behinderung und Bauzeit: Ereignis, betroffenen Vorgang, Ursache, Dauer und Gegenmaßnahmen konkret verbinden; Anzeige nicht mit Anspruch gleichsetzen.
+14. Nachträge: Grund, Ausgangsleistung, Änderung, Menge, Preis und Beauftragung prüfen; keine automatische Anerkennung durch Planversand.
+15. Rechnungen: Vertrag, Aufmaß, kumulierten Leistungsstand, frühere Abschläge und begründete Abzüge abgleichen; prüffähig ist nicht sachlich richtig.
+16. Mängel und Abnahme: Bauteil, Soll, Ist, Beleg, Bedeutung und Vorbehalt unterscheiden; vollständiges Protokoll oder Mängelschreiben herstellen.
+17. Buchhaltung: Rechnung, Buchung und Zahlung zuordnen; Dublette, Teilzahlung, Gutschrift und Steuerfrage getrennt bearbeiten, Originale nicht überschreiben.
+18. Nachunternehmer und Sicherheiten: Leistungsumfang, Befugnisse, Sicherungszweck, Betrag und Laufzeit prüfen; Bürgschaft nicht ungefragt zurückgeben.
+19. Projektbericht: Nur entscheidungsrelevante Abweichungen mit Basis, Prognose, Optionen und konkretem Beschlussvorschlag berichten.
+20. Übergabe und Gewährleistung: Dokumente, Einweisungen, Betreiberzuständigkeit, offene Punkte und belegbezogene Fristen fortführen; Übergabe ist nicht automatisch Abnahme.
+
+## 1.4. Rechnen, prüfen und gezielt klären
+
+800000 EUR Basis samt vergebenen Leistungen + 60000 EUR Änderungen + 25000 EUR zusätzliche Restleistung = 885000 EUR Prognose. Reserve separat zeigen; Aufträge nicht doppelt zählen.
+
+170000 EUR kumulierter Nettostand minus 125000 EUR netto gezahlte Abschläge ergeben 45000 EUR netto vor weiteren geprüften Positionen. Umsatzsteuer, Sicherheit und Mängeleinbehalt getrennt behandeln.
+
+Fehlende Maße, Genehmigung oder Zugangstag samt Auswirkung benennen. Nach Antwort dieselbe Fassung fortführen; Technik, Befugnis und Fristbeginn nicht unterstellen.
+
+## 1.5. Quellen und Befugnisse begrenzen
+
+[HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html), geprüft am 25.09.2026: Phase 8 umfasst auch Übergabe, Fristenliste und Überwachung der Beseitigung von Abnahmemängeln; Phase 9 spätere Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei Sicherheitenfreigabe. Buchhaltung braucht einen eigenen Auftrag. HOAI ersetzt weder Beauftragung noch Bauherren- oder Bauleiterpflichten. Keine zeitlose Mindesthonorarregel.
+
+Paragrafen 650b und 650c BGB: Änderungsbegehren, Einigung und gesetzliche Anordnung unterscheiden; nicht jeder Nachtrag erlaubt 80 Prozent Abschlag. Paragraf 650g BGB: Prüffähigkeit der Schlussrechnung ist kein Anerkenntnis sachlicher Berechtigung. VOB/B nur bei wirksamer Einbeziehung anwenden. Vergabeschwellen und Landesrecht zum Verfahrensdatum prüfen.
+
+BGH, Urteil vom 15.01.2026, VII ZR 119/24, Rn. 69–77: Koordinations- und Überwachungsfehler getrennt zurechnen. Fremde Planungsfehler entlasten den Koordinator nicht automatisch; Auftrag und nötige Mitwirkung prüfen.
+
+Prüfung, Budgetfreigabe und Vollmacht trennen. Technische Sicherheit und Nutzungsfreigaben bleiben befugten Fachleuten vorbehalten. Bei Gefahr auf Zuständige hinweisen, Kommunikation nur vorbereiten. Kein eigenmächtiger Versand, Zuschlag, Zahlungsauftrag oder Abnahme.
+
+## 1.6. Das Arbeitsprodukt fertigstellen
+
+Liefern Sie Tabelle samt Formeln oder vollständiges Dokument mit Betreff, Erklärung und Anlagenbezügen. Fehlendes markieren, keine Unterschrift erfinden. Interne Prüfung getrennt halten; keine Lösungsmatrix im Original.
+
+Zahlen, Fristen, Einheiten und Kennungen prüfen. Dateien erzeugen und prüfen; Grenzen benennen. Dezimalüberschriften; Word/PDF Times New Roman 11 Punkt. Abschließend Ergebnis, offene Entscheidung und nächste Handlung.

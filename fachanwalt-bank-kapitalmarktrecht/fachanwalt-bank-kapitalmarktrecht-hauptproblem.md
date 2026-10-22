@@ -1,0 +1,47 @@
+# 1. Bestrittene Onlineüberweisungen rekonstruieren
+
+Gleiche bestrittene Überweisungen mit Freigabe, Geräteaktivierung und Sperranzeige ab. Ohne Eingabe biete Erstattungsreklamation, Protokollanforderung oder Bankverteidigung an. Dateien ohne Auftrag still lesen, dann Ziel klären; keine Chronologie vorab. Bei klarem Auftrag direkt schreiben. Folgeantwort „Die Gutschrift ist endgültig“ senkt den offenen Betrag und ändert die Forderung. Autorisierung und Gegenanspruch getrennt prüfen; nur entscheidende Lücken fragen, bekannte Angaben behalten. Kein Plugin-Zugriff erforderlich.
+
+## 1.1. Tatsachen sichern
+
+Erfasse Kontovertrag, Verbraucher- oder Unternehmerstatus, Nachrichten, Kundenbericht, Belastungsanzeige, Bankantwort und Protokolle. Lege Zeit, Zeitzone, Gerät, Handlung, angezeigten Text, handelnde Person und Quelle nebeneinander. Anmeldung, Gerätebindung, Empfängeranlage und Zahlungsfreigabe sind verschiedene Vorgänge. Tatsächliche Beobachtung nicht mit technischer Vermutung vermischen.
+
+Verlange keine PIN oder TAN. Melde dich nicht im Konto an, spiele den Angriff nicht nach und lade keine personenbezogenen Belege in öffentliche Suchdienste.
+
+## 1.2. Jede Zahlung getrennt prüfen
+
+Beginne mit der Zustimmung nach Paragraf 675j BGB. Bewusst freigegebener Betrag und Empfänger können trotz Täuschung über den Zweck autorisiert sein; Betrug bedeutet nicht automatisch fehlende Autorisierung. Eine bloße Gerätefreigabe ist umgekehrt keine Zustimmung zu allen Folgezahlungen. Bei streitiger Anzeige zwei Tatsachenvarianten mit entscheidendem Beweis bilden.
+
+Prüfe Paragraf 675u BGB einschließlich Kenntnis der Bank und gesetzlicher Erstattungszeit. Anzeige nach Paragraf 676b BGB mit Entdeckung, Unterrichtung und Belastung abgleichen. Die 13-Monats-Grenze ersetzt nicht die unverzügliche Anzeige; ordnungsgemäße Kontoinformation und bei Unternehmern mögliche Abreden nach Paragraf 675e BGB prüfen. Polizeianzeige nicht mit Bankreklamation gleichsetzen.
+
+Prüfe nach Paragraf 675w BGB Authentifizierung, ordnungsgemäße Aufzeichnung, Verbuchung und Störungsfreiheit. Fordere konkret Zahlungsfreigabetext, Gerätewechsel, Sitzungs- und Transaktionszuordnung sowie Nachweis starker Kundenauthentifizierung an. Erfolgreiche Authentifizierung und IP-Adresse allein belegen nicht zwingend Zustimmung oder grobe Fahrlässigkeit. Unterstützende Beweismittel benennen; keinen Anspruch auf sämtliche internen Systeme behaupten.
+
+Prüfe den Bankgegenanspruch nach Paragraf 675v BGB separat: Pflicht, konkrete Verletzung, subjektiver Vorwurf, Kausalität und Schaden. Würdige Warnung, Sichtbarkeit und Täuschungssituation. Absätze 2, 4 und 5 vor einer Haftungsquote prüfen, insbesondere fehlende starke Kundenauthentifizierung und Nutzung nach Sperranzeige. 50 EUR sind kein stets abzuziehender Selbstbehalt. Keine automatische Haftung wegen Phishing.
+
+Rechne je Transaktion Belastung minus endgültigem Rückfluss. Vorläufige Gutschriften, Rückholungen, Gebühren und Gegenforderungen getrennt ausweisen; keine doppelte Erstattung. Zinsen und Nebenforderungen eigenständig begründen.
+
+Fehlt der Freigabetext einer bestimmten Überweisung, formuliere eine darauf beschränkte Nachforderung. Nach Eingang gleiche die Anzeige mit Kundenangaben, Gerät und Transaktion ab; prüfe Autorisierung und Gegenanspruch erneut und aktualisiere die Rechnung sowie die betroffene Briefpassage. Ist etwa unklar, ob eine Gutschrift endgültig ist, frage hierzu nach. Weitere kurze Runden sind bei entscheidenden neuen Lücken möglich, ohne bekannte Angaben zu wiederholen. Unabhängig belegte Teile vorläufig liefern und nach Klärung bis zum bestellten Dokument weiterarbeiten; ein fehlender Banknachweis beweist nicht automatisch den behaupteten Kundenablauf.
+
+Wird zusätzlich Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung verlangt, benenne den behaupteten Datenschutzverstoß, den konkreten Schaden und die Belege für deren ursächlichen Zusammenhang gesondert. Die Erstattungsprüfung nach Paragraf 675u BGB ersetzt diese Prüfung nicht.
+
+Aus XI ZR 91/14 folgt bei bloßen Statuscodes konkret: Die Bank muss für einen Anscheinsbeweis Sicherheit und fehlerfreie Anwendung des Verfahrens darlegen; der Kunde muss zur Erschütterung keinen gelungenen technischen Angriff beweisen. Fordere daher die fehlende Anzeige und Vorgangszuordnung an. Korrekte Aufzeichnung ist kein Anscheinsbeweis grober Fahrlässigkeit; ein anderweitiger Vollbeweis der Zustimmung bleibt möglich. Maßgeblich sind Randnummern 18, 19, 68 bis 75 und 79 bis 81 des unten verlinkten Urteils, nicht eine pauschale Beweislastumkehr.
+
+[EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52: Nicht autorisierte Zahlung trotz behaupteter grober Fahrlässigkeit unverzüglich erstatten; späteren Regress gesondert prüfen. Ausnahme: berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung. Trägt nicht automatische Unautorisiertheit, endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot.
+
+## 1.3. Normen und Rechtsprechung
+
+Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfundenen Fundstellen oder Literaturzitate.
+
+- BGH, 26.01.2016 – XI ZR 91/14, Rn. 18–19, 75, 79–81: technische Nachweise begrenzen, Freigabe und Störungen sichern; frühere Rechtslage.
+
+[BGH, 03.03.2026 – XI ZR 20/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1), Rn. 16–35: Beim manuellen chipTAN belegt ein fehlender Empfängername am Generator allein keine fehlende starke Authentifizierung. IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe klären; allgemeine Namenspflicht und weitere Verknüpfungsanforderungen bleiben teils offen. Kein pauschaler Nachweis grober Fahrlässigkeit.
+
+Bei zusätzlichem Datenschutzschaden [BGH, Beschluss vom 07.07.2026 – Az. XI ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1), S. 2: Verstoß, Schaden und Kausalität getrennt belegen. Die Nichtzulassungsbeschwerde scheiterte jedenfalls an der Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u BGB blieb offen.
+
+## 1.4. Lieferung und Grenze
+
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md` verwenden. Bei Reklamations- oder Verteidigungsauftrag den vollständigen Empfängertext schreiben; Zahlungstabelle, Erstattungsrechnung und gesonderte Gegenanspruchsprüfung nur soweit erforderlich beifügen. Bei Gutachtenauftrag die Frage begründet beantworten, keine ungefragte Klage ergänzen.
+
+Offene Zahlungen mit fehlendem Beleg und Auswirkung kennzeichnen. Quellenstatus, technische Prüfgrenzen und interne Risiken in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Sperre, Überweisung, Anzeige, Versand oder Einreichung nur nach Freigabe auslösen.
+
+Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Werkzeuge vollständigen Text mit klaren Recherchegrenzen liefern; keine Dateilinks erfinden.

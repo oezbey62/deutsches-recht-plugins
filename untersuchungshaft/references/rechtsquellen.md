@@ -1,0 +1,70 @@
+# 1. Rechtsquellen zur Untersuchungshaft
+
+## 1.1. Stand und Verwendung
+
+Redaktioneller Prüfstand: 16.10.2026. Die folgenden Quellen wurden nach Thema und Aussage eingeordnet. Vor einer konkreten Einreichung aktuellen Normtext, Landesrecht, Verfahrensstand und den tragenden Absatz des Volltexts erneut prüfen. Eine Recherche ist keine Garantie vollständiger Rechtsprechung. Nicht erreichbare Originalquellen werden nicht als gelesen ausgegeben.
+
+## 1.2. Bundesrecht nach Entscheidung
+
+| Frage | Quelle | Grenze |
+| --- | --- | --- |
+| Freiheit, Richtervorbehalt | [Artikel 104 GG](https://www.gesetze-im-internet.de/gg/art_104.html) | Unverzüglichkeit und äußere Frist unterscheiden. |
+| Haftvoraussetzungen | [112 StPO](https://www.gesetze-im-internet.de/stpo/__112.html), [112a](https://www.gesetze-im-internet.de/stpo/__112a.html), [113](https://www.gesetze-im-internet.de/stpo/__113.html), [114](https://www.gesetze-im-internet.de/stpo/__114.html) | Tatverdacht, Haftgrund, Verhältnismäßigkeit und Begründung sind getrennte Voraussetzungen. |
+| Belehrung, Vorführung | [114b](https://www.gesetze-im-internet.de/stpo/__114b.html), [115](https://www.gesetze-im-internet.de/stpo/__115.html), [115a](https://www.gesetze-im-internet.de/stpo/__115a.html), [128](https://www.gesetze-im-internet.de/stpo/__128.html) | Vorläufige Festnahme und Haftbefehlsvollstreckung unterscheiden. |
+| Mildere Maßnahmen und Aufhebung | [116](https://www.gesetze-im-internet.de/stpo/__116.html), [116a](https://www.gesetze-im-internet.de/stpo/__116a.html), [120](https://www.gesetze-im-internet.de/stpo/__120.html), [123](https://www.gesetze-im-internet.de/stpo/__123.html) | Aufhebung beseitigt den Haftbefehl; Aussetzung lässt ihn bestehen. |
+| Haftprüfung und Anhörung | [117](https://www.gesetze-im-internet.de/stpo/__117.html), [118](https://www.gesetze-im-internet.de/stpo/__118.html), [118a](https://www.gesetze-im-internet.de/stpo/__118a.html) | Keine parallele Haftbeschwerde neben anhängiger Haftprüfung; Wiederholungsanspruch und Ausnahmen beachten. |
+| Gerichtliche Beschränkung | [119](https://www.gesetze-im-internet.de/stpo/__119.html) | Verfahrenssicherung ist nicht allgemeine Hausordnung. |
+| Behördliche Vollzugsmaßnahme | [119a](https://www.gesetze-im-internet.de/stpo/__119a.html), [126](https://www.gesetze-im-internet.de/stpo/__126.html) | Drei Wochen betreffen Nichtbescheidung, nicht eine Ausschlussfrist. |
+| Haftdauer | [121](https://www.gesetze-im-internet.de/stpo/__121.html), [122](https://www.gesetze-im-internet.de/stpo/__122.html), [122a](https://www.gesetze-im-internet.de/stpo/__122a.html) | Sechsmonatsprüfung, Ruhen des Fristlaufs, Sonderzuständigkeit und Wiederholungsgefahr getrennt behandeln. |
+| Verteidigung | [140](https://www.gesetze-im-internet.de/stpo/__140.html), [141](https://www.gesetze-im-internet.de/stpo/__141.html), [142](https://www.gesetze-im-internet.de/stpo/__142.html), [147](https://www.gesetze-im-internet.de/stpo/__147.html), [148](https://www.gesetze-im-internet.de/stpo/__148.html) | Eigener Antrag ersetzt notwendige Verteidigung nicht. Aktenzugang und vertraulicher Kontakt praktisch sichern. |
+| Beschwerde | [304](https://www.gesetze-im-internet.de/stpo/__304.html), [306](https://www.gesetze-im-internet.de/stpo/__306.html), [307](https://www.gesetze-im-internet.de/stpo/__307.html), [310](https://www.gesetze-im-internet.de/stpo/__310.html) | Vorlagefrist des Gerichts ist keine Einlegungsfrist; weitere Beschwerde nicht immer statthaft. |
+| Jugendliche | [72 JGG](https://www.gesetze-im-internet.de/jgg/__72.html), [72a](https://www.gesetze-im-internet.de/jgg/__72a.html), [109](https://www.gesetze-im-internet.de/jgg/__109.html) | Paragraf 72 nicht automatisch auf Heranwachsende übertragen. |
+
+## 1.3. Rechtsprechung mit Reichweite
+
+1. BVerfG, Beschluss vom 05.02.2025, 2 BvR 24/25 und 2 BvR 69/25: [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250206_2bvr002425.html). Individuelle Begründung der Haftfortdauer, tatsächliche Verfahrensförderung und mit der Haftdauer steigendes Gewicht des Freiheitsanspruchs. Der im Link enthaltene Tag weicht vom Entscheidungsdatum im Text ab. Das Gericht hob den angegriffenen Beschluss auf und verwies zurück; keine allgemeine automatische Freilassung nach einer bestimmten Zahl von Monaten. Einsatz: Haftdauer, Beschwerde, Prüfung der Verhältnismäßigkeit.
+2. BVerfG, Beschluss vom 15.05.2002, 2 BvR 2292/00: [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/05/rs20020515_2bvr229200.html). Richtervorbehalt muss organisatorisch wirksam sein; die äußere Grenze ersetzt unverzügliches Handeln nicht. Der Ausgangsfall betraf polizeilichen Gewahrsam im Abschiebungszusammenhang. Einsatz ausschließlich für den verfassungsrechtlichen Grundsatz, nicht als spezielle Auslegung jeder Haftvorführungsnorm.
+3. BGH, Beschluss vom 04.08.2026, StB 46/26: [abgeglichener Volltext bei nu:legal](https://recht.nulegal.eu/rechtsprechung/bgh/2026-08-04/stb-46-26), [zweite Volltextfassung](https://www.anwalt24.de/urteile/bgh/2026-08-04/stb-46_26). Randnummern 12 bis 19 betreffen Verhältnismäßigkeit, Verfahrensförderung und konkrete Verhandlungsdichte. Kein rein schematischer Wochenquotient; Selbstleseverfahren und tatsächlicher Verlauf können erheblich sein. Randnummern 7 bis 9 betreffen konkrete Fluchtprognose, restriktive Anwendung des Paragrafen 112 Absatz 3 StPO und mildere Maßnahmen. Umfangreiches Staatsschutzverfahren; keine Rechtfertigung gewöhnlicher Liegezeiten in einfachen Verfahren. Quellenstatus: zwei übereinstimmende Sekundärvolltexte; amtlicher Abruf in dieser Prüfung technisch nicht erfolgreich. Vor Verwendung als tragenden Einreichungsbeleg Original anhand ECLI:DE:BGH:2026:040826BSTB46.26.0 kontrollieren.
+
+Nicht als Untersuchungshaftrecht übernommen: BayObLG, 22.05.2024, 204 StObWs 210/24, betrifft Langzeitbesuche im Strafvollzug. Eine unmittelbar hieraus abgeleitete unüberwachte Besuchsgarantie für Untersuchungsgefangene wäre falsch. Ebenso begründet ein neues Urteil mit bloßer Erwähnung von Untersuchungshaft noch keinen passenden Haftrechtsanker.
+
+### 1.3.1. Vertiefende Entscheidungen für konkrete Arbeitsschritte
+
+Die folgenden neun BVerfG-Beschlüsse wurden am 16.10.2026 im amtlichen Volltext geprüft. Zusammen mit den beiden oben genannten BVerfG-Entscheidungen sind es elf Originalquellen. Jeder Anker hat einen begrenzten Anwendungsbereich; eine Nichtannahme ist kein erfolgreicher Entlassungsbeschluss.
+
+| Entscheidung und Original | Tragender Prüfpunkt | Grenze und Verwendung |
+| --- | --- | --- |
+| [BVerfG, 07.03.2012, 2 BvR 988/10](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/03/rk20120307_2bvr098810.html), Rn. 32 bis 34 | Verteidigertelefonat und Paragraf 148 StPO dürfen nicht durch allgemeinen Überwachungsaufwand verdrängt werden. | Kein unbegrenztes Telefonrecht; damaliges Übergangsrecht nicht als heutiges Landesrecht verwenden. |
+| [BVerfG, 30.10.2014, 2 BvR 1513/14](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2014/10/rk20141030_2bvr151314.html), Rn. 18 bis 22 | Jede zusätzliche Beschränkung benötigt konkrete Erforderlichkeit und Abwägung. | Auch bei Betäubungsmittelvorwürfen keine bloße Übernahme des Haftgrundes als Begründung. |
+| [BVerfG, 01.04.2020, 2 BvR 225/20](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/04/rk20200401_2bvr022520.html), Rn. 65 bis 78 | Zulässige Verteidigung, Gutachterverfügbarkeit und vermeidbare Neuterminierung getrennt prüfen. | Keine Pflicht zum Geständnis; tatsächliche Planungsalternativen belegen, notwendige Begutachtung nicht pauschal abkürzen. |
+| [BVerfG, 17.12.2020, 2 BvR 1787/20](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/12/rk20201217_2bvr178720.html), Rn. 49 bis 56 | Schutz einer Verschonungsentscheidung kann beim Ersatz durch einen neuen Haftbefehl fortwirken. | Zusammenhang und geänderte Umstände prüfen; kein Schutz vor jeder späteren Haft wegen anderer Taten. |
+| [BVerfG, 08.07.2021, 2 BvR 575/21](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/07/rk20210708_2bvr057521.html), Rn. 41 bis 48 | Paragraf 116 Absatz 4: neue haftgrundbezogene Umstände, Vertrauen und Auflagentreue. | Bloße Verdachtsverdichtung reicht nicht; erhebliche Änderung der Fluchtprognose kann anders zu würdigen sein. |
+| [BVerfG, 15.11.2022, 2 BvR 1139/22](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/11/rk20221115_2bvr113922.html), Rn. 25 bis 30 | Überwachung von Familiengesprächen verlangt aktuelle konkrete Gefahr und Abwägung der Dauer. | Überhaft während Unterbringung nach Paragraf 63 StGB; keine allgemeine Garantie unüberwachter Besuche. |
+| [BVerfG, 23.01.2023, 2 BvR 1343/22](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/01/rk20230123_2bvr134322.html), Rn. 2 bis 5 | Verletzung der Vorlagefrist nach Paragraf 306 Absatz 2 und Folge für Haftfortdauer unterscheiden. | Nichtannahme; kein Freibrief für Verzögerungen, aber auch kein automatischer Entlassungsgrund. |
+| [BVerfG, 21.09.2023, 2 BvR 825/23](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230921_2bvr082523.html), Rn. 24 bis 36 | OLG-Haftprüfung muss trotz Fristruhens effektiv und zeitnah sein; Rn. 26 zu verfügbaren Rechtswegen. | Feststellung der Verletzung von Artikel 19 Absatz 4 GG, nicht automatische Haftaufhebung. |
+| [BVerfG, 17.01.2024, 2 BvR 1756/23](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/rk20240117_2bvr175623.html), Rn. 8 bis 20 | Subsidiarität bei übergangenem Kernvorbringen; außerdem materielle Hinweise zu Liegezeiten im Zwischenverfahren. | Nichtannahme wegen Unzulässigkeit. Anhörungsrüge nicht bei jeder bloß unzutreffenden Bewertung verlangen. |
+
+### 1.3.2. Rechtskraft ist nicht gleich Freigabe jeder Auflage
+
+BGH, Beschluss vom 03.04.2025, StB 8/25, Rn. 4 bis 11: [Volltext bei anwalt24](https://www.anwalt24.de/urteile/bgh/2025-04-03/stb-8_25), [weitere Fassung bei HRRS](https://www.hrr-strafrecht.de/hrr/2/25/stb-8-25.pdf). Der Untersuchungshaftbefehl erledigt sich mit rechtskräftiger Verurteilung auch bei vorheriger Außervollzugsetzung. Die isolierte Fortgeltung von Anweisungen nach Paragraf 116 Absatz 1 ließ der Senat dagegen ausdrücklich offen. Aus diesem Beschluss keine automatische Freigabe von Sicherheit oder Erlaubnis zur Missachtung von Meldeauflagen ableiten.
+
+Quellenstatus: zwei abgeglichene Sekundärvolltexte; der alte amtliche PDF-Link führte beim Abruf auf eine allgemeine Entscheidungsübersicht, nicht auf den Beschluss. Vor tragender Verwendung amtlich anhand ECLI:DE:BGH:2025:030425BSTB8.25.0 nachprüfen. Paragraf 123 StPO, etwaige spätere Änderungen und zuständiges Gericht eigenständig kontrollieren. Einschließlich der beiden folgenden BGH-Beschlüsse umfasst das Register fünfzehn Entscheidungen; die beiden verbundenen Verfahren vom 05.02.2025 zählen als eine Entscheidung.
+
+### 1.3.3. Zwei zusätzlich amtlich gelesene Haftentscheidungen
+
+Gezielter Volltextabgleich vom 16.10.2026, keine Neudatierung der übrigen Quellen: Beide folgenden Original-PDFs wurden nach fehlgeschlagenem Webabruf unmittelbar vom Bundesgerichtshof geladen und vollständig gelesen, einschließlich Kopf, Tenor und Gründen. Damit umfasst diese Auswahl fünfzehn Entscheidungen.
+
+| Entscheidung und Original | Bedeutung für den Arbeitsweg | Aussagegrenze |
+| --- | --- | --- |
+| [BGH, Beschluss vom 09.09.2026, AK 46/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1), Rn. 6, 10 bis 24 | Eröffnungsreife, Nachermittlungsfristen, angebotene Verteidigertermine, Gerichtsauslastung und mögliche Kompensation prüfen. Trotz unveränderter übriger Haftvoraussetzungen Aufhebung wegen zurechenbarer Verzögerung; Entlassung in dieser Sache. | Einzelfall des Zwischenverfahrens; keine kalendarische Neun- oder Zehnmonatsgrenze, keine bloße Quotenrechnung. Andere Hafttitel gesondert. |
+| [BGH, Beschluss vom 05.02.2026, StB 3/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1), Rn. 8 bis 11 | Ablauf einer Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 StPO getrennt vom Ruhen nach Paragraf 121 Absatz 3 ermitteln. Nach Ablauf Vorlage an das wieder zuständige höhere Gericht. | Bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit des parallelen Aufhebungsantrags während besonderer Prüfung. Nach Fortdauerentscheidung Gegenstandslosigkeit; kein Entlassungstenor. |
+
+## 1.4. Landesrecht und Vollzug
+
+[UVollzG Nordrhein-Westfalen, amtliche Fassung ab 01.04.2026](https://recht.nrw.de/lrgv/gesetz/01042026-untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg-nrw/): Paragrafen 1 bis 4 für Unschuldsvermutung, Verhältnismäßigkeit und Zuständigkeit; 10 und 11 für Unterbringung und persönliche Gegenstände; 13 für Beschäftigung; 17 bis 22 für Außenkontakte; 23 und 24 für Gesundheitsfürsorge. Sicherheitsbedingungen und konkrete gerichtliche Anordnungen mitprüfen. Für junge Gefangene Paragrafen 34 ff. gesondert berücksichtigen.
+
+Für andere Länder die aktuelle amtliche Landesfassung ermitteln. Dokumentiere Land, Gesetz, Fassung, genaue Norm, Regel und Ausnahme. Keine bundesweit einheitlichen Besuchsstunden, Einkaufsbeträge oder Arbeitsregeln behaupten. Hausordnungen dürfen den gesetzlichen Anspruch nicht stillschweigend ersetzen. Bei Überhaft und gleichzeitigem Strafvollzug den tatsächlich geltenden Status klären.
+
+## 1.5. Freigabe eines Schriftsatzes
+
+Für jeden tragenden Satz: tatsächliche Quelle, rechtlicher Maßstab, Gegenbeleg und Schlussfolgerung getrennt lesen. Nur verifizierte Randnummern nennen. Antrag, Adressat, Zuständigkeit und Verfahrensweg abgleichen. Fehlender Volltext bleibt ein offener Recherchepunkt. Ein fertig formulierter Entwurf ist weder eingereicht noch richterlich erlassen.

@@ -1,0 +1,126 @@
+---
+name: fristenbuch-steuerrecht
+description: "Für Fristenbuch Steuerrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fristenbuch-steuerrecht."
+---
+
+# Fristenbuch Steuerrecht
+
+## Fachlicher Anker
+
+- **Normen:** § 6a, § 355 Abs. 1 AO, § 47 Abs. 1.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Triage — Sofortprüfung bei jedem neuen Mandat
+
+1. Liegt ein Steuerbescheid vor? → Einspruchsfrist ein Monat (§ 355 Abs. 1 AO) sofort eintragen
+2. Liegt eine Einspruchsentscheidung vor? → Klagefrist ein Monat (§ 47 Abs. 1 FGO) sofort eintragen
+3. Fehlt die Rechtsbehelfsbelehrung oder ist sie fehlerhaft? → Jahresfrist (§ 356 AO), aber nicht warten — so früh wie möglich handeln
+4. Liegt bereits Fristversäumnis vor? → Wiedereinsetzung § 110 AO prüfen (Frist ein Monat nach Wegfall des Hindernisses)
+5. Besteht Festsetzungsverjährungs-Problematik (§ 169 AO)? → Ablaufhemmung prüfen (§ 171 AO)
+
+## Zentralablage
+
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/fristenbuch.yaml`
+
+```yaml
+- mandat-az: ST-2026-0042
+ mandant: Mueller GmbH
+ vorgang: USt-Bescheid 2024 vom 12.03.2026
+ fristart: einspruchsfrist
+ rechtsgrundlage: "§ 355 Abs. 1 AO"
+ fristbeginn: 2026-03-15
+ hauptfrist: 2026-04-15
+ vorfrist-tage: 5
+ vorfrist: 2026-04-10
+ zuständig: RA Mueller
+ status: offen
+ bemerkung: AdV-Antrag separat einreichen
+```
+
+## Standardfristen
+
+### AO
+
+| Frist | Norm | Dauer |
+|---|---|---|
+| Einspruchsfrist | § 355 Abs. 1 AO | ein Monat ab Bekanntgabe; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO |
+| Antragsfrist auf schlichte Änderung | § 172 Abs. 1 Nr. 2 AO | ein Monat |
+| Festsetzungsverjährung regelmäßig | § 169 Abs. 2 Nr. 2 AO | vier Jahre |
+| Festsetzungsverjährung bei Hinterziehung | § 169 Abs. 2 Satz 2 AO | zehn Jahre |
+| Festsetzungsverjährung bei Leichtfertigkeit | § 169 Abs. 2 Satz 2 AO | fünf Jahre |
+| Antrag auf Stundung / Erlass | §§ 222 227 AO | keine Frist; Fälligkeit beobachten |
+| Wiedereinsetzung | § 110 AO | ein Monat nach Wegfall des Hindernisses |
+
+### FGO
+
+| Frist | Norm | Dauer |
+|---|---|---|
+| Klagefrist | § 47 Abs. 1 FGO | ein Monat ab Bekanntgabe Einspruchsentscheidung |
+| Untätigkeitsklage möglich | § 46 FGO | nach sechs Monaten ohne Einspruchsentscheidung |
+| AdV-Antrag an FG | § 69 FGO | keine eigene Frist |
+| Nichtzulassungsbeschwerde | § 116 Abs. 2 FGO | ein Monat |
+| Revisionsbegründung | § 120 Abs. 2 FGO | zwei Monate |
+| Aussetzungszinsen | § 237 AO | bei Verlust 0.15 Prozent pro Monat |
+
+## Bekanntgabe (§ 122 AO)
+
+- **Schriftliche Bescheide per Post** vier Tage nach Aufgabe zur Post (§ 122 Abs. 2 Nr. 1 AO n.F., seit 1.1.2025; davor drei Tage).
+- **Elektronische Bescheide** vier Tage nach Absendung (§ 122 Abs. 2a / § 122a Abs. 4 AO n.F., seit 1.1.2025; davor drei Tage).
+- **Bekanntgabe von Verwaltungsakten mit Aufgabe zur Post vor dem 1.1.2025**: weiterhin Drei-Tages-Fiktion alter Fassung.
+- Beweispflicht der Behörde wenn Zugang bestritten.
+
+## Fristberechnung § 108 AO
+
+- Beginn am Folgetag der Bekanntgabe (§ 187 BGB analog).
+- Ende mit Ablauf des entsprechenden Tages des letzten Monats (§ 188 BGB analog).
+- Bei Wochenende / Feiertag auf nächsten Werktag.
+
+## Vorfristen
+
+- Standard fünf Werktage vor Hauptfrist.
+- Bei Klagefristen zum Finanzgericht Vorfrist sieben Tage (Akteneinsicht beA-Versand Anlagen — zum Gericht weiterhin über beA, § 52d FGO).
+- Bei Einspruchs- und sonstigen Antragsfristen zum Finanzamt Vorfrist drei Werktage (Versand über ELSTER/ERiC, Brief oder Fax; **kein beA** an Finanzamt seit 6.12.2024, § 87a Abs. 1 S. 2 AO n.F.).
+- Eskalation bei Vorfrist an zuständigen Anwalt und Sekretariat.
+
+## Sondere Fristen
+
+### Steuererklärungspflicht (§ 149 AO)
+
+- **Pflichtveranlagung** sieben Monate nach Ablauf des Kalenderjahrs (§ 149 Abs. 2 AO).
+- **Bei steuerlicher Vertretung** durch Steuerberater Verlängerung bis Ende Februar des übernächsten Jahres (§ 149 Abs. 3 AO).
+
+Jahresbezogene Übergänge nach Artikel 97 Paragraf 36 EGAO und eine Vorabanforderung gesondert prüfen. Für zusätzliche Verlängerung beratener Erklärungsfristen gilt Paragraf 109 Absatz 2 AO: [BFH, Beschluss vom 18.09.2026, X B 121/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/), Rn. 17–22 und 38, verlangt fehlendes Verschulden nach den Wiedereinsetzungsmaßstäben; Verschulden von Vertreter oder Erfüllungsgehilfen ist zurechenbar. Arbeitslast und Rückstände des Finanzamts in anderen Fällen reichen nicht. Ausfallzeit, Gesamtpersonal, zumutbare Abhilfen und konkrete Auswirkungen am Fristende erheben und den Verlängerungsantrag damit begründen. Keine automatische Verlängerung durch Antragstellung eintragen; Entscheidung und Nachweis sichern. Amtlicher Volltext und Paragraf 109 am 16.10.2026 gelesen. Kein generelles Verlängerungsverbot, keine Übertragung auf Einspruchsfristen; die Nichtzulassungsbeschwerde blieb erfolglos.
+
+### USt-Voranmeldung (§ 18 UStG)
+
+- **Monatlich** wenn Steuer im Vorjahr über 7500 EUR; **vierteljaehrlich** sonst.
+- Frist bis zum 10. des Folgemonats Quartals.
+- Dauerfristverlängerung um einen Monat möglich (§ 18 Abs. 6 UStG).
+
+### Lohnsteueranmeldung (§ 41a EStG)
+
+- **Monatlich** wenn LSt mehr als 5000 EUR; **vierteljaehrlich** zwischen 1080 und 5000 EUR; **jaehrlich** bis 1080 EUR.
+- Frist bis zum 10. des Folgemonats / Folgequartals.
+
+## Pflege und Audit
+
+- Sofortige Eintragung bei Bescheideingang.
+- Sekretariat und Anwalt gegenseitig prüfen.
+- Audit-Trail bei jeder Friständerung.
+
+## Ausgabe
+
+- `fristenbuch.yaml` aktualisiert
+- `fristen-uebersicht.md` Tagesbericht nächste sieben Tage
+- Vorfristen-Erinnerung in Sekretariats-Tagesbrief (Plugin `kanzlei-allgemein`)
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

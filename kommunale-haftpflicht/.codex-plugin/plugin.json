@@ -1,0 +1,36 @@
+{
+  "name": "kommunale-haftpflicht",
+  "version": "445.35.3",
+  "description": "Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kommunale-haftpflicht",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "kommunale-haftpflicht",
+    "amtshaftung",
+    "verkehrssicherung",
+    "rohrbruch",
+    "fahrzeugschaden",
+    "schadenregulierung"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "interface": {
+    "displayName": "Kommunale Haftpflicht",
+    "shortDescription": "Kommunale Schäden belegt prüfen und regulieren.",
+    "longDescription": "Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Bearbeiten Sie diesen kommunalen Haftpflichtfall und entwerfen Sie die erforderliche Antwort.",
+      "Prüfen Sie Haftung, Schadenhöhe und Deckung anhand der vorliegenden Belege getrennt."
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+# Relationstechnik Zivilrecht (Praxis-Werkstatt)
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
+
+Relationstechnik Zivilrecht: Klaegerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schlüssigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum.
+
+Dieses Plugin gehört zum Marketplace mit 308 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+
+## Welche Datei wofür? / Which file should I use?
+
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`relationstechnik-zivilrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/relationstechnik-zivilrecht.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/relationstechnik-zivilrecht.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
+
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
+
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
+
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/relationstechnik-zivilrecht.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Installation](../../INSTALLATION_EINFACH.md) · [Testakten](../../testakten/README.md)
+
+## In 30 Sekunden starten
+
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/relationstechnik-zivilrecht.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+
+Startsatz für Relationstechnik Zivilrecht (Praxis-Werkstatt):
+
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
+
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
+
+## Downloads
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`relationstechnik-zivilrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/relationstechnik-zivilrecht.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`relationstechnik-zivilrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`relationstechnik-zivilrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md) |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 308 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+<!-- END direkt-loslegen (autogen) -->
+
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+> **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
+
+> **Hochrisiko-Prüfung vor Justizeinsatz:** Artikel 6 Absatz 2 mit Anhang III Nummer 8 Buchstabe a anhand der konkreten Zweckbestimmung prüfen; nicht jede Verwaltungs- oder Recherchefunktion einer Justizbehörde ist automatisch erfasst. Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Datenschutzrechtliche Grenzen automatisierter Entscheidungen sind gesondert nach dem anwendbaren Regime zu prüfen. Die richterliche Entscheidung bleibt dem zuständigen Menschen vorbehalten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+
+## Rolle
+
+Jeder Zivilrechtler (Richter, Referendar, Anwalt) der eine große Relation aufbauen will
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, Methodenlehre des Bürgerlichen Rechts (Larenz, Wieacker)
+
+## Inhalt
+
+- Skills mit ihren Referenzen: siehe vollständige Liste unten. Werkstatt und Schnellstart sind separate Markdown-Dateien, keine zusätzlichen Skills.
+- **Werkstatt-Prompt** (`relationstechnik-zivilrecht-werkstatt.md`)
+- **Schnellstart-Prompt** (`relationstechnik-zivilrecht-schnellstart.md`)
+- **Testakte** (`testakte/README.md`) — aus Richtersicht
+
+## Skill-Liste
+
+Die [vollständige alphabetische Skill-Liste](../../skills-index/relationstechnik-zivilrecht.md) enthält die aktuellen Namen, Beschreibungen und Markdown-Downloads. Die thematische Navigation und die automatisch gepflegte Übersicht weiter unten helfen bei der Auswahl nach Arbeitsschritt.
+
+## Wichtiger Hinweis vor Verwendung
+
+**Experimentelles Plugin — Vorsicht.** Dieses Plugin ist ein Funktionsexperiment für den Einsatz von KI an deutschen Gerichten. Es geht hier um die **Capability**, nicht um eine Produktivempfehlung.
+
+### Rechtliche Einordnung der KI-Verordnung (KI-VO, VO (EU) 2024/1689)
+
+- **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: KI-Systeme, die von einer Justizbehörde oder in deren Auftrag bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts auf konkrete Sachverhalte** verwendet werden, sind grundsätzlich **Hochrisiko-KI**.
+- **Ausnahme nach Artikel 6 Absatz 3:** Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **Registrierung und Rollen:** Artikel 6 Absatz 4 und Artikel 49 Absatz 2 richten die Dokumentations- und Registrierungspflicht bei der Ausnahme an Anbieter beziehungsweise gegebenenfalls deren Bevollmächtigte. Öffentliche Betreiber prüfen daneben Artikel 49 Absatz 3. Registrierung in der vorgesehenen Datenbank und Notifizierung einer Konformitätsbewertungsstelle sind unterschiedliche Vorgänge. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Entscheidungsvorschläge produziert, die Subsumtion vornimmt oder die richterliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
+
+### Art. 22 DSGVO — Verbot ausschliesslich automatisierter Entscheidung
+
+Die richterliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine entscheidet als Richter.** Diese Skills sind ausschliesslich **Unterstützung** der richterlichen Arbeit, niemals deren Ersatz. Der Richter prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschläge.
+
+### Aktengeheimnis und Datenschutz
+
+- **Paragraf 353b StGB** (Verletzung von Dienstgeheimnissen) und **Paragraf 43 DRiG** (Amtsverschwiegenheit der Richter) sind strikt zu wahren.
+- Akteninhalte dürfen nicht ungeprüfte an externe KI-Anbieter übermittelt werden. Vor jeder Verwendung ist zu prüfen, ob die genutzte KI-Umgebung den Datenschutz und das Aktengeheimnis gewährleistet.
+- **Schatten-KI ist ausdrücklich abgelehnt.** Dieses Plugin soll keine Hilfe sein, KI an behördlichen Datenschutz- und IT-Richtlinien vorbei einzusetzen.
+
+### Revisionssicherheit
+
+- Sämtliche Arbeitsergebnisse müssen revisionssicher dokumentiert werden: Wer hat wann welche KI-Ausgabe genutzt, welche Änderungen wurden danach durch den Richter vorgenommen, welche Akten- und Promptbestandteile lagen zugrunde?
+- Die KI-Ausgabe muss als KI-Ausgabe erkennbar bleiben (Markierung, Versionierung); die richterliche Bearbeitung dokumentiert werden.
+- Aufbewahrungsfristen nach Aktenordnung der Gerichte und ggf. KI-VO-Logging-Pflichten beachten.
+
+### Realismus-Hinweis
+
+Viele Gerichte werden externe Cloud-Dienste auf absehbare Zeit nicht produktiv einsetzen können. Der Wert dieses Plugins liegt darin, dass **Werkstatt-Prompt und Schnellstart-Prompt portabel** sind: Sie funktionieren in einem behördlich freigegebenen Fachsystem mit ausreichendem Kontextfenster und Datei-Upload. Wer im Gericht bereits eine zugelassene Umgebung hat, kann den Werkstatt-Prompt oder Schnellstart-Prompt dort einsetzen, soweit Hausrecht und Datenschutzfreigabe das erlauben.
+
+### Verwendung auf eigene Gefahr
+
+Die Nutzung erfolgt **auf eigene Gefahr und eigene Verantwortung**. Es handelt sich um ein Capability-Experiment. Die Frage, ob und wie der hier abgebildete Workflow rechtssicher betrieben werden kann, ist im Einzelfall zu prüfen — und kann auch zu dem Ergebnis führen, dass es nicht geht. Wir wollen das wissen, indem wir es bauen und ausprobieren.
+
+## Quellenhygiene
+
+- Keine erfundenen Aktenzeichen.
+- Rechtsprechung nur mit Aktenzeichen + Datum + Verfahrensbezeichnung.
+- Bei Unsicherheit lieber Lückenliste als Erfindung.
+- Vor Verwendung Aktenzeichen in offiziellen Datenbanken (Bundesgerichte, juris frei, Bundesverfassungsgericht.de) live verifizieren.
+
+## Lizenz
+
+Dual-lizenziert MIT und Apache-2.0.
+
+
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
+
+English: Skills are grouped by typical work phase. Clicking a skill downloads its Markdown file; the complete alphabetical list remains below.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | [`01-akte-erstdurchsicht-zivil`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/01-akte-erstdurchsicht-zivil/SKILL.md), [`12-beweisbeduerftige-tatsachen-isolieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md), [`13-beweislastverteilung-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/13-beweislastverteilung-pruefen/SKILL.md), [`14-beweismittel-wuerdigen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/14-beweismittel-wuerdigen/SKILL.md), [`15-beweisstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/15-beweisstation-votum/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`05-anspruchsgrundlagen-identifizieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/05-anspruchsgrundlagen-identifizieren/SKILL.md), [`17-tatbestand-schreiben`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/17-tatbestand-schreiben/SKILL.md), [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/juristischer-argumentationskern/SKILL.md) |
+| 4. Gestaltung, Strategie und Verhandlung | [`02-parteivortrag-strukturieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/02-parteivortrag-strukturieren/SKILL.md), [`08-beklagtenvortrag-strukturieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/08-beklagtenvortrag-strukturieren/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`04-klage-antrag-auslegen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/04-klage-antrag-auslegen/SKILL.md), [`20-urteilsentwurf-finalisieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/20-urteilsentwurf-finalisieren/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`03-streitstand-erfassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/03-streitstand-erfassen/SKILL.md), [`06-schluessigkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/06-schluessigkeit-pruefen/SKILL.md), [`07-klaegerstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/07-klaegerstation-votum/SKILL.md), [`09-einwendungen-einreden-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/09-einwendungen-einreden-pruefen/SKILL.md), [`10-erheblichkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/10-erheblichkeit-pruefen/SKILL.md), [`11-beklagtenstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/11-beklagtenstation-votum/SKILL.md), [`16-tenor-formulieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/16-tenor-formulieren/SKILL.md), [`18-entscheidungsgruende-aufbauen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/18-entscheidungsgruende-aufbauen/SKILL.md), [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md), [`99-finale-entscheidung-volltext`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Überblick
+
+Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+
+English: Complete list of all 23 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+
+| Skill | Beschreibung | Markdown-Download |
+| --- | --- | --- |
+| [`01-akte-erstdurchsicht-zivil`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/01-akte-erstdurchsicht-zivil/SKILL.md) | Für 01 Akte Erstdurchsicht Zivil: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/01-akte-erstdurchsicht-zivil/SKILL.md) |
+| [`02-parteivortrag-strukturieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/02-parteivortrag-strukturieren/SKILL.md) | Für 02 Parteivortrag Strukturieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/02-parteivortrag-strukturieren/SKILL.md) |
+| [`03-streitstand-erfassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/03-streitstand-erfassen/SKILL.md) | Für 03 Streitstand Erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/03-streitstand-erfassen/SKILL.md) |
+| [`04-klage-antrag-auslegen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/04-klage-antrag-auslegen/SKILL.md) | Für 04 Klage Antrag Auslegen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/04-klage-antrag-auslegen/SKILL.md) |
+| [`05-anspruchsgrundlagen-identifizieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/05-anspruchsgrundlagen-identifizieren/SKILL.md) | Für 05 Anspruchsgrundlagen Identifizieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/05-anspruchsgrundlagen-identifizieren/SKILL.md) |
+| [`06-schluessigkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/06-schluessigkeit-pruefen/SKILL.md) | Für 06 Schlüssigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/06-schluessigkeit-pruefen/SKILL.md) |
+| [`07-klaegerstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/07-klaegerstation-votum/SKILL.md) | Für 07 Klägerstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/07-klaegerstation-votum/SKILL.md) |
+| [`08-beklagtenvortrag-strukturieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/08-beklagtenvortrag-strukturieren/SKILL.md) | Für 08 Beklagtenvortrag Strukturieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/08-beklagtenvortrag-strukturieren/SKILL.md) |
+| [`09-einwendungen-einreden-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/09-einwendungen-einreden-pruefen/SKILL.md) | Für 09 Einwendungen Einreden Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/09-einwendungen-einreden-pruefen/SKILL.md) |
+| [`10-erheblichkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/10-erheblichkeit-pruefen/SKILL.md) | Für 10 Erheblichkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/10-erheblichkeit-pruefen/SKILL.md) |
+| [`11-beklagtenstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/11-beklagtenstation-votum/SKILL.md) | Für 11 Beklagtenstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/11-beklagtenstation-votum/SKILL.md) |
+| [`12-beweisbeduerftige-tatsachen-isolieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md) | Für 12 Beweisbedürftige Tatsachen Isolieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md) |
+| [`13-beweislastverteilung-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/13-beweislastverteilung-pruefen/SKILL.md) | Für 13 Beweislastverteilung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/13-beweislastverteilung-pruefen/SKILL.md) |
+| [`14-beweismittel-wuerdigen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/14-beweismittel-wuerdigen/SKILL.md) | Für 14 Beweismittel Würdigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/14-beweismittel-wuerdigen/SKILL.md) |
+| [`15-beweisstation-votum`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/15-beweisstation-votum/SKILL.md) | Für 15 Beweisstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/15-beweisstation-votum/SKILL.md) |
+| [`16-tenor-formulieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/16-tenor-formulieren/SKILL.md) | Für 16 Tenor Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/16-tenor-formulieren/SKILL.md) |
+| [`17-tatbestand-schreiben`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/17-tatbestand-schreiben/SKILL.md) | Für 17 Tatbestand Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/17-tatbestand-schreiben/SKILL.md) |
+| [`18-entscheidungsgruende-aufbauen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/18-entscheidungsgruende-aufbauen/SKILL.md) | Für 18 Entscheidungsgründe Aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/18-entscheidungsgruende-aufbauen/SKILL.md) |
+| [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md) | Für 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md) |
+| [`20-urteilsentwurf-finalisieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/20-urteilsentwurf-finalisieren/SKILL.md) | Für 20 Urteilsentwurf Finalisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/20-urteilsentwurf-finalisieren/SKILL.md) |
+| [`99-finale-entscheidung-volltext`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/99-finale-entscheidung-volltext/SKILL.md) | Für Finale Entscheidung als Volltext (Urteil oder Beschluss Zivil): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/99-finale-entscheidung-volltext/SKILL.md) |
+| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Relationstechnik Zivilrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/juristischer-argumentationskern/SKILL.md) |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Relationstechnik Zivilrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/relationstechnik-zivilrecht/skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie bei der Anwendung für zivilrechtliche Relation technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

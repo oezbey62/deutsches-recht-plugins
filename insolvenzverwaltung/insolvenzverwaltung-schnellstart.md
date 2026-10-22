@@ -1,0 +1,43 @@
+# 1. Insolvenzverwaltung: Befugnisse, Masse und nächste Maßnahme
+
+Leite Befugnisse aus dem Beschluss ab und erstelle den bestellten Bericht, Zahlungsvorschlag oder Brief. Paragrafen 22, 80 und 60 InsO trennen Rolle und Pflichtmaßstab. BGH, Urteil vom 12.03.2020, IX ZR 125/17: Prozess, Vergleich oder Verwertung aus damaliger Informationslage nach Gläubigerzweck, Kosten und Risiken beurteilen. Ein späterer Verlust allein beweist keine Pflichtverletzung; die aktienrechtliche Business Judgment Rule gilt deshalb nicht. Ohne weitere Skills anhand der Belege arbeiten.
+
+## 1.1. Beschluss zuerst
+
+Ohne Eingabe biete Sicherungsmaßnahme, Zahlungsvorschlag oder Verwertungsbericht an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt ausarbeiten. Neue Einzelermächtigung ändert nur den erfassten Befugniskreis; ein Eigentumsbeleg die bezeichnete Masseposition und Verwertungsrechnung. Bekanntes nicht erneut erfragen.
+
+Übernimm Schuldner, Gericht, Aktenzeichen, Bestellungs- oder Eröffnungszeitpunkt und Rolle aus Auftrag und Beschluss: vorläufige Verwaltung, Insolvenzverwaltung oder Sachwaltung. Lies den Tenor vollständig; halte Verfügungsverbot, Zustimmungsvorbehalt, Einziehungsbefugnisse und besondere Anordnungen getrennt fest. Bei einem Beschluss ohne erkennbaren Auftrag kläre die benötigte Maßnahme, statt vorsorglich sämtliche Übersichten auszugeben.
+
+Fehlt eine Beschlussanlage oder konkrete Zustimmung, frage genau danach. Bearbeite unabhängig davon belegbare Massepositionen weiter. Bereits geklärte Angaben nicht erneut aufnehmen.
+
+Nach [Paragraf 22 InsO](https://www.gesetze-im-internet.de/inso/__22.html) geht bei Bestellung mit allgemeinem Verfügungsverbot die Verwaltungs- und Verfügungsbefugnis auf den vorläufigen Verwalter über. Ohne dieses Verbot bestimmt das Gericht dessen Pflichten. Leite deshalb aus der Bezeichnung als vorläufiger Verwalter keine pauschale Alleinverfügungsbefugnis ab. Übertrage Regelverfahrensbefugnisse nicht automatisch auf Sachwaltung oder vorläufige Verwaltung.
+
+## 1.2. Massebestand nachvollziehbar erfassen
+
+Ordne Bank, Kasse, Forderungen, Vorräte, Anlagen und Rechte jeweils einem Beleg und Stichtag zu. Trenne Buchwert, Schätzwert, realisierbaren Erlös und bereits vereinnahmtes Geld. Ordne behauptetes Dritteigentum und Sicherheiten einzeln zu. Eine Maschine auf dem Betriebsgelände gehört nicht zwingend zur frei verwertbaren Masse. Bei Debitoren trenne offene Rechnung, bestrittene Forderung, Zahlung unterwegs und tatsächlich gebuchten Eingang.
+
+Erstelle einen Zahlungsplan mit Empfänger, Rechtsgrund, Leistungszeitraum, Fälligkeit, Rang, Massebezug und benötigter Freigabe. Ziehe Verfahrenskosten und sonstige Bindungen nachvollziehbar in die Deckungsprüfung ein. Ein positiver Kontostand ist keine automatische Zahlungsfreigabe. Bei drohender Unterdeckung markiere die gesonderte Prüfung von Masseunzulänglichkeit und Zahlungsreihenfolge.
+
+## 1.3. Maßnahmen auswählen
+
+Wähle nach Auftrag Sicherung, Fortführung, Forderungsprüfung, Anfechtung, Verwertung oder Bericht. Bei Fortführung erfasse tägliche Liquidität, notwendige Lieferungen, Personal und erforderliche Zustimmungen. Bei Anfechtung ordne jede Rechtshandlung ihrem Zeitpunkt, Gegenwert und Kenntnisbeleg zu; bloße Insolvenz genügt nicht als Anspruchsbegründung. Für Bericht und Prüfungstermin gelten die konkreten gerichtlichen Angaben, keine erfundene Standardfrist von vier bis sechs Wochen.
+
+Planabtretung an Sachwalter/Kanzlei: [BGH, Beschluss vom 16.07.2026 - Az. IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1), Volltext Rn. 8 bis 18: Mögliche Unwirksamkeit des vergüteten Inkassoauftrags nach Paragraf 45 BRAO/wegen Insolvenzzweckwidrigkeit erfasste die eigenständige Planzession nicht; der Auftrag vermittelte keinen Abtretungsanspruch. Mandatswirksamkeit blieb offen. Rn. 16 erlaubt Durchschlagen anderer Zweckverstöße, keine pauschal gültige Abtretung. Plantext, Abtretungsgrund, Rechtskraft und Vergütungsvereinbarung nachfordern; dann getrenntes Votum oder Einziehungsverteidigung schreiben. Paragrafen 134, 398 BGB, 228 InsO und 45 BRAO zeitbezogen prüfen; zitierte Nummer 1 nicht als heutige übernehmen. Wirksame Zession gibt keine Vergütung frei.
+
+BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach Paragraf 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des Paragrafen 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage.
+
+## 1.4. Direkt nutzbarer Output
+
+Bei Fortführungs- oder Verwertungsentscheidungen beachte BGH, Urteil vom 12.03.2020, IX ZR 125/17, [Rn. 28–39](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_125-17.pdf?__blob=publicationFile&v=1): Nach Paragraf 60 InsO sind Kosten und Risiken aus damaliger Sicht am Masseerhalt und an bestmöglicher gemeinschaftlicher Gläubigerbefriedigung zu messen. Dokumentiere Informationsstand, Finanzierung und Alternative. Paragraf 93 Absatz 1 Satz 2 AktG schafft für den Verwalter keinen entsprechenden Haftungsfreiraum. Umgekehrt beweist ein späterer Verlust allein keine Pflichtverletzung. Das Urteil betrifft unternehmerische Entscheidungen, erweitert nicht die Befugnisse eines vorläufigen Verwalters und ersetzt keine erforderliche Zustimmung.
+
+Liefere den bestellten Tagesplan, Zahlungsvorschlag, Bericht oder Brief; zusätzliche Tabellen nur für erforderliche Bestands- und Zahlungsabgleiche. Benenne bei Maßnahmen Befugnis, Beleg, Frist und zuständige Entscheidung. Entwürfe für Banken oder Drittschuldner dürfen nur tatsächlich bestehende Befugnisse behaupten.
+
+Bei einem neuen Kontoauszug Zahlungsplan und Deckung neu rechnen; bei einem Dritteigentumsnachweis die betroffene Masseposition und Verwertungsempfehlung ändern. Zeigt die Antwort einen weiteren entscheidenden Widerspruch, kläre diesen gezielt. Eine noch ausstehende Zustimmung ist kein bloßes redaktionelles Detail, die Verfügbarkeit aller Dateien keine Zahlungsfreigabe.
+
+Bei Hindernissen belegten Teil liefern, konkret nachfordern, danach Rechnung und Dokument fertigstellen. Unbekannte Unterlagen oder Zahlungen auch in Nachforderungen nicht als gesichert darstellen.
+
+## 1.5. Quellen und Grenzen
+
+Prüfe tragende InsO-Normen amtlich und Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und tragender Aussage. Quellenstatus und interne Prüfung gesondert vom Empfängerschreiben dokumentieren. Keine eigenständige Verwertung, Kontosperre, Zahlung, Freigabe, Anzeige oder Versendung.
+
+Verwende vollständige Sätze, dezimale Gliederung und bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist eine optionale Vertiefung. Ohne Recherchezugang Beschluss- und Zahlenabgleich unter benannten Vorbehalten liefern; ohne Export Text statt erfundener Dateilinks.

@@ -1,0 +1,24 @@
+---
+name: taetigkeitsabschnitt-wertigkeit-pruefen
+description: "Prüft die Tätigkeitsbeschreibung eines Arbeitszeugnisses auf Richtigkeit, Vollständigkeit, Gewichtung und Übereinstimmung mit der tatsächlich ausgeübten Funktion. Formuliert eine belegte, beruflich aussagekräftige Neufassung."
+---
+
+# Tätigkeitsabschnitt und Verantwortungsniveau prüfen
+
+## 1. Tatsachengrundlage
+
+Vergleiche den Zeugnistext mit Arbeitsvertrag, Stellenbeschreibung, tatsächlicher Aufgabenausübung, Verantwortungsumfang und Beschäftigungsdauer. Der Tätigkeitsabschnitt muss Art und Dauer der Tätigkeit richtig wiedergeben und bei einem qualifizierten Zeugnis eine verlässliche Grundlage für die berufliche Verwendbarkeit bieten. Bei seiner Ausgestaltung ist der Beurteilungsspielraum des Arbeitgebers eingeschränkt; vgl. BAG, Urteil vom 27. April 2021 – 9 AZR 262/20.
+
+Positionsbezeichnung und Branchenübung sind nur Anhaltspunkte für weitere Sachverhaltsaufklärung. Unterstelle eine Aufgabe, Budget- oder Führungsverantwortung nicht allein wegen eines Titels. Prüfe Auslassung und Reihenfolge nur danach, ob prägende, tatsächlich ausgeübte Aufgaben fehlen oder sachwidrig in den Hintergrund treten und dadurch ein objektiv unzutreffendes Bild entsteht. Ein anspruchsvoller Aufgabenkatalog trägt für sich keine bestimmte Leistungsnote.
+
+## 2. Ergebnis
+
+Lies für Aufgabenprofil und verständliche Individualisierung Kapitel 21.1 und 21.7 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Bei einem abweichenden Endzeugnis lies zusätzlich Kapitel 22 zur Zwischenzeugnisbindung; verlange nicht vorschnell neue Mehrleistungsbeweise für bereits verbindlich bewertete Zeiträume. Bei langer Unterbrechung ist Kapitel 21.8 einschlägig: Tätigkeitsdauer, Bewertungsgrundlage und zulässige Erwähnung des Grundes sind getrennte Fragen, ohne feste Prozentgrenze. Führe das Ergebnis in den konkreten Text zurück.
+
+Ordne Tätigkeiten nach tatsächlicher Bedeutung und zeitlichem Gewicht. Bei Beförderungen, Vertretungen oder wechselnden Befugnissen bilde die belegten Zeitabschnitte ab; die zuletzt erreichte Stellung gilt nicht rückwirkend für die gesamte Beschäftigung. Nenne für jede Änderung die konkrete Tatsache und den sie tragenden Aktenbeleg mit Fundstelle. Trenne die Übertragung einer Aufgabe von ihrer tatsächlichen Ausübung und ihrem Erfolg. Ein Organigramm kann die Stellung, ein Projektbericht den eigenen Beitrag belegen; keiner ersetzt ohne Prüfung den anderen.
+
+Erstelle einen vollständigen Tätigkeitsabschnitt, der Funktion, Kernaufgaben und gesicherte Verantwortung präzise abbildet, ohne werbliche Überhöhung oder unbelegte Abwertung. Erhalte zutreffende Tätigkeiten und füge keine neue Leistungsbehauptung ein, nur um eine sachliche Lücke zu schließen. Bei einer Arbeitgebergegenfassung kommt es auf denselben zutreffenden Inhalt an; bloß andere gleichwertige Wörter begründen keinen weiteren Änderungsbedarf.
+
+## 3. Fortführung des Auftrags
+
+Übernimm den Abschnitt in den laufenden Zeugnisentwurf, Prüfbericht oder das Aufforderungsschreiben. Frage nur nach einer prägenden Aufgabe oder Verantwortung, wenn deren Aufnahme oder Gewichtung davon abhängt; alle gesicherten Teile werden fertiggestellt. Nach der Antwort ergänzt du die offene Stelle und setzt ohne erneute Aufnahme fort. Eine reine Lückenliste beendet einen Auftrag zur Neufassung nicht.

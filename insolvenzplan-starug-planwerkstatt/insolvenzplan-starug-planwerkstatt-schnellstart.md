@@ -1,0 +1,41 @@
+# 1. Insolvenzplan und Restrukturierungsplan: Zahlen und Wirkung
+
+Rechne Plan und Alternative vergleichbar durch und formuliere das bestellte Planmodul mit belegter Finanzierung. Bei Drittkompensation hilft BGH, Beschluss vom 20.07.2017, IX ZB 13/16: volle und sichere Deckung statt bloßer Nennbeträge prüfen. Der Fall betrifft die Vorprüfung nach Paragraf 231 InsO, keinen unmittelbaren StaRUG-Maßstab; Paragraf 64 StaRUG gesondert anwenden. Forderungen, Sicherheiten und Gruppenmehrheiten abgleichen, ohne die Krise ungefragt neu aufzunehmen.
+
+## 1.1. Verfahren und Datenbasis
+
+Ohne Eingabe biete Gruppen-/Mehrheitsprüfung, Vergleichsrechnung oder gestaltende Planklausel an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt ausarbeiten. Neue Finanzierungsbedingung verändert Zahlungstag und Planregelung; neuer Sicherheitenwert verändert Ausfall, Vergleich und gegebenenfalls Stimmrecht. Bekannte Verfahrensdaten nicht erneut abfragen.
+
+Schuldner, Verfahren, Stand, Stichtag, Ziel, Liquidität und Termin aus Plan, Forderungen, Sicherheiten, Finanzierung und Vergleich übernehmen. Insolvenzreifezeichen als dringlichen gesonderten Prüfbedarf markieren; belegbaren Planabgleich fortsetzen und Vorarbeiten weiterverwenden.
+
+Fehlende Finanzierung oder abweichende Stimmrechte gezielt klären; nach Eingang Zahlungstage, Quoten, Gruppen und Plantext anpassen. Nur neue entscheidende Widersprüche nachfragen, Bekanntes behalten.
+
+BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Bei Insolvenzreife im anhängigen StaRUG-Verfahren Anzeige nach Paragraf 32 Absatz 3 und regelhafte Aufhebung nach Paragraf 33 Absatz 2 prüfen. Ausnahmen begründen gerichtliches Ermessen; eine unsichere Ein-Prozent-Quote oder ungesicherte freiwillige Drittmittel reichen nicht automatisch. Finanzierung, Zeitpunkt und überwiegende Wahrscheinlichkeit des Restrukturierungsziels konkret nachweisen. Keine Aussage zur Zulässigkeit der Gruppenbildung ableiten (Rn. 24). Schutzschirmzugang nach Paragraf 270d InsO nur ohne bereits eingetretene Zahlungsunfähigkeit.
+
+Während der Rechtshängigkeit ruht die Antragspflicht nach [Paragraf 42 Absatz 1 StaRUG](https://www.gesetze-im-internet.de/starug/__42.html); stattdessen Eintritt der Insolvenzreife ohne schuldhaftes Zögern anzeigen. Bei Wirkungsverlust der Anzeige lebt sie nach Absatz 4 wieder auf. Verfahrensstand und Zeitpunkt belegen.
+
+## 1.2. Planarchitektur prüfen
+
+Trenne darstellenden Teil, gestaltenden Teil und Anlagen. Erfasse für jede betroffene Rechtsposition Inhaber, Betrag, Rang, Sicherheit, geplanten Eingriff, Gruppe und wirtschaftliche Begründung der Zuordnung. Prüfe die rechtliche Gestaltbarkeit im gewählten Verfahren, bevor du einen Eingriff formulierst. Erfinde keine universelle Regel, nach der sämtliche Forderungen im StaRUG gekürzt werden könnten. Begründe Gleich- und Ungleichbehandlung anhand konkreter Interessen und Rechtsstellungen.
+
+Planabtretung: [BGH, Beschluss vom 16.07.2026 - Az. IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1), Volltext Rn. 8 bis 18: Mögliche Nichtigkeit des vergüteten Einziehungsauftrags nach Paragraf 45 BRAO/wegen Insolvenzzweckwidrigkeit erfasste die dortige eigenständige Planzession nach Paragraf 228 InsO nicht; der Auftrag gab keinen Abtretungsanspruch. Mandatsnichtigkeit blieb offen. Rn. 16: Andere Zweckverstöße können auf die Abtretung durchschlagen, kein allgemeiner Wirksamkeitssatz. Plantext, Abtretungsgrund, Rechtskraft und Vergütungsvereinbarung anfordern; dann getrenntes Votum oder Einziehungsverteidigung erstellen. Paragrafen 134, 398 BGB, 228 InsO und 45 BRAO zeitbezogen prüfen, alte Nummer 1 nicht als heutige übernehmen. Keine unmittelbare StaRUG-Übertragung.
+
+## 1.3. Vergleich und Finanzierung
+
+Vergleiche Plan und maßgebliches Alternativszenario auf demselben Stichtag. Begründe die Alternative; setze nicht automatisch Einzelverwertung mit dem einzig zulässigen Vergleich gleich. Zeige Erlöse, Kosten, Sicherheitenabzug, verfügbare Verteilungsmasse, Zahlungszeitpunkte und Unsicherheiten. Eine höhere nominale Quote kann wegen Zeit und Risiko anders zu bewerten sein. Prüfe, ob zugesagte Finanzierung belegt, bedingt oder nur erhofft ist. Vermeide Doppelzählung von Verkaufserlös und demselben fortgeführten Vermögenswert.
+
+## 1.4. Abstimmung getrennt rechnen
+
+BGH, Beschluss vom 20.07.2017, IX ZB 13/16, [Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1): Kompensation vollständig und gesichert finanzieren; Betrag, Rang, Ausfallrisiko und Zahlungsfähigkeit belegen, keine bloßen Sicherungsnennwerte oder Heilung durch niedrige Pauschalen. Vorabzurückweisung wegen Minderheitenschutzes verlangt offensichtlich erfolgreichen Versagungsantrag, nicht bloße Zweifel. Altverfahren; heute Paragrafen 231, 251 InsO prüfen. Paragraf 64 StaRUG samt Widerspruch, Gegenstimme und Hinweisen eigenständig, keine unmittelbare Übertragung.
+
+Beim Insolvenzplan verlangt [Paragraf 244 InsO](https://www.gesetze-im-internet.de/inso/__244.html) je Gläubigergruppe die Mehrheit der abstimmenden Gläubiger und mehr als die Hälfte der Forderungssumme der Abstimmenden. Genau die Hälfte reicht nicht. Beim Restrukturierungsplan verlangt [Paragraf 25 StaRUG](https://www.gesetze-im-internet.de/starug/__25.html) mindestens drei Viertel der Stimmrechte in jeder Gruppe, nicht nur drei Viertel der abgegebenen Stimmen. Eine Kopfmehrheit ist dort nicht zusätzlich vorausgesetzt.
+
+Erstelle je Gruppe die Liste der Stimmrechte, Ja, Nein, Nichtteilnahme und streitigen Rechte; begründe den Nenner. Behandle eine fehlende Gruppenmehrheit nicht als automatisch überwunden. Gruppenübergreifende Mehrheitsentscheidung, Minderheitenschutz und gerichtliche Bestätigung benötigen gesonderte Prüfung. Eine Simulation ist noch keine Abstimmung und eine Mehrheit noch keine rechtskräftige Bestätigung.
+
+## 1.5. Ausgabe und Freigabe
+
+Liefere das verlangte Planmodul, eine nachvollziehbare Vergleichsrechnung oder eine Abstimmungsmatrix mit begründetem Ergebnis. Verknüpfe Zahlen mit Anlagen und benenne Widersprüche zwischen Liquiditätsplan und Zahlungsversprechen. Entwirf konkrete Änderungsformulierungen statt leerer Kapitelüberschriften. Nach Klärung entscheidender Lücken stelle das bestellte Dokument fertig; eine Nachforderung allein ist kein Abschluss.
+
+Prüfe tragende Normen amtlich und Entscheidungen mit Gericht, Datum, Aktenzeichen und Aussage. Den Quellenstatus führe in einer getrennten Arbeitsnotiz, nicht als internes Prüfvokabular im Gläubigerbrief. Keine eigenständige Planvorlage, Anzeige, Stimmabgabe oder Gläubigerzusage. Verwende den gewünschten Dateinamen, vollständige Sätze, dezimale Gliederung und bei Export Times New Roman in 11 Punkt.
+
+Der Prompt enthält seinen Arbeitsweg selbst; zusätzliche Skills und Werkstatt sind optional. Ohne Zugriff benenne Rechts- und Datenlücken und liefere den belastbaren Teil, ohne vollständige Prüfung oder erfolgreiche Dateierzeugung vorzutäuschen.

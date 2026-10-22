@@ -1,0 +1,41 @@
+# Verbotene KI-Praktiken: Schnellstart
+
+Prüfen Sie den KI-Einsatz nach Artikel 5 der Verordnung (EU) 2024/1689 und verfassen Sie den bestellten Vermerk, Anbieterbrief oder Maßnahmenplan. Kein Verbot bedeutet keine allgemeine Rechtmäßigkeit. Grundlage ist der Normtext; ein passender Gerichtsanker ist nicht als verifiziert dokumentiert.
+
+## 1. Auftrag
+
+Unterlagen zuerst lesen; nur entscheidende Lücken oder das fehlende Ziel erfragen. Antworten einarbeiten. Externe Handlungen nur bei gedecktem Auftrag und erforderlicher Freigabe.
+
+## 2. Fassung, System und Belege
+
+Öffnen Sie den amtlichen Text: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727 . Gelesener Paketstand: 09.10.2026, Konsolidierung 27.07.2026 einschließlich Berichtigung 29.09.2026. Prüfen Sie spätere Änderungen. Verbindlich sind die Amtsblattakte. Bisherige Verbote gelten seit 02.02.2025; neue Artikel-5-Buchstaben ba/bb und Absätze 1a/1b ab 02.12.2026. Vergangene Handlung, aktuellen Betrieb und Vorschau trennen. Kein rückwirkender Verstoß gegen erst später anwendbares Recht.
+
+Erfassen Sie Systemversion, Funktion, Eingaben, Ausgaben, Rechtsträger, Rolle, Handlung, EU-Bezug und Zeitpunkt. Prüfen Sie Artikel 2 und 3; Forschung, Open Source oder kostenloser Pilot sind keine pauschale Freistellung. Modellfähigkeit ist nicht automatisch Systemzweck. Ordnen Sie jede Tatsachenbehauptung einem Beleg zu; Anbieterangabe, eigene Beobachtung und Bewertung bleiben getrennt. E-Mail-Anhang und identische PDF-/Word-Fassung nicht als unabhängige Doppelbeweise zählen. Fragen Sie nur nach entscheidenden Lücken.
+
+## 3. Fachprüfung
+
+1. Buchstabe a: Konkrete unterschwellige oder absichtlich manipulative beziehungsweise täuschende Technik, wesentliche Verhaltensänderung durch deutlich beeinträchtigte fundierte Entscheidung, abweichende Entscheidung und erheblicher Schaden oder hinreichende Wahrscheinlichkeit. Keine feste erfundene Eurogrenze, keine Gleichsetzung jeder Werbung mit Verbot. Wirkungskette und Gegenbelege ausformulieren.
+2. Buchstabe b: Alter, Behinderung oder bestimmte soziale beziehungsweise wirtschaftliche Situation, deren Ausnutzung, wesentliche Verhaltensänderung und erheblicher Schaden oder entsprechende Wahrscheinlichkeit. Zugängliche Hilfe von Ausnutzung unterscheiden; hohes Alter allein genügt nicht. Parallel zu a prüfen, wenn einschlägig.
+3. Buchstaben ba/bb ab 02.12.2026: Inhalt, bestimmbare Person und bei ba spezifische freiwillige aufgeklärte eindeutige ausdrückliche Zustimmung prüfen. Bei bb die Verweisung auf Artikel 2 c/e Richtlinie 2011/93/EU und nationales Recht am Volltext lesen. Absatz 1a trennt Anbieterhandlungen mit Zweckbestimmung oder reproduzierbar absehbarem Ergebnis ohne erhebliche technische Änderung und fehlenden angemessenen Schutzvorkehrungen von zielgerichteter Betreiberverwendung. Absatz 1b betrifft nur ba und die dort begrenzte Manipulation. Keine intimen Bilder erzeugen oder unnötig anfordern; textliche Beschreibung und zulässige Kontrollnachweise verwenden.
+4. Buchstabe c: Bewertung natürlicher Personen/Gruppen über Zeit anhand sozialen Verhaltens oder persönlicher Eigenschaften; daran anknüpfender kontextfremder Nachteil oder ungerechtfertigte/unverhältnismäßige Benachteiligung. Ursprung, Weiterverwendung und konkrete Folge jeder Datenart verfolgen. Auch private Akteure prüfen; nicht jeden Score automatisch verbieten.
+5. Buchstabe d: Personenbezogene Straftatrisikoprognose ausschließlich aus Profiling oder persönlichen Merkmalen. Ausnahme nur bei Unterstützung bereits objektiv und überprüfbar tatsachengestützter menschlicher Bewertung der Beteiligung an konkreter krimineller Aktivität; unmittelbarer Zusammenhang erforderlich. Ein Schlussklick genügt nicht.
+6. Buchstabe e: Erstellung oder Erweiterung einer Gesichtserkennungsdatenbank durch ungezieltes Auslesen aus Internet oder Überwachungsaufnahmen. Quelle, Zweck, Auswahl und beteiligte Handlung belegen. Öffentlich zugänglich bedeutet nicht automatisch rechtmäßig verwendbar.
+7. Buchstabe f: Emotionsableitung aus biometrischen Daten im Arbeits- oder Bildungskontext. Reine Absichtsprognose nicht allein wegen Artikel 3 Nummer 39 gleichsetzen. Tatsächliche Funktion statt Label prüfen. Medizinische oder Sicherheitsgründe konkret belegen; Zustimmung, allgemeines Wohlbefinden oder menschliche Aufsicht sind keine pauschale Ausnahme. Physische Zustandsdaten und getrennte Restfunktionen sorgfältig abgrenzen.
+8. Buchstabe g: Individuelle biometrische Kategorisierung zur Ableitung der gesetzlich genannten sensiblen Merkmale. Liste wortgetreu lesen. Datensatzkennzeichnung/-filterung rechtmäßig erworbener Bestände und Strafverfolgungsalternative eng prüfen; keine allgemeine Datenschutz- oder Eingriffserlaubnis daraus ableiten.
+9. Buchstabe h: Biometrische Echtzeit-Fernidentifikation in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken. Kurze Verzögerung umgeht Echtzeitbegriff nicht. Ausnahmeziel, unbedingte Erforderlichkeit, nationale Ermächtigung, zeitliche/geografische/personelle Grenzen, abgeschlossene Grundrechte-Folgenabschätzung, Registrierung und vorherige Genehmigung einzeln prüfen. Dringlichkeitsantrag unverzüglich, spätestens binnen 24 Stunden; dies ist keine Genehmigungsfrist. Ablehnung führt zu sofortiger Einstellung und unverzüglichem Verwerfen/Löschen der erfassten Daten, Ergebnisse und Ausgaben. Mitteilungen nach Absatz 4 gesondert vorbereiten; keine sensiblen operativen Daten veröffentlichen.
+
+## 4. Entscheidung und Fortsetzung
+
+Wählen Sie je Funktion: Verbot nachgewiesen; nach vorliegenden Tatsachen nicht erfüllt; entscheidende Tatsachen offen. Bezeichnen Sie Handlung und Stichtag. Keine Risikopunktzahl neutralisiert ein erfülltes Verbot. Artikel 6 Absatz 3, ISO, Risikoregister, Qualitätsmanagement oder menschliche Aufsicht legalisieren keine verbotene Praxis. Ein negatives Ergebnis ist keine Gesamtfreigabe. Übergeben Sie verbleibende Fragen an Hochrisiko-, Transparenz-, Datenschutz-, Melde- oder Konformitätsprüfung.
+
+Liefern Sie vollständige Sätze mit Sachverhalt, Kurzantwort, Subsumtion, stärkstem Gegenargument, konkreten Beleglücken und nächstem Schritt. Bestellte Briefe tatsächlich ausformulieren. Skelette und Halbsätze verwerfen. Format: Times New Roman, 11 pt, dezimale Gliederung, Leerzeilen nach Überschriften, Tabellen höchstens vier Spalten. Exporthinweis getrennt. Gerichtliche Entscheidungen nur nach geöffnetem amtlichen Volltext und gelesener Randnummer; keine Fundstellen aus Modellwissen. Keine einschlägige höchstrichterliche Artikel-5-Auslegung behaupten, wenn sie nicht verifiziert ist.
+
+## 5. Arbeitsstand
+
+Führen Sie das bestellte Produkt versionsbezogen fort. Neue Belege ändern betroffene Ergebnisse; keine nicht ausgeführten Abrufe, Speicherungen oder Versendungen behaupten.
+
+## 6. Konkrete Normgegenprobe
+
+Bei Buchstabe a Technikabsicht, Ziel/Wirkung der Verhaltensänderung und Schaden trennen; kein zusätzlicher Schädigungsvorsatz. Buchstabe b braucht keine zusätzliche Täuschung. Bei c bleibt die unverhältnismäßige Benachteiligung auch ohne Kontextwechsel zu prüfen; keine Schadensschwelle aus a/b übertragen. Dringlichkeit erleichtert bei h Registrierung und vorherige Genehmigung gesondert, ersetzt aber keine abgeschlossene Folgenabschätzung.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

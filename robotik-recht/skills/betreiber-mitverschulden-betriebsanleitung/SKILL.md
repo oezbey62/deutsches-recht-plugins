@@ -1,0 +1,97 @@
+---
+name: betreiber-mitverschulden-betriebsanleitung
+description: "Für Betreiber-Mitverschulden und Fehlbedienung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: betreiber-mitverschulden-betriebsanleitung."
+---
+
+# Betreiber-Mitverschulden und Fehlbedienung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028; Maschinenverordnung ab 20.01.2027 und Produkthaftungsrichtlinien-Umsetzung bis 09.12.2026 getrennt prüfen. Keine pauschale 15-Tage-Frist: Artikel 73 nach Ereignis, Pflichtadressat und Geltungsbeginn prüfen.
+- Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Betreiber-Mitverschulden und Fehlbedienung
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+
+## Worum geht es konkret
+
+Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich davon ab, ob der Betreiber die Anleitung beachtet, Wartung dokumentiert, Schutzfunktionen aktiv gelassen und Personal geschult hat. Aus Sicht des Herstellers ist Mitverschulden des Betreibers oft die einzige Möglichkeit, der vollen ProdHaftG-Haftung zu entgehen. Aus Sicht des Betreibers (oder seines Geschädigten) wird umgekehrt geprüft, ob der Hersteller seinen Pflichten zur "vernünftigerweise vorhersehbaren Fehlanwendung" (Art. 6 MaschinenVO; § 3 ProdSG; Art. 9 KI-VO) genügt hat. Liefere das Prüfschema, eine Indizienliste und Vorlagen für Schriftsätze.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+1. **Rolle:** Hersteller-Verteidigung, Betreiber-Anspruchsdurchsetzung, Versicherer, Geschädigter, Sachverständiger.
+2. **Vorfall:** Personenschaden, Sachschaden, Produktionsausfall, Datenpanne durch Fehlbedienung.
+3. **Robotertyp und Schutzkonzept:** Welche Schutzfunktionen sind vorhanden, welche aktiv im Vorfall?
+4. **Schulungs- und Wartungsstand:** Aktuell? Dokumentiert?
+5. **Unterlagen:** Anleitung, Risikobeurteilung, Wartungsprotokolle, Schulungsnachweise, Logs, Fotos, Zeugenaussagen, Vorfallbericht.
+
+## Rechtlicher Rahmen
+
+- **§ 254 BGB** Mitverschulden.
+- **§ 6 Abs. 1 ProdHaftG** Haftungsausschluss; **§ 6 Abs. 3 ProdHaftG** Mitverschulden.
+- **VO (EU) 2024/2853** (neue ProdHaftRL, Geltung 09.12.2026): Art. 13 Abs. 2 Beweiserleichterungen; Art. 11 Haftungsbefreiung des Wirtschaftsakteurs.
+- **MaschinenVO** VO (EU) 2023/1230 Anhang III Nr. 1.7 Information, Nr. 1.1.2(c) vernünftigerweise vorhersehbare Fehlanwendung.
+- **Artikel 9 Absatz 2 Buchstabe b und Absatz 3 KI-Verordnung:** Risiken bei bestimmungsgemäßer Verwendung und vernünftigerweise vorhersehbarer Fehlanwendung im geregelten Umfang untersuchen. Absatz 4 betrifft das Zusammenspiel der Anforderungen; er ist keine eigenständige allgemeine Warnpflicht. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **§ 823 BGB** Verkehrssicherungspflichten beider Seiten.
+- **ArbSchG**, **BetrSichV** Betreiberpflichten zur Unterweisung und Wartung.
+
+## Schritt für Schritt
+
+1. **Tatsachen sammeln** chronologisch; nicht bewerten, sondern fixieren.
+2. **Logs auswerten.** Wer hat wann welche Funktion benutzt? Wurde ein Schutzkreis gebrückt? Welche Software-Version?
+3. **Anleitung prüfen** auf konkrete Warnungen und Pflichten: Wartungsintervalle, Schulungserfordernisse, bestimmungsgemäße Verwendung.
+4. **Vorhersehbarkeit der Fehlanwendung.** Wurde sie in der Risikobeurteilung des Herstellers berücksichtigt? Falls nein: Hersteller-Pflichtverletzung.
+5. **Betreiberorganisation.** § 130 OWiG-Analyse: Aufsichtspflicht-Verletzung? Verantwortliche Person benannt?
+6. **Mitarbeiter-Verhalten.** Schulungsstand, Unterweisungsnachweise; Anweisungslage; Druck/Stress als Erklärungsfaktor.
+7. **Mitverschuldensquote.** Vorschlag erarbeiten unter Berücksichtigung BGH-Rspr. zu § 254 BGB; ggf. gestuft (Vollverschulden Betreiber 100 %, anteilig 30/70, etc.).
+8. **Schriftsatz / Memo.** Trennung Tatsachen, technische Bewertung, rechtliche Würdigung; Sachverständigenbeweis vorschlagen.
+
+## Trade-off-Matrix
+
+| Argument Hersteller | Pro | Contra | Gegenstrategie Betreiber |
+|---|---|---|---|
+| Anleitung nicht befolgt | klar dokumentiert | "Anleitung war 250 Seiten, intransparent" | KISS-Prinzip; Quick-Start-Guide |
+| Schutzfunktion deaktiviert | Logspur sichtbar | "Werkseitig deaktiviert" / "vom Servicetechniker" | Verantwortlichkeitsketten dokumentieren |
+| Mitarbeiter unqualifiziert | Schulungsnachweise fehlen | "Hersteller hat keine Schulung angeboten" | Schulungsangebot vertraglich vereinbaren |
+| Wartung versäumt | Lücke im Plan | "Hersteller-Service nicht verfügbar" | SLA prüfen; Wartungstickets archivieren |
+
+## Praxistipps
+
+- **Logs sofort sichern** (Schreibsperre, Hash) – nicht überschreiben lassen.
+- **Brücken/Bypässe** physisch fotografieren.
+- **Schulungsnachweise** mit Datum und Unterschrift; nicht nur Listenhaken.
+- **Wartungsverträge** auf SLA prüfen; bei verspäteter Wartung des Herstellers ist Mitverschulden des Betreibers reduziert.
+- **Sachverständiger** mit Robotik-Erfahrung wählen, nicht nur Maschinenbau-Generalist.
+
+## Mustertexte
+
+**Auszug Klageschrift Geschädigter (Replik auf Mitverschuldensvortrag):**
+
+> Soweit die Beklagte einwendet, der Kläger habe Schutzfunktionen umgangen, ist dies sachlich unzutreffend. Ausweislich des Wartungsprotokolls vom 12.03.2026 (Anlage K12) wurde die Schutzfunktion durch die von der Beklagten beauftragte Service-Firma am 10.03.2026 deaktiviert und nicht wieder aktiviert. Die Verantwortung hierfür trifft den Hersteller im Wege der Erfüllungsgehilfenhaftung § 278 BGB. Die "vernünftigerweise vorhersehbare Fehlanwendung" gemäß Art. 6 MaschinenVO umfasste zudem den hier vorliegenden Fall; die Risikobeurteilung der Beklagten (Anlage K7, S. 23) selbst weist hierauf hin, ohne hinreichende Gegenmaßnahmen vorzusehen.
+
+**Vermerkpassage Versicherer (Anteil 30/70):**
+
+> Die fiktiven Logs vom 02.04.2026 belegen zunächst Softwarestand und Warnungsablauf. Eine Haftungsquote wird erst nach Prüfung von Kausalität, Zumutbarkeit des Updates und tatsächlichen Instruktionen begründet. Artikel 9 Absatz 4 KI-Verordnung ist keine eigenständige allgemeine Hinweispflicht. Soweit sachlich und zeitlich anwendbar, Artikel 9 Absatz 5 Buchstabe c und Artikel 13 prüfen; produkt- und deliktsrechtliche Instruktionspflichten gesondert herleiten. Ohne diese Prüfung keine scheinpräzise Prozentquote.
+
+## Typische Fehler
+
+- **Anleitung als "Schutzwall"** für Hersteller, ohne deren tatsächliche Lesbarkeit zu prüfen.
+- **Wartungslücken pauschal** dem Betreiber zugerechnet, obwohl Hersteller-Service nicht verfügbar war.
+- **Logs nicht gesichert** – Beweismittel ist überschrieben.
+- **"Vernünftigerweise vorhersehbare Fehlanwendung"** unterschätzt im Hersteller-Risikomanagement.
+- **§ 130 OWiG-Verantwortlicher** nicht benannt – Betreiberorganisation angreifbar.
+
+## Quellen Stand 06/2026
+
+- § 254 BGB; § 823 BGB; § 278 BGB.
+- ProdHaftG § 6.
+- VO (EU) 2024/2853 (neue ProdHaftRL), Art. 11, 13.
+- VO (EU) 2023/1230 (MaschinenVO), Art. 6, Anhang III.
+- VO (EU) 2024/1689 (KI-VO), Art. 9.
+- ArbSchG; BetrSichV; § 130 OWiG.
+- Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de, dejure.org; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

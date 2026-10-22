@@ -1,0 +1,45 @@
+---
+name: brao-zahlen-schwellenwerte-berechnung
+description: "Für BRAO: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: brao-zahlen-schwellenwerte-berechnung."
+---
+
+# Brao: Zahlen, Schwellenwerte und Berechnung
+
+## Spezialwissen: Brao: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BRAO** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Zentrale Schwellen und Sanktionen
+- **§ 43e BRAO** (Inanspruchnahme von Dienstleistungen — Schweigepflicht): Verpflichtung des Dienstleisters zur Verschwiegenheit; Verstoß ist Pflichtwidrigkeit, anwaltsgerichtlich verfolgt nach §§ 113 ff. BRAO.
+- **§ 113 BRAO**: Verweisung, Geldbuße bis 25.000 EUR, befristetes Berufsverbot bis 5 Jahre, Ausschließung aus der Anwaltschaft.
+- **§ 50 BRAO** (Aktenführung): 6 Jahre Aufbewahrungspflicht nach Beendigung des Auftrags; bei elektronischer Ablage gleicher Sorgfaltsmaßstab.
+- **§ 51 BRAO** (Berufshaftpflicht): Mindestversicherungssumme 250.000 EUR je Versicherungsfall, jährliche Mindestleistung das Vierfache. KI-bedingte Pflichtverletzungen sind grundsätzlich gedeckt, wenn nicht ausgeschlossen.
+- **§ 203 StGB** (Verletzung von Privatgeheimnissen): Freiheitsstrafe bis 1 Jahr oder Geldstrafe; Abs. 4 — qualifizierte Tatbestände bis 5 Jahre.
+
+## Schwellen in anderen Berufsordnungen
+- **§ 62a StBerG** (Steuerberater — Inanspruchnahme Dienstleistungen mit Geheimnisbezug): Ahndung nach § 89 StBerG; bei vorsätzlichem Verstoß auch berufsgerichtlich.
+- **§ 50a WPO** (Wirtschaftsprüfer): Verschwiegenheitserstreckung auf Dienstleister; § 64 WPO-Sanktionen.
+- **§ 26a BNotO**: Notare; Sanktion über § 50 BNotO.
+- **§ 39c PAO**: Patentanwälte; Sanktion über § 80 PAO.
+
+## Berechnungs-Trade-off
+Berufshaftpflicht wird typischerweise nach Sozietätsgröße und Schadensvolumen kalkuliert; KI-Einsatz erhöht die Schadensanfälligkeit, kann aber durch Hinweispflicht (Aufklärung des Mandanten) abgemildert werden. Versicherer fragen zunehmend nach Tool-Inventar; falsche Angabe kann Leistungsfreiheit auslösen (§ 19 VVG).
+
+## Bußgeldrahmen DSGVO (parallel anwendbar)
+Datenschutz- und KI-Sanktionen getrennt nach Tatbestand, Rolle, Zeitraum und Konkurrenzregeln prüfen. Artikel 99 Absatz 3 KI-Verordnung betrifft Artikel-5-Verstöße, Absatz 4 die dort genannten weiteren Pflichten. Höchstbeträge nicht mechanisch addieren; Absätze 6 und 6a enthalten Unternehmensgrößen-Sonderregeln. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

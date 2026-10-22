@@ -1,0 +1,130 @@
+# Fahrgastrechte
+
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
+
+Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.
+
+Dieses Plugin gehört zum Marketplace mit 308 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+
+## Welche Datei wofür? / Which file should I use?
+
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`fahrgastrechte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fahrgastrechte.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/fahrgastrechte.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/fahrgastrechte-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/fahrgastrechte-schnellstart.md) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
+
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
+
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
+
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/fahrgastrechte.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
+
+## In 30 Sekunden starten
+
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../skills-index/fahrgastrechte.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+
+Startsatz für Fahrgastrechte:
+
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
+
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
+
+## Downloads
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fahrgastrechte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fahrgastrechte.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`fahrgastrechte-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/fahrgastrechte-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`fahrgastrechte-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/fahrgastrechte-werkstatt.md) |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 308 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+<!-- END direkt-loslegen (autogen) -->
+
+Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
+Fahrgastrechte im Eisenbahnverkehr selber geltend machen — VO (EU) 2021/782 plus EVO 2023 plus DB-Beförderungsbedingungen. Tickets erfassen Verspätung oder Zugausfall einordnen Entschädigung berechnen (25/50 Prozent ab 60/120 Minuten) Forderung an die DB Widerspruch gegen die Ablehnung Schlichtungsstelle Reise & Verkehr e.V. (vormals söp) und Klage zum Amtsgericht. Vollmacht für Mitreisende. Katalog typischer DB-Ablehnungsgründe mit Gegenargumenten.
+
+## Installation in der Plugin-Umgebung
+
+1. ZIP herunterladen (Link oben).
+2. Plugin-Menü öffnen, `Upload plugin` wählen und die Datei auswählen.
+3. Plugin aktivieren und eine neue Aufgabe öffnen; den passenden Skill ausdrücklich auswählen.
+
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
+
+## Worum geht es?
+
+Aus Ticket, Reiseverlauf und Kostenbelegen entsteht eine bezifferte Forderung oder eine Antwort auf die Ablehnung der Bahn. Artikel 19 VO (EU) 2021/782 sieht grundsätzlich 25 Prozent des maßgeblichen Fahrpreises bei 60 bis 119 Minuten und 50 Prozent ab 120 Minuten Zielverspätung vor. Ein Zugausfall allein begründet noch keinen solchen Anspruch: Fahrpreiserstattung nach Artikel 18 und die Ausnahmen in Artikel 19 Absatz 9 und 10 sind gesondert zu prüfen. Das Plugin begleitet den beauftragten Weg vom Forderungsschreiben über Schlichtung bis zur Klage; vorhandene Reisedaten werden nicht erneut abgefragt.
+
+Das Plugin richtet sich an Verbraucher, die ihre Ansprüche selbst durchsetzen wollen, sowie an Anwälte, die Fahrgäste vertreten.
+
+## Lizenz
+
+Apache-2.0 OR MIT — Auswahl beim Empfänger.
+
+## Quellen-Disclaimer
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Entscheidungen sind vor tragender Verwendung anhand des zugänglichen gerichtlichen Volltexts zu prüfen; fehlender Zugriff bleibt sichtbar. Gesetze-im-Internet ist eine Normquelle, keine Datenbank für Amtsgerichtsurteile.
+
+Punktueller Quellenabgleich am 16.10.2026: [VO (EU) 2021/782, Artikel 18 bis 20](https://eur-lex.europa.eu/eli/reg/2021/782/oj/deu), amtlich indexierte Textpassagen zu Anspruchstrennung und Entschädigungsausnahmen gelesen. Der direkte Seitenabruf war zugangsbeschränkt. Keine neue Vollprüfung der Verordnung, Unternehmensbedingungen oder historischen EuGH-Entscheidung.
+
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
+
+English: Skills are grouped by typical work phase. Clicking a skill downloads its Markdown file; the complete alphabetical list remains below.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 1. Einstieg und Fallrouting | [`kaltstart-triage`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/kaltstart-triage/SKILL.md) |
+| 2. Unterlagen, Sachverhalt und Quellen | [`ticket-und-reisedaten-erfassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/ticket-und-reisedaten-erfassen/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/juristischer-argumentationskern/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`klage-amtsgericht-fahrgast`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/klage-amtsgericht-fahrgast/SKILL.md), [`widerspruch`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/widerspruch/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`anlagen-bauen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/anlagen-bauen/SKILL.md), [`db-ablehnungsgruende-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/db-ablehnungsgruende-pruefen/SKILL.md), [`eigenbefoerderung-und-betreuung-art-18`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/eigenbefoerderung-und-betreuung-art-18/SKILL.md), [`einfuehrung-vo-2021-782`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/einfuehrung-vo-2021-782/SKILL.md), [`entschaedigung-berechnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/entschaedigung-berechnen/SKILL.md), [`forderung-an-db-erste-stufe`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/forderung-an-db-erste-stufe/SKILL.md), [`schlichtung-reise-verkehr-anrufen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/schlichtung-reise-verkehr-anrufen/SKILL.md), [`verspaetung-und-anschlussverlust-einordnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/verspaetung-und-anschlussverlust-einordnen/SKILL.md), [`vollmacht-mitreisende`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/vollmacht-mitreisende/SKILL.md) |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Überblick
+
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+
+English: Complete list of all 14 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+
+| Skill | Beschreibung | Markdown-Download |
+| --- | --- | --- |
+| [`anlagen-bauen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/anlagen-bauen/SKILL.md) | Für Fahrgastrechte — Anlagen bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/anlagen-bauen/SKILL.md) |
+| [`db-ablehnungsgruende-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/db-ablehnungsgruende-pruefen/SKILL.md) | Für Katalog der DB-Ablehnungsgründe und Gegenargumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/db-ablehnungsgruende-pruefen/SKILL.md) |
+| [`eigenbefoerderung-und-betreuung-art-18`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/eigenbefoerderung-und-betreuung-art-18/SKILL.md) | Für Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/eigenbefoerderung-und-betreuung-art-18/SKILL.md) |
+| [`einfuehrung-vo-2021-782`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/einfuehrung-vo-2021-782/SKILL.md) | Für Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/einfuehrung-vo-2021-782/SKILL.md) |
+| [`entschaedigung-berechnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/entschaedigung-berechnen/SKILL.md) | Für Entschädigung berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/entschaedigung-berechnen/SKILL.md) |
+| [`forderung-an-db-erste-stufe`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/forderung-an-db-erste-stufe/SKILL.md) | Für Forderungsschreiben — Erste Stufe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/forderung-an-db-erste-stufe/SKILL.md) |
+| [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Fahrgastrechte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/juristischer-argumentationskern/SKILL.md) |
+| [`kaltstart-triage`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/kaltstart-triage/SKILL.md) | Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fahrgastrechte. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/kaltstart-triage/SKILL.md) |
+| [`klage-amtsgericht-fahrgast`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/klage-amtsgericht-fahrgast/SKILL.md) | Für Klage zum Amtsgericht (Fahrgastrechte): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/klage-amtsgericht-fahrgast/SKILL.md) |
+| [`schlichtung-reise-verkehr-anrufen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/schlichtung-reise-verkehr-anrufen/SKILL.md) | Für Schlichtungsstelle Reise & Verkehr e.V. anrufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/schlichtung-reise-verkehr-anrufen/SKILL.md) |
+| [`ticket-und-reisedaten-erfassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/ticket-und-reisedaten-erfassen/SKILL.md) | Für Ticket- und Reisedaten erfassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/ticket-und-reisedaten-erfassen/SKILL.md) |
+| [`verspaetung-und-anschlussverlust-einordnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/verspaetung-und-anschlussverlust-einordnen/SKILL.md) | Für Verspätung, Zugausfall oder Anschlussverlust einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/verspaetung-und-anschlussverlust-einordnen/SKILL.md) |
+| [`vollmacht-mitreisende`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/vollmacht-mitreisende/SKILL.md) | Für Vollmacht für Mitreisende: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/vollmacht-mitreisende/SKILL.md) |
+| [`widerspruch`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/widerspruch/SKILL.md) | Für Fahrgastrechte-Widerspruch — Skill: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/skills/widerspruch/SKILL.md) |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

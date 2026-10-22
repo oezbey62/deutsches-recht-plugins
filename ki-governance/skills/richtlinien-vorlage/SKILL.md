@@ -1,0 +1,204 @@
+---
+name: richtlinien-vorlage
+description: "Für digitale Werkzeuge-Richtlinien-Starter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+---
+
+# KI-Richtlinien-Starter
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Praxisprofil aus `CLAUDE.md` (KI-Rolle, regulatorischer Fußabdruck,
+ bestehendes Register, Governance-Team, ggf. bestehende Richtlinie)
+- Scopegespräch: welche Abschnitte? welche Zielgruppe? welcher Kontext?
+
+## Rechtlicher Rahmen
+
+**Kernvorschriften**
+
+- Artikel 4 der Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Anbieter und Betreiber treffen kontextgerechte Maßnahmen zur Kompetenzförderung. Die Richtlinie legt passende Einweisungen, Ansprechpartner und anlassbezogene Nacharbeit fest, garantiert aber kein bestimmtes individuelles Kompetenzniveau und erfindet keine allgemeine Zertifikatspflicht.
+- **AI Act Art. 9 KI-VO**: Risikomanagementsystem für Hochrisiko-KI; interne
+ Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben.
+- **AI Act Art. 26/29 KI-VO**: Betreiberpflichten — menschliche Aufsicht,
+ Protokollierung, Meldeobliegenheiten; müssen in der Richtlinie operationalisiert
+ werden.
+- **DSGVO Art. 22**: Vollautomatisierte Einzelentscheidungen nur unter Art. 22
+ Abs. 2 lit. a–c zulässig; Richtlinie muss Rechtsgrundlage und
+ Widerspruchsrecht klären.
+- **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmungsrecht des Betriebsrats bei KI-
+ Tools zur Mitarbeiterüberwachung/-bewertung; vor Richtlinienabschnitt prüfen.
+- **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Eingabe
+ vertraulicher Daten in externe KI-Systeme.
+- **UrhG § 44b**: Text-und-Data-Mining-Schranke; relevant bei KI-Training.
+
+**Leitentscheidungen**
+
+ Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
+ Entscheidungen operationalisieren.
+ pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
+ Mitarbeiterbewertung.
+
+**Kommentare**
+
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+ (KI-Kompetenzverpflichtung; interne Richtliniengestaltung).
+- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 1 ff.
+- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.
+ (Mitbestimmung bei KI-Tools).
+- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
+ Teil IV Rn. 100 ff. (Compliance-Anforderungen für KI-Nutzungsrichtlinien).
+
+*Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
+
+## Ablauf
+
+**Schritt 1 — Praxisprofil laden**
+
+`CLAUDE.md` lesen. Wenn `## KI-Richtlinien-Verpflichtungen` ausgefüllt:
+Update-Modus (bestehende Richtlinie als Basis). Wenn leer: Erstfassung.
+
+**Schritt 2 — Scopegespräch (VOR dem Entwurf)**
+
+> **Welche Abschnitte soll die KI-Richtlinie enthalten?**
+> 1. Anwendungsbereich (wer, welche Tools, welche Daten)
+> 2. Erlaubte und verbotene Nutzungen (inkl. Art. 5 KI-VO-Verbote)
+> 3. Freigabe und Prüfung (Genehmigungsworkflow)
+> 4. Offenlegung (Kunden, Mitarbeiter, Dritte; DSGVO Art. 13/14)
+> 5. Datenhandhabung (vertrauliche Daten, Anbieter-Training; GeschGehG)
+> 6. Angemessene Kompetenzmaßnahmen und deren interne Dokumentation nach Artikel 4; keine allgemeine Zertifikatspflicht.
+> 7. Vorfälle und Meldung (Art. 73 KI-VO Betreiber-Meldeobliegenheiten)
+> 8. Durchsetzung (Verweis auf Disziplinarrahmen)
+> 9. Überprüfungsrhythmus und Verantwortung (mind. jährlich)
+> 10. Glossar (Hochrisiko-KI gem. Anhang III, DSGVO Art. 22, GeschGeh usw.)
+>
+> Empfohlenes Startpaket für Erstfassungen: 1, 2, 3, 4, 5, 9.
+
+Dann: Zielgruppe (alle MA / Rechtsabteilung / mit Betriebsrat?) und
+Anwendungskontext (Unternehmen / Konzern / Kanzlei / Behörde).
+
+**Schritt 3 — Musterquellen recherchieren**
+
+Aktuelle veröffentlichte Muster-KI-Richtlinien und Leitlinien suchen:
+- Deutschland/EU: Artikel 4 (Kompetenzmaßnahmen), Artikel 9 (Anbieter-Risikomanagement), Artikel 26 (Hochrisiko-Betreiber) nach Rolle und Datum; DSGVO und Beschäftigtenmitbestimmung eigenständig prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+ (Art. 22 DSGVO); DSK-Orientierungshilfen; BSI-Empfehlungen; Bitkom/DAV-
+ Leitlinien; veröffentlichte Unternehmensrichtlinien aus DAX-Umfeld.
+- Jeden verwendeten Quellennachweis im **Quellenblock** dokumentieren:
+ Name, URL, Zugriffsdatum, was der Entwurf daraus entnommen hat.
+
+**Schritt 4 — Entwurf erstellen**
+
+Kopfzeile:
+```
+ENTWURF ZUR INTERNEN RECHTLICHEN PRÜFUNG — NICHT ZUR VERTEILUNG
+Erstellt für: [Unternehmensname] | Datum: [heute]
+Nicht zur Beschlussfassung bis von [Syndikusrechtsanwalt / GC / Compliance
+Officer] geprüft, angepasst und freigegeben.
+```
+
+Für jeden Abschnitt: materielle Regeln aus Musterquellen, inline-
+Quellenattribution, jeder Schwellenwert/Tool/Anbieter/Kontakt als `[prüfen]`.
+
+Freigabe-Checkliste am Ende:
+- [ ] Syndikusrechtsanwalt / GC `[prüfen — Name]`
+- [ ] IT / Informationssicherheit `[prüfen]`
+- [ ] HR (für Durchsetzungs-/Schulungsabschnitte) `[prüfen]`
+- [ ] Betriebsrat (§ 87 Abs. 1 Nr. 6 BetrVG) `[prüfen — erforderlich?]`
+- [ ] Datenschutzbeauftragter (Art. 38 Abs. 1 DSGVO) `[prüfen]`
+- [ ] Inkrafttretungsdatum und Überprüfungsrhythmus `[prüfen]`
+
+## Beispiel
+
+**Anfrage:** KI-Richtlinie für 200-Personen-Unternehmen mit Betriebsrat,
+Abschnitte 1, 2, 3, 5 und 9. **Vorgehen:** Betreiberrolle, Deutschland;
+Artikel 4 und gegebenenfalls Artikel 26 KI-Verordnung rollenbezogen prüfen; Artikel 29 betrifft den Antrag einer Konformitätsbewertungsstelle auf Notifizierung. Datenschutz und Mitbestimmung gesondert. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+Abschnitt 3 (Freigabe): Hinweis, dass neue KI-Tools ggf. Betriebsrats-
+Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]`.
+
+## Risiken und typische Fehler
+
+- Richtliniensprache erfinden: jede materielle Regel aus einer Quelle
+ belegen oder `[prüfen — adaptiert, keine Direktquelle]` kennzeichnen.
+- Schwierige Entscheidungen vorwegnehmen: das ist ein `[prüfen]`, keine
+ empfohlene Position.
+- § 87 BetrVG vergessen: bei Unternehmen mit Betriebsrat immer prüfen.
+- Scope-Gespräch überspringen: "einfach alles" ist die Hauptfehlerquelle.
+
+## Quellenpflicht
+
+- **KI-Verordnung:** Artikel 4, Artikel 9 nur im zutreffenden Anbieterpfad und Artikel 26 nur im zutreffenden Betreiberpfad. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **DSGVO Art. 22** bei automatisierten Entscheidungen.
+- **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
+- **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
+ Entscheidungen.
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
+- **Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.**
+
+## Triage zu Beginn
+1. Existiert bereits eine KI-Nutzungsrichtlinie — vollstaendig oder veraltet (vor KI-VO 2024)?
+2. Welche Zielgruppe soll die Richtlinie adressieren — alle Mitarbeiter, IT, Fachabteilungen?
+3. Ist ein Betriebsrat vorhanden — ist § 87 Abs. 1 Nr. 6 BetrVG-Mitbestimmung einzuholen?
+4. Welche KI-Systeme sind bereits im Einsatz — Inventar aus ki-inventar-Skill vorhanden?
+5. Welches regulatorische Regime ist massgeblich — KI-VO Hochrisiko, DSGVO Art. 22, DSA?
+
+## Output-Template — KI-Nutzungsrichtlinie (Entwurf)
+**Adressat:** Alle Mitarbeiter / Geschaeftsleitung — Tonfall: klar, verbindlich, anwaltlich pruefbeduerftig
+```
+KI-NUTZUNGSRICHTLINIE
+[UNTERNEHMEN] — Version [VERSIONSNUMMER] — Stand: [DATUM]
+ENTWURF — VOR EINSATZ ANWALTLICHE PRUEFUNG ERFORDERLICH
+
+§ 1 Geltungsbereich und Zweck
+Diese Richtlinie gilt für alle Mitarbeiter von
+[NAME MANDANT] beim Einsatz von KI-Systemen im Rahmen ihrer Taetigkeit.
+Zweck ist die Sicherstellung eines rechtssicheren, transparenten und
+verantwortungsvollen KI-Einsatzes gemaess KI-VO (VO 2024/1689) und DSGVO.
+
+§ 2 Freigegebene KI-Systeme
+Folgende KI-Systeme sind für den Einsatz freigegeben:
+- [SYSTEM 1]: zulaessige Verwendungszwecke
+- [SYSTEM 2]: zulaessige Verwendungszwecke
+
+§ 3 Verbotene Praktiken (Art. 5 KI-VO)
+Der Einsatz von KI-Systemen für folgende Zwecke ist absolut verboten: [...]
+
+§ 4 Menschliche Aufsicht (Art. 26 KI-VO)
+Bei Hochrisiko-Anwendungen ist eine menschliche Pruefung vor jeder
+Entscheidung sicherzustellen. Vollautomatisierte Entscheidungen nach
+Art. 22 DSGVO sind nur nach Freigabe durch [ROLLE] zulaessig.
+
+§ 5 Datenschutz und Vertraulichkeit
+Personenbezogene und vertrauliche Daten duerfen nur in KI-Systeme
+eingegeben werden, für die ein AVV nach Art. 28 DSGVO besteht.
+
+§ 6 Meldepflichten
+Sicherheitsvorfaelle und Probleme mit KI-Ausgaben sind unverzueglich
+an [ANSPRECHPARTNER] zu melden.
+
+§ 7 Schulung
+Alle Mitarbeiter, die KI-Systeme einsetzen, besuchen die verpflichtende
+Intern vereinbarte Kompetenzmaßnahme bis [DATUM] durchführen; dieser Termin ist keine gesetzlich bestimmte Schulungsfrist aus Artikel 4 KI-Verordnung.
+
+Ansprechpartner KI-Governance: [NAME, EMAIL]
+Datenschutzbeauftragter: [NAME, EMAIL]
+
+[DATUM] — [UNTERSCHRIFT GESCHAEFTSFUEHRUNG]
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

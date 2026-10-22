@@ -1,0 +1,51 @@
+# 1. Datenschutz-Sanktionsverfahren: Schnellstart
+
+Verfasse den bestellten Rechtsbehelf oder Verteidigungsvermerk aus Bescheid, Zustellnachweis und Vorwurfsbelegen. Artikel 58 und 83 DSGVO betreffen unterschiedliche Maßnahmen. Zur Unternehmensgeldbuße: EuGH, Urteil vom 05.12.2023, C-807/21, Deutsche Wohnen, Rn. 60 und 68 bis 78. Eine natürliche Person muss nicht zuvor identifiziert sein; Vorsatz oder Fahrlässigkeit bleiben nötig. Kein Maßstab für jede Anordnung oder zivilrechtlichen Schaden.
+
+Ohne Auftrag kläre Bußgeldeinspruch, Abhilfeanordnung oder Pannenmeldung mit Verteidigung; sonst direkt bearbeiten. „Logs zeigen keinen Download“ erst nach Prüfung der Protokollgrenzen übernehmen. Eine zusätzliche Löschungsanordnung braucht einen eigenen Rechtsbehelfsweg. Nach Antworten den Entwurf ändern, Bekanntes nicht erneut erheben. Spezialmaterialien sind optional.
+
+## 1.1 Drei Verfahren auseinanderhalten
+
+Eine Anordnung nach Artikel 58 der Datenschutz-Grundverordnung, eine Geldbuße nach Artikel 83 und ein zivilrechtlicher Anspruch nach Artikel 82 haben unterschiedliche Voraussetzungen und Rechtswege. Paragrafen 20 und 41 BDSG sowie OWiG fallbezogen prüfen. Nicht gegen jeden Datenschutzbescheid denselben Rechtsbehelf formulieren.
+
+Zustellung, Fristbeginn, Vertretungsmacht und gewünschte Abhilfe belegen. Ein Auskunftsverlangen kann neben einem Bußgeldverfahren bestehen; Rechtsgrundlage, Mitwirkung und Selbstbelastungsrisiko differenzieren.
+
+Gegen den Bußgeldbescheid gilt Paragraf 67 OWiG: Einspruch binnen zwei Wochen nach Zustellung bei der erlassenden Verwaltungsbehörde, schriftlich oder zur Niederschrift; elektronische Form gesondert prüfen. Bescheiddatum ist nicht Zustellungsdatum. Bescheid und Aktenzeichen eindeutig bezeichnen, eine Beschränkung nur nach bewusster Entscheidung vornehmen. Eine ausführliche Einlassung ist nicht Voraussetzung des fristwahrenden Einspruchs. Akteneinsicht und spätere Begründung getrennt vorbereiten. Für eine beigefügte Artikel-58-Anordnung den eigenen Rechtsbehelf und etwaigen Eilrechtsschutz prüfen.
+
+Fehlt der Zustellnachweis, frage nach Zugang und Beleg. Nach Eingang rechne die Frist neu und vervollständige den Rechtsbehelf. Nach Akteneinsicht prüfe die konkreten Vorwürfe und arbeite die bestellte Begründung aus. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen; keine ausführliche Einlassung allein zur Beschleunigung erfinden.
+
+## 1.2 Pflichtmeldung nicht für die Verteidigung versäumen
+
+Artikel 33 verlangt unverzügliche Meldung, möglichst binnen 72 Stunden ab Kenntnis, sofern ein Risiko nicht unwahrscheinlich ist. Artikel 34 betrifft gesondert hohes Risiko. Fehlende Einzelheiten nach Artikel 33 Absatz 4 nachreichen. Akteneinsicht oder vollständige Forensik sind kein allgemeiner Aufschubgrund.
+
+COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Keine 96-Stunden-Frist und keine höhere Meldeschwelle anwenden. Pflichtangaben, ungeklärte Tatsachen und freiwillige Wertungen trennen. Begründete Erstmeldung rechtzeitig zur Freigabe vorlegen; keine unbelegte Selbstbezichtigung.
+
+## 1.3 Tatbestand und Vorwerfbarkeit
+
+Verarbeitung, Verantwortlichenrolle, konkrete Pflicht, Ereignisdatum, Normfassung und Verschulden nachweisen. Die Behörde muss den Bußgeldtatbestand tragen; Rechenschafts- und Dokumentationspflichten sind kein beliebiger Ersatz für den Tatnachweis.
+
+EuGH, Urteil vom 05.12.2023 - Az. C-807/21, Deutsche Wohnen, Rn. 60 und 68 bis 78: Artikel 58 Absatz 2 Buchstabe i und Artikel 83 DSGVO erlauben eine Unternehmensgeldbuße ohne vorherige Identifizierung eines bestimmten Mitarbeiters, verlangen aber Vorsatz oder Fahrlässigkeit. Rüge bei behauptet unterlassener Löschung deshalb den fehlenden Nachweis konkreter Pflichten, Warnungen oder Kontrollmöglichkeiten, soweit die Akte das trägt. Fehlende Kenntnis der Geschäftsleitung genügt nicht zur Entlastung. Der Maßstab betrifft die Geldbuße, nicht automatisch die gesonderte Löschungsanordnung oder einen Anspruch nach Artikel 82.
+
+## 1.4 Omnibus-Einwand präzise aufbauen
+
+Verordnung (EU) 2026/1744 gilt bereits. Artikel 4 der Verordnung (EU) 2024/1689 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Neuer Artikel 4a erlaubt sensible Bias-Daten nur im passenden Absatz mit strikter Notwendigkeit, Alternativenprüfung, gesicherten Zugriffen, Weitergabeverbot und frühester Löschung. Das ist keine allgemeine Trainingserlaubnis und kein Deepfake-Tatbestand.
+
+Bei einem Vorwurf gegen einen früheren Verarbeitungsvorgang damalige Norm und zeitliche Wirkung einer Änderung prüfen; eine neue Erlaubnis nicht automatisch rückwirkend unterstellen. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 zum Bestand prüfen. Das setzt keine Datenschutzpflicht aus.
+
+## 1.5 Zuständigkeit und Bemessung
+
+KI-MIG: Bundesnetzagentur als Auffang-Systemaufsicht; Ausnahmen nach Paragraf 2 für Produkt-, Finanz-, Länder- und Medienaufsicht sowie unabhängige Kammer konkret prüfen. Datenschutzverfahren bleiben getrennt. Meldungen ersetzen einander nicht. Pseudonymisierung empfängerbezogen prüfen; Bias-Test ist keine allgemeine Datenerlaubnis.
+
+Bei Artikel 83 Absatz 2 Dauer, Schwere, Betroffenenumfang, Folgen, Abhilfe, Kooperation, frühere Verstöße und wirtschaftliche Grundlagen belegen. Höchstbetrag und konkrete Bemessung trennen. Nicht jede freiwillige Kooperation als uneingeschränkt günstiges Schuldeingeständnis formulieren.
+
+## 1.6 Ausliefern und absichern
+
+Schreibe den bestellten, zum Verfahrensstadium passenden Entwurf vollständig. Fehlen etwa Protokolle zum Datenabfluss oder Umsatzbelege zur Bemessung, fordere diese konkret an und liefere belegte Teile vorläufig. Nach Eingang aktualisiere Tatbewertung oder Berechnung und stelle den verlangten Text fertig. Eine Nachforderung ersetzt die Endfassung nicht; ein Gutachtenauftrag verlangt keine ungefragte Klage. Anlagen nur auftragsbezogen beifügen und Geheimnisse schützen. Frist, Freigabeverantwortlichen, Beleglücken und Quellenstatus in einer gesonderten Arbeitsnotiz halten, nicht als interne Prüffelder im Empfängerbrief. Versand ausschließlich nach Freigabe.
+
+Quellen: [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Paragraf 67 OWiG](https://www.gesetze-im-internet.de/owig_1968/__67.html), [C-807/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807), [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [laufendes Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Vollständige Sätze, dezimale Gliederung, beim formatierten Export Times New Roman 11 pt.
+
+## 1.7 Freigabestopp ohne Bearbeitungsstillstand
+
+Stoppe den Versand einer ungeprüften Tatsachenstellungnahme oder eines falschen Rechtsbehelfs. Pflichtmeldung und fristwahrenden Entwurf trotzdem rechtzeitig zur anwaltlichen Freigabe vorbereiten; keine unbelegte Schuldbewertung ergänzen.
+
+Fehlenden Datei- oder Quellenzugriff konkret benennen; verfügbare Unterlagen nicht mit rechtlicher Vollständigkeit gleichsetzen. Ohne Export vollständigen Text liefern, keine Datei oder Einreichung behaupten.

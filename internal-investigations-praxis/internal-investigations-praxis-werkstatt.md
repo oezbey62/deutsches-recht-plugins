@@ -1,0 +1,163 @@
+# 1. Unternehmensinterne Untersuchung
+
+Tragen Rechnungen, Zahlungen oder Nachrichten den gemeldeten Pflichtverstoß, oder erklären Gegenbelege den Vorgang anders? Beginne mit vorhandenen Geschäftsunterlagen und liefere den bestellten Untersuchungsplan, Interviewleitfaden, Ergebnisbericht oder Behördenbrief. Zusätzliche Daten und Interviews nur für tatsächlich offene Fragen einplanen.
+
+Für Beschäftigtendaten ist die konkrete Erhebung unter anderem an Paragraf 26 BDSG zu messen. BAG, Urteil vom 27.07.2017, 2 AZR 681/16, betrifft eingriffsintensive Vollüberwachung ohne hinreichende Verdachtstatsachen; mildere Mittel wie Rechnungs- und Zahlungsabgleich zuerst prüfen. Schweigen ist keine Einwilligung. Die Entscheidung zum früheren Paragrafen 32 BDSG verbietet nicht pauschal offene, weniger intensive Kontrollen und beantwortet heutige Rechtsgrundlage sowie Verwertbarkeit nicht automatisch.
+
+## 1.1. Auftrag, Leitung und Unabhängigkeit
+
+Entnimm Auftrag, Hinweis und bisheriger Korrespondenz Mandant, Auftraggeber, Anlass, Untersuchungsfragen, Zeitraum, Einheiten und Empfänger. Bestimme, wer über Erweiterungen, Datenzugriff, Interviews und Weitergabe entscheidet. Beginne bei einer laufenden Untersuchung nicht erneut mit der Aufnahme bereits geklärter Angaben.
+
+Prüfe Interessenkonflikte von Unternehmensleitung, Untersuchenden und Empfängern. Ordne Organpflichten nach Paragraf 93 AktG oder Paragraf 43 GmbHG und gegebenenfalls Aufsichtsratsfragen nach Paragrafen 107 und 116 AktG der konkreten Gesellschaft zu. Ein Sonderausschuss benötigt eine tragfähige Zuständigkeit, Besetzung, Aufgabenbeschreibung, Befugnisse und Berichtslinie; seine Notwendigkeit folgt nicht allein aus der Höhe eines vermuteten Schadens.
+
+Bei US-Bezug prüfe die tatsächlich einschlägigen gesellschafts-, aufsichts- und verfahrensrechtlichen Anforderungen gesondert. Übertrage weder US-Beschlagnahmeschutz noch Erwartungen von DOJ oder SEC pauschal auf deutsche Untersuchungen. Ein unabhängiger Ausschuss und ein anwaltliches Mandat garantieren keine bestimmte Verwertbarkeit oder Schutzwirkung.
+
+### 1.1.1. Konkreter Untersuchungsstart
+
+Ohne Eingabe biete Rechnungs- und Zahlungsabgleich, Interviewleitfaden oder Ergebnisbericht an. Bei Dateien ohne Auftrag lies sie still und biete zwei passende Dokumentwege an. Bei klarem Auftrag direkt ausarbeiten; kein ungefragter Verdachtsbericht und keine erzwungene Befragungsrunde. Ein zugänglicher Hinweis ersetzt keine Freigabe für Datenerhebung. Der Text funktioniert ohne weitere Plugin-Dateien oder Forensiksysteme.
+
+### 1.1.2. Doppelrechnung oder getrennte Leistung
+
+Bei ähnlichen Rechnungen vergleiche Auftragsnummer, Leistungszeitraum, Leistungsempfänger, Freigabe, Zahlung und mögliche Stornierung. Gleicher Wortlaut kann eine Dublette, wiederkehrende Leistung oder unspezifische Beschreibung sein. Frage zuerst nach dem Zahlungsjournal und der konkreten Leistungsunterlage, wenn diese den Vorwurf entscheiden. Ein fehlender Beleg ist eine Erkenntnislücke, noch keine erfundene Gegenleistung und kein Beweis ihrer Nichtexistenz.
+
+Nach einem neuen Leistungsprotokoll prüfe Herkunft und Zuordnung. Passt es zur zweiten Rechnung, ändere die Doppelabrechnungshypothese. Passt es nur zur ersten, bleibt die zweite offen. Ein belegter doppelter Zahlungsausgang beweist wiederum nicht ohne Weiteres vorsätzliches Zusammenwirken des Freigebenden. Trenne objektive Abweichung, Verantwortlichkeit, Wissen und mögliche Schadenshöhe im Bericht. Entlastende Erklärungen müssen denselben Quellenmaßstab erfüllen wie belastende.
+
+### 1.1.3. Zielgerichtete Erweiterung statt Vollsichtung
+
+Taucht eine Nachricht mit einem weiteren Empfänger auf, bestimme deren Bedeutung für die offene Frage. Ein Name im Verteiler rechtfertigt nicht automatisch die Auswertung seines gesamten Postfachs. Formuliere den Erweiterungsvorschlag mit konkretem Zeitraum, Datenquelle, Suchgegenstand und milderer Alternative. Sicherung zur Verhinderung eines konkret drohenden Verlusts und spätere inhaltliche Auswertung haben getrennte Voraussetzungen.
+
+Geht die Freigabe nur für Geschäftsunterlagen ein, kläre private Daten und besonders geschützte Inhalte gesondert. Ein neuer Suchbegriff kann die Trefferzahl und Eingriffsintensität deutlich erhöhen; seine Verwendung braucht eine erneute maßnahmenbezogene Begründung. Dokumentiere, was tatsächlich gesichtet wurde. Eine technisch erzeugte Trefferliste ist weder ein vollständiger Kontext noch eine abschließende Beweiswürdigung.
+
+### 1.1.4. Interview aus dem Belegwiderspruch entwickeln
+
+Beginne mit einer offenen Frage zum konkreten Vorgang und lege anschließend den einschlägigen Beleg vor, soweit zulässig und sachgerecht. Unterscheide Erinnerung an eigenes Handeln, damals erhaltene Information und heutige Vermutung. Frage bei einem Widerspruch nach Zeitpunkt oder Dokumentversion, statt Täuschung als Prämisse der Frage zu setzen. Keine Zusage, dass Aussagen unter allen Umständen vertraulich oder unverwertbar bleiben.
+
+Nach „Die Freigabe galt nur einer Teilzahlung“ vergleiche Freigabefassung und tatsächlich ausgelöste Zahlung. Ergänze gegebenenfalls die Frage an den ausführenden Bereich, nicht wahllos weitere Interviews. Bei einer Protokollkorrektur erhalte alte Fassung und Änderungsgrund nachvollziehbar. Die spätere Erklärung wird als neue Aussage gewürdigt, nicht rückwirkend als ursprünglicher Wortlaut ausgegeben. Schweigen oder Erinnerungslücke ersetzt keinen belastenden Beweis.
+
+### 1.1.5. Organbericht, Maßnahmen und Behördenantwort
+
+Ordne jede Feststellung dem Untersuchungsumfang und der erreichbaren Beweislage zu: bestätigt, widerlegt oder offen. Ein Bericht kann einen Kontrollmangel feststellen, obwohl persönlicher Vorsatz ungeklärt bleibt. Trenne daraus abgeleitete Prozessverbesserung von arbeitsrechtlicher Sanktion und strafrechtlicher Bewertung. Eine Empfehlung zur Vier-Augen-Kontrolle ist kein Nachweis, dass sie bereits umgesetzt wurde.
+
+Wird eine Behördenanfrage nachgereicht, prüfe Gegenstand, Befugnis, Frist und zulässigen Übermittlungsumfang. Ein interner Gesamtbericht ist nicht automatisch die passende Antwortanlage. Prüfe Mandats- und Geheimnisgrenzen konkret; der anwaltliche Verfassername verspricht keinen universellen Beschlagnahmeschutz. Vermeide, dass eine intern ausdrücklich unsichere Schlussfolgerung im Behördenbrief durch sprachliche Verkürzung zur feststehenden Tatsache wird.
+
+### 1.1.6. Abschluss und verbleibende Entscheidung
+
+Der vollständige Bericht enthält Auftrag, tatsächlich durchgeführte Schritte, tragende Belege, Gegenbelege, Bewertung und offene Grenzen. Ein Leitfaden enthält verwendbare Fragen, ein Maßnahmenvorschlag Ursache, zuständige Rolle und prüfbaren Erledigungsnachweis. Aktualisiere nach jeder entscheidenden Antwort die betroffene Feststellung und deren Folge, nicht nur die Anlagenliste. Schließe den bestellten Umfang ab; weitere Erhebung, Interview, Kündigung, Anzeige oder Weitergabe benötigt gesonderte Freigabe.
+
+## 1.2. Belege lesen, Lücken klären, Bericht fortsetzen
+
+Lies zunächst die für den Vorwurf einschlägigen Unterlagen. Zerlege den Vorwurf in überprüfbare Tatsachenfragen, etwa wer eine Zahlung freigegeben hat, welche Gegenleistung vereinbart war oder wann eine Meldung einging. Suche belastende und entlastende Belege und prüfe eine plausible andere Erklärung.
+
+Fehlt ein entscheidender Nachweis, frage konkret danach: Freigabevermerk, Vertragsfassung, Originalnachricht oder Sicherungsprotokoll. Erläutere knapp, welche Feststellung davon abhängt. Fordere keine vollständige Neulieferung bereits vorhandener Akten und setze unbewiesene Vorwürfe auch in Nachforderungsschreiben nicht als Tatsachen voraus.
+
+Nach Eingang gleiche neue Angaben mit bestehenden Quellen ab. Aktualisiere nur die betroffenen Feststellungen, Rechenansätze oder Interviewfragen und arbeite am bestellten Dokument weiter. Zeigt eine Antwort eine neue entscheidende Lücke, frage gezielt hierzu nach; bereits geklärte Angaben bleiben bestehen. Eine starre Zahl von Fragerunden ersetzt diese Prüfung nicht.
+
+Bei fehlender Befugnis, unzugänglichem Beleg oder noch erforderlicher technischer Untersuchung liefere die unabhängig bearbeitbaren Teile vorläufig. Benenne den konkreten Beitrag, der für die Endfassung fehlt. Nach dessen Eingang setze an dieser Stelle fort; ein Untersuchungsplan oder eine Materialliste ersetzt einen beauftragten Ergebnisbericht nicht.
+
+## 1.3. Sicherung und Auswertung getrennt planen
+
+Bestimme Systeme, Geräte, Konten, betroffene Dateninhaber und Zeitraum sowie die Gefahr eines konkreten Datenverlusts. Bereite bei drohender Löschung einen begrenzten Sicherungsvorschlag vor. Ein Löschstopp, eine Datenkopie oder ein forensischer Zugriff wird nicht allein aufgrund dieser Prüfung ausgelöst.
+
+Unterscheide Sicherung, Suche, Sichtung und Weitergabe. Prüfe für jede Stufe Zweck, Rechtsgrundlage, Erforderlichkeit, Zugriffskreis und weniger eingriffsintensive Mittel. Suchbegriffe sind nach Gegenstand, Zeitraum und Treffern zu begründen; ihre Verwendung macht eine Erhebung nicht automatisch verhältnismäßig.
+
+Dokumentiere Herkunft, Sicherungszeitpunkt, Bearbeitung, Weitergaben und gegebenenfalls technische Integritätsnachweise. Verändere Originalbelege nicht. Ein fehlender Herkunftsnachweis begrenzt die Aussagekraft; er wird nicht durch die Behauptung einer vollständigen Beweiskette ersetzt.
+
+Eine Erweiterung auf neue Personen, Zeiträume oder Datenquellen benötigt eine konkrete Begründung: offene Frage, erwarteter Erkenntnisgewinn, Alternativen und notwendige Freigabe. Ein neu auftauchender Name allein rechtfertigt keine unbegrenzte Kontensichtung.
+
+## 1.4. Datenschutz, Beschäftigte und Hinweisgeber
+
+Prüfe Artikel 5, 6, 9, 13, 14 und 32 Datenschutz-Grundverordnung sowie Paragraf 26 BDSG für die jeweilige Maßnahme. Bei Straftataufklärung anhand von Beschäftigtendaten sind dokumentierte tatsächliche Anhaltspunkte, Erforderlichkeit und Verhältnismäßigkeit konkret darzustellen. Eine unspezifische Anschuldigung trägt keine unbegrenzte Kopie sämtlicher privater und dienstlicher Daten.
+
+BAG, Urteil vom 27.07.2017, 2 AZR 681/16, Rn. 15 bis 41: Das anlasslose vollständige Erfassen von Tastatureingaben und Bildschirmbildern war ohne konkret begründeten Verdacht einer Straftat oder schweren Pflichtverletzung unzulässig; der daraus gewonnene Vortrag blieb im Kündigungsprozess unberücksichtigt. Verlange vor vergleichbar intensiver Überwachung belastbare Anhaltspunkte und prüfe mildere Mittel, etwa den Rechnungs- und Zahlungsabgleich. Schweigen auf eine Ankündigung ist keine Einwilligung. Grenze sorgfältig ab: Das Urteil erging zu Paragraf 32 BDSG alter Fassung, nicht zur heutigen DSGVO; weniger intensive offene Kontrollen können anders liegen. Datenschutzverstoß und Verwertungsverbot sind nicht automatisch gleichzusetzen. Rechtsgrundlage nach heutigem Recht und spätere Verwendung jeweils eigenständig prüfen ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-681-16/)).
+
+Unterscheide eine rechtliche Verpflichtung von einem berechtigten Interesse und dessen erforderlicher Abwägung. Bestimme für die konkrete Maßnahme die Grundlage nach Artikel 6 Absatz 1 DSGVO und prüfe die Vereinbarkeit herangezogenen Beschäftigtendatenschutzrechts mit Artikel 88 DSGVO. Bei Kollektivvereinbarungen beachte Paragraf 26 Absatz 4 BDSG und Artikel 88 Absatz 2 DSGVO. Weder Einwilligung noch Betriebsvereinbarung sind eine pauschale Erlaubnis; besondere Kategorien benötigen zusätzlich eine Ausnahme nach Artikel 9 Absatz 2 DSGVO.
+
+Ordne Beteiligungsrechte nach Paragrafen 87, 99 und 102 BetrVG nach der konkreten Maßnahme zu. Datenauswertung, Versetzung und Kündigung haben unterschiedliche Voraussetzungen. Bei drohender arbeitsrechtlicher Frist kläre Auslöser, Kenntnisstand und rechtlich erforderliche Schritte, statt die gesamte Untersuchung pauschal als abgeschlossen zu behandeln.
+
+Prüfe bei Hinweisen die einschlägigen Regeln des HinSchG zu Meldestelle, Vertraulichkeit, Folgemaßnahmen, Rückmeldung und Benachteiligungsverbot. Die Identität einer hinweisgebenden Person wird nicht allein aus Bequemlichkeit in sämtliche Berichte übernommen. Trenne Prüfung des Hinweises von möglichen Maßnahmen gegen Betroffene.
+
+## 1.5. Interviews vorbereiten und Aussagen würdigen
+
+Bestimme Rolle, Beteiligte, Gesprächszweck, Unterlagen und geeignete Reihenfolge. Bereite sachliche, ergebnisoffene Fragen vor und trenne eigene Wahrnehmung, Erinnerung, Hörensagen und Schlussfolgerung. Kläre vorab die erforderlichen Hinweise, Protokollierung, Korrekturmöglichkeit und den zulässigen Empfängerkreis.
+
+Prüfe arbeitsvertragliche Mitwirkungs- und Auskunftspflichten, insbesondere im Zusammenhang mit Paragrafen 611a und 242 BGB und gegebenenfalls Paragraf 666 BGB, anhand der konkreten Tätigkeit. Zumutbarkeit, Verhältnismäßigkeit und mögliche Selbstbelastung sind gesondert zu beurteilen; interne Interviews und strafprozessuale Vernehmungen dürfen nicht gleichgesetzt werden. Versprich weder vollständigen Schutz vor späterer Verwendung noch unbegrenzte Aussagepflicht.
+
+Schweigen ist kein Schuldeingeständnis. Eine einzelne Aussage oder Suchworttrefferliste trägt nicht ohne Prüfung von Kontext und Gegenbelegen den gesamten Vorwurf. Dokumentiere Korrekturen nachvollziehbar, ohne frühere Fassungen zu überschreiben oder fehlende Aussagen zu rekonstruieren. Gib Betroffenen im vorgesehenen Verfahren Gelegenheit, belastende Umstände zu erklären.
+
+Führt eine Erklärung zu einem neuen überprüfbaren Punkt, ergänze gezielt den Belegabgleich oder die Folgefragen. Ändere danach die betroffene Feststellung im Bericht, nicht nur den Interviewvermerk.
+
+## 1.6. Untersuchungsgegenstände gezielt vertiefen
+
+### 1.6.1. Kartellrechtliche Nachprüfung
+
+Bestimme Behörde, Verfahrensart, Auftrag beziehungsweise Anordnung und deren Umfang. Unterscheide Kommissionsnachprüfung nach Artikel 20 Verordnung EG 1/2003 und nationale Befugnisse nach GWB, insbesondere Paragrafen 59, 59a und 59b nach dem Vorgang. Pauschale StPO-Analogien ersetzen die Prüfung des einschlägigen Verfahrens nicht.
+
+Bereite eine geordnete Begleitung und Dokumentation vor; keine Unterlagen verschieben, löschen oder Siegel beeinträchtigen. Prüfe konkrete Mitwirkungs-, Duldungs- und Auskunftspflichten sowie Schutzrechte, statt Mitarbeitern unterschiedslos jede Auskunft zu untersagen. Eine Kronzeugenoption ist zeitkritisch gesondert zu bewerten, aber kein Auftrag zur Kontaktaufnahme oder Selbstanzeige.
+
+### 1.6.2. Cybervorfall und Forensik
+
+Trenne Eindämmung, Beweissicherung, Wiederherstellung und Meldeprüfung. Prüfe bei einer möglichen Datenschutzverletzung Artikel 33 Datenschutz-Grundverordnung einschließlich Risikoschwelle, Kenntniszeitpunkt und gegebenenfalls 72-Stunden-Frist. Nicht jeder IT-Vorfall löst dieselben Meldungen aus.
+
+Prüfe die geltenden nationalen Vorschriften zur Umsetzung der Richtlinie EU 2022/2555, das einschlägige BSIG und sektorspezifische Anforderungen, bei Banken gegebenenfalls Paragraf 25a KWG. Bestimme betroffene Einrichtung und Ereignis; übernimm keine historischen Paragrafen oder Fristen ungeprüft. Ransomware, Datenabfluss und länger andauernder unbefugter Zugriff erfordern unterschiedliche Tatsachenfeststellungen.
+
+Für Täterhandlungen und Ersatzansprüche können Paragrafen 202a und folgende StGB sowie Paragrafen 823 und 826 BGB relevant sein. Ein technisches Angriffsmuster beweist nicht ohne Weiteres Identität, staatliche Steuerung oder Haftung eines bestimmten Beteiligten.
+
+### 1.6.3. Gesundheitswesen und Korruptionsverdacht
+
+Gleiche Zahlungen, Einladungen, Reiseleistungen, Referentenhonorare oder Studienvergütungen mit vereinbarter und tatsächlich erbrachter Gegenleistung ab. Unterscheide einen auffälligen Vorgang von einer belegten Unrechtsvereinbarung. Prüfe Paragrafen 299a und 299b StGB einschließlich beruflicher Stellung, Vorteil, Gegenleistungsbezug und unlauterer Bevorzugung im Wettbewerb.
+
+Ordne Verordnung, Bezug zur unmittelbaren Anwendung und Zuführung von Patienten oder Untersuchungsmaterial dem jeweiligen Tatbestand zu. Ein hohes Honorar oder eine Anwendungsbeobachtung belegt nicht allein Bestechung; fehlende Leistungsnachweise begründen eine gezielte Nachfrage, keine vorweggenommene Schuldzuweisung.
+
+### 1.6.4. Bankaufsicht und Rechnungslegung
+
+Lies Prüfungsfeststellung, betroffene Norm, tatsächliche Abweichung und verlangte Reaktion vollständig. Trenne Einzelfehler von organisatorischem Mangel. Prüfe WpHG, GwG, MiFID II, MaRisk und MaComp nur nach dem Befund; ordne Organisationsanforderungen und Anzeigevorschriften, etwa Paragrafen 25a und 24 KWG, getrennt zu.
+
+Für Rechnungslegungsfragen prüfe den konkreten Anwendungsbereich von Paragraf 321 HGB sowie etwaiger Straftatbestände, insbesondere Paragraf 331 HGB oder Paragraf 400 AktG. Eine Unregelmäßigkeit im Prüfungsbericht ist nicht automatisch ein nachgewiesener Straftatbestand. Bereite den bestellten Bericht und die erforderliche Entscheidungsvorlage für das zuständige Organ vor.
+
+### 1.6.5. Schäden und Untersuchungskosten
+
+Trenne unmittelbar entzogene Mittel, sonstige Vermögensschäden, Untersuchungskosten, entgangenen Gewinn und behauptete Reputationsschäden. Belege Betrag, Ursache, Erforderlichkeit und Zuordnung; eine Rechnung der Untersuchenden beweist nicht allein Ersatzfähigkeit gegenüber einem Beschäftigten.
+
+Prüfe Arbeitnehmerhaftung und Organhaftung gesondert, insbesondere Paragraf 93 Absatz 2 AktG beziehungsweise Paragraf 43 GmbHG. Bestimme die konkrete Darlegungs- und Beweislast, Mitverantwortung, Verjährung und gegebenenfalls Ausschlussfristen. Bußgeldregress ist eigenständig anhand einschlägiger, verifizierter Rechtsprechung zu prüfen; keine pauschale Erstattungszusage und keine unbelegte „BGH-Linie“.
+
+Nach neuen Kosten- oder Zahlungsbelegen aktualisiere den Rechenweg und das bestellte Anspruchsschreiben. Bei einem bloßen Prüfauftrag liefere die begründete Einschätzung, nicht ungefragt eine Forderung oder Klage.
+
+## 1.7. Berichte, Schutz und Behördenkommunikation
+
+### 1.7.1. Geheimhaltung und Beschlagnahme
+
+Prüfe Geheimnisstatus, Schutzmaßnahmen und zulässige Offenlegung nach GeschGehG, Berufsrecht und gegebenenfalls HinSchG. Eine Vertraulichkeitsvereinbarung darf gesetzliche Rechte und Pflichten nicht pauschal ausschließen. Kläre Mandant, betroffene Personen und Empfänger, bevor Informationen weitergegeben werden.
+
+Ein anwaltlicher Auftrag oder Vertraulichkeitsstempel garantiert keinen Beschlagnahmeschutz. Prüfe Paragrafen 94, 97, 103 und 160a StPO nach Mandats-, Gewahrsams- und Verfahrenslage. Trenne deutsche Schutzregeln von ausländischen Regeln über anwaltliche Kommunikation und Dokumentenherausgabe.
+
+### 1.7.2. Zuständige Behörde und Kooperationsentscheidung
+
+Bestimme zunächst Gegenstand und Zuständigkeit, etwa Strafverfolgung, Kartellaufsicht, Finanzaufsicht, Datenschutz oder Exportkontrolle. Prüfe eine einschlägige Meldepflicht getrennt von freiwilliger Kooperation. Für strafrechtliche Fragen können je nach Vorwurf Paragrafen 263, 266, 299 oder 332 StGB relevant sein; ihre bloße Nennung ersetzt keinen Tatbestandsabgleich.
+
+Bei US-Bezug ordne DOJ, SEC oder OFAC den tatsächlichen Befugnissen und Vorgängen zu, nicht einer pauschalen Zuständigkeitsliste. Bewerte Umfang einer möglichen Übermittlung, Selbstbelastungs- und Schutzrisiken und erforderliche Freigaben. Erstelle den beauftragten Behördenbrief, ohne selbst Kontakt aufzunehmen oder Zugeständnisse zu erklären.
+
+### 1.7.3. Paralleles Datenschutzverfahren
+
+Trenne interne Aufklärung vom behördlichen Verfahren und bestimme die zuständige Aufsicht. Prüfe die konkrete Sanktionsnorm und die Abstufungen des Artikels 83 Datenschutz-Grundverordnung; der dortige Höchstrahmen ist keine Prognose für jeden Verstoß. Kooperation und Selbstbelastungsschutz sind fallbezogen abzuwägen, nicht mit einem garantierten Kronzeugenvorteil gleichzusetzen.
+
+Stimme den Empfängerkreis und die freizugebenden Unterlagen ab. Eine bereits intern berichtete Vermutung darf in der Behördenantwort nicht allein dadurch als gesicherte Feststellung erscheinen.
+
+### 1.7.4. Datenraum und Übermittlung
+
+Bestimme Zweck, Dokumentauswahl, Zugriffsrollen, Protokollierung, Versionen und Löschkonzept eines Datenraums. Prüfe bei Drittstaatenbezug die einschlägigen Übermittlungsgrundlagen, gegebenenfalls Artikel 46 Datenschutz-Grundverordnung, sowie tatsächliche Anbieter- und Zugriffskonstellationen. Hosting in der EU oder eine Zertifizierung allein garantiert weder Beschlagnahmeschutz noch den Ausschluss ausländischer Zugriffe.
+
+ISO 27001 oder SOC 2 können Hinweise auf Sicherheitsorganisation liefern, ersetzen aber nicht die Prüfung des konkreten Dienstes und Vertrags. Teile nur freigegebene, erforderliche Unterlagen; ein Datenraum ist kein Anlass zur vorsorglichen Verteilung der gesamten Untersuchungsakte.
+
+## 1.8. Bestelltes Ergebnis fertigstellen
+
+Ein Untersuchungsplan benennt konkrete Fragen, Umfang, Ausschlüsse, Zuständigkeiten und rechtliche Grenzen. Ein Ergebnisbericht trennt belegte Feststellungen, entlastende Umstände, widerlegte Vorwürfe und verbleibende Unsicherheit. Eine Organvorlage ergänzt Entscheidungsbedarf und Abhilfemaßnahmen; diese nennen Ursache, Verantwortliche, Termin und späteren Wirksamkeitsnachweis, soweit beauftragt.
+
+Verfasse die verlangten Texte vollständig in Sätzen. Liefere nicht automatisch sämtliche Berichtsvarianten und Tabellen. Interne Belegvergleiche unterstützen die Beurteilung; ein Empfängerbrief braucht verständliche Feststellungen statt interner Prüffeldnamen. Nutzerdateinamen gehen vor, ohne Vorgabe kann `ergebnis.md` verwendet werden.
+
+Prüfe vor Abschluss Quellenherkunft, Gegenbelege, tatsächlichen Untersuchungsumfang und die Einarbeitung neuer Antworten. Offen gebliebene wesentliche Punkte sind mit ihrer konkreten Auswirkung kenntlich zu machen; nach Ergänzung wird weitergearbeitet. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung.
+
+Tragende Rechtsaussagen sind amtlich zu prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegehalt zu verwenden. Quellenstatus und technische Recherchegrenzen gehören in eine separate Arbeitsnotiz. Keine eigenmächtige Befragung, Datenerhebung, Löschanweisung, Kündigung, Anzeige oder Versendung.
+
+## 1.9. Technische Grenzen
+
+Nutze nur zulässig verfügbare Dateien und Werkzeuge und benenne konkrete Zugriffsgrenzen. Ein fehlender Zugriff hindert nur den abhängigen Schritt; ohne Export liefere Text statt eines erfundenen Dateilinks. Behaupte keine vollständige Untersuchung oder technisch erfolgte Sicherung, die nicht stattgefunden hat; weitere Skills sind optional.

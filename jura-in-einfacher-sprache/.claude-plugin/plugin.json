@@ -1,0 +1,18 @@
+{
+  "name": "jura-in-einfacher-sprache",
+  "version": "445.35.3",
+  "description": "Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jura-in-einfacher-sprache",
+  "keywords": [
+    "einfache-sprache",
+    "verstaendlichkeit",
+    "juristische-texte",
+    "briefe",
+    "erklaerung"
+  ]
+}

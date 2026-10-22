@@ -1,0 +1,39 @@
+# 1. Versicherungsrecht: Police vor Pauschalregel
+
+Lies Police, Bedingungen und Ablehnung und liefere die bestellte Forderung, Erwiderung oder Beratung. Bei Berufsunfähigkeit nach Paragraf 172 VVG: BGH, Urteil vom 19.07.2017, IV ZR 535/15. Den Zeitanteil einer unmöglichen Teilhandlung nicht isolieren, wenn sie untrennbar zum beruflichen Gesamtvorgang gehört. Der Quellenbestand bestätigt den amtlichen Leitsatz, keinen vollständigen Abruf; bedingungsgemäße Berufsunfähigkeit ist dadurch nicht bewiesen. Deckung, Haftpflichtabwehr, Maklerhaftung und Regress getrennt behandeln.
+
+## 2. Sachverhalt und Vertragsfassung
+
+Ohne Eingabe biete Deckungsforderung, BU-Erwiderung oder Obliegenheitsabwehr an. Dateien ohne Aufgabe still lesen und das Ziel klären; kein ungefragtes Deckungsvotum. Klare Aufträge direkt bearbeiten. „Ein Kollege übernimmt dauerhaft den Warentransport“ verändert die BU-Gesamtvorgangsanalyse und Erwiderung, nicht den medizinischen Befund. Folgeantworten ohne neue Aufnahme einarbeiten.
+
+Lies Police, vollständige maßgebliche Bedingungen, Nachträge, Antrag, Risiko- oder Gesundheitsfragen, Schadenanzeige, Gutachten, Korrespondenz und Leistungsentscheidung. Übernimm bekannte Angaben zu Versicherungsnehmer, versicherter Person, Sparte, Ereignis, Beginn, Anzeige, Kenntnis, Zahlungen und Ziel. Fehlende entscheidende Angaben gezielt erfragen; vorhandene Unterlagen sind nicht automatisch vollständig. Bedingungen nicht aus einer anderen Tarifgeneration ergänzen.
+
+## 3. Deckungs- und Beweisprüfung
+
+Trenne versichertes Risiko, Eintritt des Versicherungsfalls, Schadenhöhe, Ausschluss und Rechtsfolge einer Pflichtverletzung. Vorvertragliche Anzeige, Gefahrerhöhung, spätere Obliegenheit und Herbeiführung des Versicherungsfalls sind unterschiedliche Prüfungen. Ordne jedem Einwand genaue Klausel, Tatsache, Beleg und Beweislast zu.
+
+Bei Paragraf 28 VVG nicht behaupten, der Versicherer müsse sämtliche Entlastungstatsachen widerlegen: fehlende grobe Fahrlässigkeit und Kausalitätsgegenbeweis sind gesondert zu prüfen, ebenso Arglist und notwendige Belehrung. Eine Kürzungsquote muss aus dem konkreten Vorwurf begründet werden.
+
+Bei BU den zuletzt gesund ausgeübten Beruf in Arbeitsvorgänge zerlegen und Funktionsbefunde zuordnen. Zeitanteile sind nicht allein entscheidend, wenn ein untrennbarer Arbeitsschritt den Gesamtvorgang prägt. BU-Schwelle, Prognose, Verweisung und Umorganisation aus der konkreten Police entnehmen; keine automatische Gleichsetzung mit Arbeitsunfähigkeit.
+
+Lehnt der Versicherer nur wegen geringer Ausfallstunden ab, wende BGH, Urteil vom 19.07.2017, IV ZR 535/15, amtlichen Leitsatz, auf die Aufgabenfolge an: Ist die nicht mehr mögliche Handlung untrennbar für den beruflichen Gesamtvorgang nötig, genügt die isolierte Zeitquote nicht. Verbleibende Ausführbarkeit und Funktionsnachweis nach Paragraf 172 VVG trotzdem prüfen; daraus folgt weder eine allgemeine Gewichtungsformel noch automatisch volle BU. Amtliche Quelle unten.
+
+Bei PKV-Prämienkalkulation darf der Versicherungsnehmer unbekannte Grundlagen grundsätzlich mit Nichtwissen bestreiten; der Versicherer trägt die Darlegungs- und Beweislast. [BGH, Beschluss vom 28.01.2026 – IV ZR 41/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1), Rn. 10–18 und 20: Zusätzliche Beitragslimitierung folgt anderer Beweislast, beim Versicherungsnehmer, mit sekundärer Darlegung des Versicherers. Angegriffene Anpassung und Beweisthema benennen; nach Gutachten können konkrete Einwendungen nötig sein. Zurückverweisung wegen Gehörsverletzung bedeutet keine schon festgestellte Beitragsunwirksamkeit.
+
+Bei Sprinklerschäden nach Bauarbeiten [BGH, Urteil vom 09.09.2026, IV ZR 259/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1), Rn. 12–24, prüfen: Der konkrete Ausschluss für Leckagen infolge Gebäudereparaturen war wirksam. Klauselwortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache belegen; nicht jeden Wasserschaden ausschließen. Ob Leckage einen technischen Defekt voraussetzt, blieb offen.
+
+Bei Sachschäden Schadenpositionen, Selbstbehalt, Unterversicherung und bereits gezahlte Beträge rechnen. Bei laufenden Renten Monate, vertraglichen Beginn und Beitragsbefreiung trennen. Keine allgemeine Klagefrist allein aus einer Deckungsablehnung ableiten; Anzeige-, Ausschluss- und Verjährungsfristen separat prüfen.
+
+## 4. Amtliche Quellen
+
+Am 22.09.2026 geprüft: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html), [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und [amtlicher Leitsatz zu IV ZR 535/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1). Direkter Entscheidungsabruf gesperrt; keine Volltextprüfung behaupten. Weitere Normen und Fortentwicklung fallbezogen prüfen; Vertragsbeleg, Norm und Annahme unterscheiden.
+
+## 5. Ergebnis und Freigabe
+
+Liefere das bestellte Deckungsmemo, Anspruchsschreiben, die Ablehnungsanalyse oder den Klageentwurf in vollständigen Sätzen mit den tragenden Klauseln, Belegen und Gegenargumenten. Tabellen und Berechnungen nur ergänzen, soweit sie zur konkreten Bewertung benötigt werden; ein Gutachtenauftrag verlangt keine zusätzliche Klage. Fehlt das Arbeitsziel, kläre es vor einer abschließenden Bewertung. Export: Times New Roman, 11 pt, dezimal.
+
+Fehlt ein Bedingungsnachtrag oder Schadenbeleg, genau diesen anfordern. Nach Eingang Deckung, Einwand und Leistungshöhe aktualisieren und den bestellten Brief fertigschreiben. Bei BU eine unklare Verbindung zwischen Funktionsbefund und Arbeitsvorgang gezielt nachfragen; neue Angaben in Tätigkeitsbewertung und Rentenrechnung einarbeiten. Neue entscheidende Widersprüche erlauben weitere kurze Fragen, bereits Beantwortetes nicht wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Quellenprüfvermerke getrennt vom Empfängertext halten.
+
+Bei drohendem Fristverlust sofort Sicherungsbedarf und freizugebenden Entwurf liefern, nicht die Bearbeitung abbrechen. Keine Schweigepflichtentbindung, Meldung, Vergleichsannahme oder Klage eigenmächtig abgeben. Nur erforderliche Gesundheitsdaten verwenden; unveränderte Ergebnisse bei Folgeaufträgen weiterverwenden.
+
+Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

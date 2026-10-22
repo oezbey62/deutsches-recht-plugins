@@ -1,0 +1,90 @@
+---
+name: datensatzqualitaet-und-bias-hri
+description: "Für Datenqualität und Bias in der Human-Robot Interaction (HRI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
+---
+
+# Datenqualität und Bias in der Human-Robot Interaction (HRI)
+
+## Fachkern: Datenqualität und Bias in der Human-Robot Interaction (HRI)
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+
+## Worum geht es konkret
+
+Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen (Service-, Pflege-, Sicherheitsrobotik, Liefer- und autonome Mobilität, Recruiting-/Empfangsroboter) sind regelmäßig auf Trainingsdaten angewiesen, deren Qualität und Repräsentativität über Sicherheit und Diskriminierungsfreiheit entscheidet. Art. 10 KI-VO setzt für Hochrisiko-KI verbindliche Anforderungen an Daten-Governance, Repräsentativität, Bias-Behandlung und Annotationsprozesse. Dazu kommen DSGVO, AGG, BFSG und Grundrechte. Liefere Prüfschema, Test-Matrix und Vertragsklauseln.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+1. **Rolle:** Anbieter Hochrisiko-KI, Betreiber, Auditor, Aufsichtsbehörde, betroffene Person/Verband.
+2. **Funktion:** Personenerkennung, Gestenerkennung, Spracherkennung, Verhaltensprädiktion, Risikoeinschätzung, Triage-Unterstützung.
+3. **Trainingsdaten-Quelle:** öffentlich, lizenziert, synthetisch, betriebseigene Aufnahmen, gemischt.
+4. **Anlass:** Konformitätsbewertung, Audit Notified Body, Bias-Beschwerde, AGG-Prozess, KI-VO-Inspektion.
+5. **Unterlagen:** Data Sheets, Model Cards, Annotationsrichtlinien, Test-/Validierungsberichte, Demographic Statistics.
+
+## Rechtlicher Rahmen
+
+- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante und hinreichend repräsentative sowie soweit wie möglich fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Artikel 4a neuer Fassung ersetzt Artikel 10 Absatz 5 für besondere Daten zur Bias-Korrektur: strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und frühestmögliche Löschung; Absatz 2 erweitert den Adressatenkreis nur unter zusätzlichen Voraussetzungen. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
+- **KI-VO Art. 9** Risikomanagement.
+- **KI-VO Art. 15** Genauigkeit, Robustheit, Cybersicherheit.
+- **DSGVO** Art. 5, 9, 22, 25, 35.
+- **AGG** §§ 1, 2, 7, 19, 20.
+- **BFSG** für Verbraucherrobotik.
+- **EU-Grundrechtecharta** Art. 21 Diskriminierungsverbot.
+
+## Schritt für Schritt
+
+1. **Use-Case-spezifische Datenanforderungen.** Was muss der Roboter erkennen, in welcher Umgebung, bei welcher Bevölkerung?
+2. **Data Sheet** je Datensatz: Quelle, Sammelmethode, Annotatoren, Lizenzen, Verteilungsstatistiken nach geschützten Merkmalen (soweit zulässig erhebbar).
+3. **Repräsentativitäts-Audit.** Vergleich Trainings-Demografie vs. Zielpopulation; Gap-Analyse.
+4. **Annotationsqualität.** Inter-Annotator-Agreement (Cohen's Kappa), Quality Gates, Konfliktauflösung.
+5. **Bias-Tests.** Disparate Performance je Subgruppe (Confusion-Matrix pro Subgruppe; Equal Opportunity / Demographic Parity / Calibration).
+6. **Mitigations.** Re-Sampling, Re-Weighting, Data Augmentation, Synthese, Adversarial Debiasing; Folgen für Performance dokumentieren.
+7. **Beschäftigtenkontext.** Im Recruiting-/HR-Kontext besondere Vorsicht; AGG-Audit; KI-VO Anhang III Nr. 4.
+8. **Dokumentation Art. 10 KI-VO** im technischen Dossier.
+9. **Post-Market-Monitoring** Art. 72 KI-VO: kontinuierliche Bias-Überwachung nach Inverkehrbringen.
+
+## Trade-off-Matrix
+
+| Ansatz | Pro | Contra | Empfehlung |
+|---|---|---|---|
+| Demographic Parity | klare Gleichheit | Performance-Einbuße | bei stark normativer Pflicht (z. B. Recruiting) |
+| Equal Opportunity | TPR-Gleichheit | komplizierter | bei sicherheitsbezogenen Anwendungen |
+| Synthese fehlende Subgruppen | Coverage erhöhen | Verteilungsverschiebung | nur wenn kontrolliert, mit Trennung Real vs. Synth |
+| Fehlende Prüfung möglicher Verzerrungen | Beleglücke konkretisieren | Artikel 10 Absatz 2 Buchstaben f/g und Artikel 4a prüfen | Testplan nur mit zulässigen Daten und zweckbezogenen Gruppen; keine pauschale Erhebung sämtlicher sensibler Merkmale |
+
+## Praxistipps
+
+- **Subgroup-Reports** pro Release.
+- **Halbjährliches Real-World-Audit** mit unabhängiger Stelle.
+- **Annotations-SLA** mit Sub-Anbietern; Cohen's Kappa min. 0,75.
+- **Transparenz an Nutzer** über Performance-Grenzen (Art. 13 KI-VO).
+- **Daten-Aufbewahrung** mit Wiederverwendbarkeit für Re-Audit.
+
+## Mustertexte
+
+**Klausel Trainingsdaten-Lieferant (Auszug):**
+
+> Der Lieferant stellt Trainingsdatensätze mit einem detaillierten Data Sheet im Format Anhang B bereit. Der Lieferant garantiert: (a) rechtmäßige Erhebung (DSGVO/Lizenzen), (b) Repräsentativität bezogen auf die in Anlage C definierte Zielpopulation, (c) Annotationsqualität mit Cohen's Kappa nicht unter 0,80, (d) Subgruppen-Statistik nach Alter, Geschlecht, Hautfarbe (soweit zulässig erhebbar) inklusive Performance-Erwartung. Der Lieferant haftet für Vertragsverletzungen, die zu KI-VO-Konformitätsverlust führen, mit pauschalisiertem Schadensersatz von 250.000 EUR je Vorfall; weitergehende Schäden bleiben unberührt.
+
+**Auszug Model Card (Bias-Sektion):**
+
+> Bekannte Limitierungen: Die Erkennungsrate von Personen unter 1,40 m Körpergröße ist mit 92,1 % gegenüber dem Mittelwert von 97,5 % deutlich niedriger. Bei Rollstuhl-Nutzern liegt die Erkennungsrate bei 95,3 %. Empfehlung an den Betreiber: in Umgebungen mit Kindern oder Rollstuhl-Nutzern reduzierte Maximalgeschwindigkeit, redundante Sensorik aktivieren.
+
+## Typische Fehler
+
+- **Trainingsdaten nicht repräsentativ** für reale Bevölkerung – AGG-/KI-VO-Risiko.
+- **Keine Subgruppen-Metriken** dokumentiert.
+- **Annotationsrichtlinie informell**; keine Inter-Annotator-Tests.
+- **Bias-Mitigation einmalig**, ohne Post-Market-Monitoring.
+- **Drift** durch Modell-Updates nicht überwacht.
+
+## Quellen Stand 06/2026
+
+- VO (EU) 2024/1689 (KI-VO), Art. 9, 10, 13, 15, 72.
+- DSGVO Art. 5, 9, 22, 35.
+- AGG §§ 1, 7, 19, 20.
+- EU-Grundrechtecharta Art. 21.
+- BFSG.
+- NIST AI Risk Management Framework; ISO/IEC TR 24027 Bias.
+- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BAuA, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

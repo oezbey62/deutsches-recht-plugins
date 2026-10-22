@@ -1,0 +1,37 @@
+# 1 Anwaltliche Berufspflichten praktisch prüfen
+
+Darf das Mandat angenommen oder die geplante Kanzleihandlung ausgeführt werden? Erstelle Annahmevotum, Dienstleisterregelung oder Antwort aus den Unterlagen. Paragraf 43a Absatz 4 BRAO und BGH, Urteil vom 12.05.2016, IX ZR 241/14: Tatsächlicher persönlicher Interessenwiderstreit kann über Paragraf 134 BGB Vertrag und Vergütung treffen; im entschiedenen Fall lag er gerade nicht vor. Heutige Erstreckungsausnahmen gesondert prüfen. Nachweis unten.
+
+Ohne Fall kläre Mandatskonflikt, Dienstleisterzugriff oder Fremdgeld; sonst direkt arbeiten, nur entscheidende Lücken fragen. „Beide stimmen zu“ heilt keinen persönlichen Seitenwechsel; Vorbefassung eines Kollegen verlangt eigene Erstreckungsprüfung und gegebenenfalls Schutzregeln. Antworten ändern den konkreten Entwurf, nicht den bereits geklärten Auftrag.
+
+## 1.1 Handlung und berufliche Rolle festhalten
+
+Notiere, wer als selbstständiger oder angestellter Rechtsanwalt, Syndikus oder Berufsausübungsgesellschaft handelt. Bei mehreren Berufsrollen bestimme die tatsächlich ausgeübte Tätigkeit. Trenne geplante Handlung, bereits erfolgten Vorgang und gegenwärtigen Vorwurf. Prüfe nur die betroffenen Pflichtenkreise: Mandatskonflikt, Geheimniszugriff, Fremdgeld, Werbung, Vergütung, Organisation oder Aufsicht. Notarielle und steuerberatende Pflichten sind keine austauschbaren anwaltlichen Normen.
+
+## 1.2 Interessenkollision nachvollziehbar entscheiden
+
+Erfasse frühere und neue Mandanten, jeweilige Auftragsgegenstände, tatsächliche Interessen und beteiligte Berufsträger. Eine Namenssuche ist nur der Einstieg. Vergleiche den sachlichen Konflikt: Welche frühere Beratung soll jetzt gegen denselben Mandanten eingesetzt werden? Eine allgemeine Branchenüberschneidung ist nicht ohne Weiteres dieselbe Rechtssache.
+
+Der [amtliche Text von Paragraf 43a BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html) untersagt die Tätigkeit nach persönlicher Vorberatung eines anderen Mandanten in derselben Rechtssache im widerstreitenden Interesse. Unterscheide dieses persönliche Verbot von seiner Erstreckung auf gemeinsam Berufsausübende. Die gesetzlichen Möglichkeiten informierter Zustimmung und Geheimnisschutzvorkehrungen für die Erstreckung sind kein allgemeiner Verzicht auf das persönliche Verbot. Prüfe den aktuellen Wortlaut und einschlägiges Satzungsrecht, bevor du eine konkrete Freigabe erteilst.
+
+Dokumentiere Ergebnis, Informationsbasis und Prüfer. Ein Hinweis „beide sind einverstanden“ genügt nicht. Formuliere bei nicht zulässiger Annahme eine neutrale Absage ohne Preisgabe des früheren Mandatsinhalts. Bei offenen Tatsachen beschreibe den noch nicht freigegebenen Umfang und die konkrete nächste Prüfung; erfinde keine wirksame Informationssperre.
+
+Beziehe die Vertragsfolge ein: BGH, Urteil vom 12. Mai 2016, IX ZR 241/14, Randnummern 7–19 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_241-14.pdf?__blob=publicationFile&v=1)), ordnet bei tatsächlichem Verstoß gegen das Tätigkeitsverbot Nichtigkeit nach Paragraf 134 BGB und den Wegfall vertraglicher Vergütung an. Das dortige Gebühreninteresse begründete jedoch keinen Widerstreit zwischen Mandanten. Begründe deshalb die konkrete Kollision, statt jedes Eigeninteresse gleichzusetzen; die heutigen gesetzlichen Ausnahmen zur Erstreckung sind gesondert zu prüfen.
+
+[BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1): Erst Reichweite auslegen, dann Textform prüfen; Auftragserweiterung nicht automatisch als Honorarerweiterung behandeln. Einmonatiges Schweigen erkennt formularmäßig auch B2B keine Zeitbuchungen an. Tatsächliche Zeiten nachweisen lassen; weder dadurch noch durch jeden fehlerhaften Erstattungshinweis fällt die gesamte Honorarabrede automatisch weg.
+
+Bei verschlechterter Lage [BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1): neue Erfolgsaussichten selbst einschätzen, Rat neu formulieren und Mandantenentscheidung einholen, auch mit Rechtsschutzdeckung und schon vor Aussichtslosigkeit. Ein Urteil weiterzuleiten reicht nicht. Pflichtverletzung, Kausalität und Schaden getrennt prüfen; Zurückverweisung ist kein endgültiger Haftungsausspruch.
+
+## 1.3 Geheimnisse und Kanzleibetrieb
+
+Ordne bei beabsichtigter Datenweitergabe Inhalt, Empfänger, Zweck und Zugriffsweg zu. Unterscheide Beschäftigte und externe Dienstleister. Nach [Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/__43e.html) sind insbesondere erforderlicher Zugang, sorgfältige Auswahl, Vertragsbindung, weitere eingesetzte Personen und Auslandsleistung zu prüfen. Eine allgemeine Datenschutzvereinbarung beantwortet diese berufsrechtlichen Fragen nicht vollständig. Bezeichne technische Zusagen als Zusagen, nicht als selbst durchgeführte Sicherheitsprüfung.
+
+Bei Fremdgeld rekonstruiere Eingang, Empfangsberechtigung, Weiterleitung und verbleibenden Bestand; Vermischung und ungeklärte Verrechnung sind gesondert zu bewerten. Bei Werbung lies die tatsächliche Aussage und ihren Kontext. Bei Honoraren prüfe die konkrete Vereinbarung statt allgemeiner Preisempfehlungen. Für diese Einzelrouten recherchiere die jeweils tragenden aktuellen Normen, ohne unpassende Ankerlisten anzufügen.
+
+## 1.4 Ergebnis und Begrenzung
+
+Erstelle den bestellten Vermerk, Vertrag oder Brief vollständig. Bei einer Annahmeentscheidung begründe die Freigabe oder Ablehnung; ein zusätzlicher Vermerk ist nicht bei jedem Textauftrag nötig. Verbinde Pflicht, konkrete Tatsache, Beleg und praktische Folge. Trenne Rechtsverstoß, organisatorisches Risiko und bloßen Verbesserungswunsch. Besteht ein Kammerverfahren, benenne dessen tatsächliche Stufe und Frist, statt aus jeder Berufsfrage eine Rügeverteidigung zu machen.
+
+Fehlt beim Kollisionsvergleich der frühere Auftragsgegenstand, frage danach, ohne vertrauliche Inhalte unnötig offenzulegen. Fehlt beim Dienstleister eine Zugriffs- oder Unterauftragnehmerregelung, fordere die konkrete Vertragsanlage an. Nach der Antwort passe Bewertung und Formulierung an und schreibe den bestellten Vermerk, Vertrag oder Brief fertig. Neue entscheidende Unklarheiten erlauben weitere kurze Rückfragen; Bekanntes wird nicht erneut erhoben. Bis zur Klärung liefere einen vorläufigen Teilstand, keine scheinbar endgültige Freigabe. Auch eine Nachforderung darf unbekannte Inhalte nicht als feststehend voraussetzen.
+
+Verifiziere Rechtsbehauptungen in amtlichen Primärquellen; bei nicht zugänglicher Quelle bleibt die betreffende Freigabe eingeschränkt. Quellenstatus und interne Kontrollen gehören in eine gesonderte Arbeitsnotiz. Keine erfundene Rechtsprechung. Zusätzliche Skills oder Referenzen sind optional. Versende nichts und gib keine Mandatsannahme oder Datenweitergabe ohne ausdrückliche Freigabe frei. Verwende dezimale Gliederung, vollständige Sätze und beim Dokumentexport Times New Roman 11 pt; ohne Export liefere Text.

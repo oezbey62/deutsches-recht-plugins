@@ -1,0 +1,43 @@
+# 1. Hinzuschätzung mit einer belegten Gegenkalkulation prüfen
+
+Rechnen Sie den vom Prüfer angenommenen Warenabsatz und Rohgewinnaufschlag nach. Stellen Sie ihm die zeitgerechten Bestände, Rezepturen und Verkaufspreise meines Betriebs gegenüber und begründen Sie daraus die verlangte Korrektur der Hinzuschätzung. Liefern Sie die beauftragte Gegenkalkulation, Stellungnahme oder Einspruchsbegründung vollständig; Zusatzinhalte sind nicht erforderlich.
+
+Fragen Sie gezielt nach fehlenden Beständen, Preiszeiträumen oder Verfahrensunterlagen, soweit diese das Ergebnis verändern. Bearbeiten Sie die davon unabhängigen Teile weiter. Nach Eingang der Antwort aktualisieren Sie die betroffene Rechnung und deren Begründung im bestellten Dokument; verlangen Sie bereits belegte Angaben nicht erneut. Neue entscheidende Widersprüche dürfen weitere gezielte Rückfragen erfordern. Ein Teilstand oder ein Angebot zur späteren Texterstellung beendet den Dokumentenauftrag nicht.
+
+Ohne Eingabe bieten Sie Prüferrechnung nachvollziehen, mengenbezogene Gegenkalkulation oder fertige Stellungnahme an. Dateien ohne Auftrag zuerst still lesen und nur das passende Ziel klären, keine automatische Materialübersicht. Bei klarem Auftrag direkt bearbeiten; keine Pflicht zu mehreren Gesprächsrunden. Andere Plugin-Dateien oder Werkzeuge nicht voraussetzen.
+
+Beispiel einer Fortsetzung: „Der belegte Endbestand beträgt 2.000 statt 1.500 Flaschen.“ Bei sonst unveränderten Daten und 5 Euro Nettopreis sinkt der kalkulierte Umsatz um 2.500 Euro. Ändern Sie Rechnung, Differenz und beziffertes Begehren gemeinsam; prüfen Sie vorher, ob beide Bestände denselben Stichtag und dieselbe Warengruppe betreffen. Der neue Beleg heilt keine fehlenden Kassenaufzeichnungen.
+
+## 2. Akten und Verfahrensstand
+
+Erfassen Sie Betrieb, Jahre, Steuerarten, Gewinnermittlungsart, Kassensystem, Öffnungszeiten, Bescheide, Bekanntgaben und Vollziehungsstand. Lesen Sie Bericht, Rechenanlagen, Kassenaufzeichnungen, Warenrechnungen, Inventuren, zeitgleiche Preislisten, Rezepturen, Rabatt- und Verbrauchsnachweise. Unterstellen Sie keine einheitliche Steuer- oder Preisgrundlage über mehrere Jahre.
+
+## 3. Drei getrennte Prüfungen
+
+Prüfen Sie zuerst die Schätzungsbefugnis: Welcher Mangel betrifft welchen Zeitraum und warum kann er die sachliche Richtigkeit beeinflussen? Trennen Sie davon Methodenwahl und Höhe. Ein Fehler der Schätzmethode führt nicht automatisch zu unveränderter Übernahme der erklärten Zahlen.
+
+Rechnen Sie den Prüferansatz mit denselben Eingaben nach. Unterscheiden Sie Rohgewinnaufschlag und Marge. Für den Aufschlag gilt: Erlös = Wareneinsatz × (1 + Aufschlagsatz in Prozent / 100). Dokumentieren Sie Bezugsgröße, Einheit, Brutto-/Nettobasis und Rundung.
+
+Erstellen Sie dann je Warengruppe eine Gegenkalkulation: Anfangsbestand plus Zugänge minus Endbestand und belegte nicht verkaufte Mengen. Berücksichtigen Sie Retouren, Bruch, Eigenverbrauch und Gratisabgaben nachvollziehbar, ohne pauschale Wunschabschläge. Einkauf ist nicht Absatz. Rechnen Sie Gebinde und Portionen konsistent um. Verwenden Sie zeitgleiche Verkaufspreise und belegte Rabatte, keine späteren Preislisten ohne Anpassungsnachweis.
+
+Trennen Sie Umsatzarten und Steuersätze. Begründen Sie jede Hochrechnung aus Stichproben. Vergleichen Sie die Zuverlässigkeit innerer Betriebsdaten mit äußeren Vergleichsdaten; prüfen Sie deren Zeitraum, Gewerbeklasse und Datenqualität. Bei unklaren Parametern liefern Sie eine Sensitivitätsrechnung. Eine unsichere Richtsatzsammlung beweist keinen Nullzuschlag.
+
+BFH, Urteil vom 18.06.2025 – X R 19/21, Rn. 48–63: Nach Paragrafen 5 und 162 AO hat die mit zumutbarem Aufwand zuverlässigere Methode Vorrang. Belegen Sie verfügbare Mengen- und Preisdaten und verlangen Sie Gründe für die Ablehnung innerer Nachkalkulation. Kein Wahlrecht auf jede gewünschte Methode; fehlende Rezepturen begrenzen deren Zuverlässigkeit. Die Richtsatzkritik ist nach Rn. 31 nur ergänzend, kein Schätzungsverbot.
+
+BFH, Urteil vom 15.04.2026 – X R 14/24, Rn. 28–33 ([amtlich](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/)): Schon das fehlende erkennbare Erwägen eines möglichen inneren Betriebsvergleichs ist ein Methodenfehler. Benennen Sie gegenüber der Richtsatzrechnung die übergangenen Betriebsdaten und den Rechenweg. Die Schätzungsbefugnis blieb bestehen (Rn. 19–27); kein Nullzuschlag oder Anspruch auf Anerkennung der Gegenrechnung. Rn. 34–37 sind Hinweise für den zweiten Rechtsgang: Frostverderb anhand Wahrnehmungen und Belegen der Betriebsleitung klären; Verzicht auf deren Vernehmung beseitigt die gerichtliche Amtsermittlung nicht.
+
+Stellen Sie kalkulierten und erklärten vergleichbaren Umsatz gegenüber. Leiten Sie Gewinn- und Steuerfolgen gesondert ab; Mehrumsatz ist nicht ungeprüft Mehrgewinn oder konkrete Steuernachzahlung. Fehlende Kosten- und Bescheiddaten benennen.
+
+## 4. Quellen und Rechtsbehelf
+
+Am 14.09.2026 geprüft: [Paragraf 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html), [Paragraf 361 AO](https://www.gesetze-im-internet.de/ao_1977/__361.html); BFH, Urteil vom 18.06.2025, Az. X R 19/21, [amtliche Leitsätze und Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/). Jahresfassungen und Fortentwicklung amtlich prüfen; keine erfundenen Richtsätze oder Literatur.
+
+Bestimmen Sie zunächst, ob eine Rechenanlage zur Außenprüfung oder bereits ein Bescheid vorliegt. Richten Sie die Stellungnahme an die Prüfungsrechnung; erfinden Sie keinen Änderungsbescheid als Gegenstand eines Einspruchs. Bei vorhandenem Bescheid prüfen Sie Änderungsnorm, Rechtsbehelfsfrist und Vollziehung separat. Ein Einspruch stoppt die Zahlungspflicht nicht automatisch. Bei strafrechtlichem Risiko vor Erklärungen den Verfahrensschutz klären. Keine Selbstanzeige, Verständigung, Datenänderung oder Einreichung eigenmächtig vornehmen.
+
+## 5. Ausgabe
+
+Halten Sie für jede Korrektur fest, ob sie aus einem Rechenfehler, einer falschen Menge, einem unpassenden Preis oder einer methodischen Annahme folgt. Rechnen Sie bei streitigem Schwund mindestens den belegten Ansatz und den konkret behaupteten Alternativansatz, ohne diesen bereits als bewiesen zu behandeln. Eine Gegenrechnung nur für Getränke darf keine scheinbar abschließende Aussage über sämtliche Betriebseinnahmen erzeugen.
+
+Liefern Sie das bestellte Dokument vollständig mit nachvollziehbarer Prüferrechnung, Gegenkalkulation und fallbezogener Begründung. Dateinamen, Empfänger und Umfang folgen dem Auftrag; `ergebnis.md` ist nur der Standard ohne andere Vorgabe. Tabellen dienen umfangreichen Mengenabgleichen, eine Sensitivitätsrechnung nur tatsächlich unsicheren Parametern. Beziffern Sie Steuerfolgen nur im beauftragten Umfang und auf ausreichender Datengrundlage.
+
+In die Stellungnahme gehören der Bezug zur Prüfungsrechnung, die begründete Korrektur und das konkrete Begehren. Erläutern Sie fortbestehende Kassenmängel, soweit sie für die Begründung erheblich sind. Interne Beleganforderungen, technische Exporthinweise und Freigabefragen gehören dagegen in eine getrennte Bearbeitungsnotiz, nicht in den Empfängertext. Ohne Exportmöglichkeit liefern Sie den vollständigen Text unter dem bestellten Dateinamen, keinen erfundenen Download. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.
