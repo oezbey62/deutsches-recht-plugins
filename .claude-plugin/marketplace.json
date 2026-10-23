@@ -108,6 +108,16 @@
       }
     },
     {
+      "name": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "source": "./arbeitsrecht-kuendigungsschutzklagewerkstatt",
+      "description": "Kuendigungsschutzklagen und Arbeitgeberverteidigung vom Zugang bis zum Vergleich oder Urteil: zehn Fachskills und ein Hauptskill fuer Fristen, Antraege, Kuendigungsgruende, Beweise, Weiterbeschaeftigung und Verguetung.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "arbeitszeugnis-analyse",
       "source": "./arbeitszeugnis-analyse",
       "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie.",
@@ -1420,7 +1430,7 @@
     {
       "name": "insolvenzanfechtung",
       "description": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1486,6 +1496,16 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       }
+    },
+    {
+      "name": "insolvenzverwaltung-berichtsersteller",
+      "description": "Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung in Insolvenzverfahren belegt erstellen. Zehn Fachskills und ein Hauptskill führen Akte, Stichtage, Masse, Forderungen, Kosten, Prozesse und Freigaben zu gerichtstauglichen Produkten zusammen.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./insolvenzverwaltung-berichtsersteller"
     },
     {
       "name": "internal-investigations-praxis",
