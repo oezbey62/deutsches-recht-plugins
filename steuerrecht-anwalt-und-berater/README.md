@@ -5,7 +5,7 @@
 
 Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
 
-Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 313 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`steuerrecht-anwalt-und-berater-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [21 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 313 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -95,11 +95,13 @@ Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enth
 
 Die [Originalakte Tomasius 2025](../quality/steuerrecht-freiburg/tomasius-solo/README.md) führt Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit zusammen. Sie enthält Rechnungen, Honorare, VG WORT, Versicherungen, vollständige Kontoauszüge und bearbeitbare Arbeitsbögen. Das Umsatzsteuerverfahren für IV/2025 führt über den abweichenden Vorauszahlungsbescheid und den Einspruch zur Einspruchsentscheidung und zum Auftrag für die Klagevorbereitung.
 
+Der Einkommensteuer-Nachtrag verbindet die tatsächliche Tätigkeit an der Musikschule mit der getrennten Prüfung einer langfristig vermieteten Wohnung in Rom. Mietvertrag, Abrechnung und italienische Belege geben den Sachverhalt für die eigene Prüfung von Doppelbesteuerungsabkommen, Progressionsvorbehalt und Erklärungspflichten vor.
+
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Originalakte mit UStVA-Verfahren als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip)
+[Vollständige Tomasius-Akte als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/tomasius-steuerakte-v4/Testakte_Tomasius_2025_Rom_Musikschule_v4.zip)
 
 ## Umsatzsteuer-Voranmeldung aus Belegen
 
