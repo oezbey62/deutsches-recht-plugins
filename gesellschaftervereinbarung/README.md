@@ -5,7 +5,7 @@
 
 Gesellschaftervereinbarungen für GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.
 
-Dieses Plugin gehört zum Marketplace mit 313 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 314 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftervereinbarung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 313 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 314 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Drohnenfriseur Berlin – Gesellschaftervereinbarung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
+| [Drohnenfriseur Berlin – Gesellschaftervereinbarung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) | [`testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -117,7 +117,7 @@ Die Word-Ausfüllfassung umfasst 32 Kapitel mit ausgearbeiteten Vertragsanlagen,
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) |
 | Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
-| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
+| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
 
 Wählen Sie eine Fassung für Ihren Arbeitsordner. Das Originalformat-ZIP enthält zusätzlich die Gesamt-PDF als Lesefassung; bei Auswertung der Einzeldateien diese Lesefassung nicht nochmals mitladen. Dasselbe gilt für separat vorhandene E-Mail-Anhänge. Die Vertragsfassung ist ein fallbezogener Entwurf mit konkreten Ausfüllfeldern, nicht bereits beurkundet oder zur ungeprüften Unterzeichnung bestimmt. Die beiden ZIPs enthalten die zweisprachige README.txt; die PDF-Dateien keine zusätzlichen Warnseiten.
 

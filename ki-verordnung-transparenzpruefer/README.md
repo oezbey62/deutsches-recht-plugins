@@ -5,7 +5,7 @@
 
 Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.
 
-Dieses Plugin gehört zum Marketplace mit 313 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 314 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ki-verordnung-transparenzpruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 313 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 314 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,8 +62,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
-| [1. Testakte Pegnesus Redaktion und drei Ausspielfassungen](../testakten/ki-transparenz-pegnesus-redaktion/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-pegnesus-redaktion/gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf) | [`testakte-ki-transparenz-pegnesus-redaktion.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion.zip) | [`testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
+| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
+| [1. Testakte Pegnesus Redaktion und drei Ausspielfassungen](../testakten/ki-transparenz-pegnesus-redaktion/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-pegnesus-redaktion/gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf) | [`testakte-ki-transparenz-pegnesus-redaktion.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-ki-transparenz-pegnesus-redaktion.zip) | [`testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -163,4 +163,4 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsreleas
 
 | Akte und Aufgabe | Originaldateien | Einzel-PDFs | Gesamt-PDF |
 | --- | --- | --- | --- |
-| [Pegnesus Redaktion](../testakten/ki-transparenz-pegnesus-redaktion/README.md): Text, Bild, Audio, Endfassung und Markierung. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) | [PDF](../testakten/ki-transparenz-pegnesus-redaktion/gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf) |
+| [Pegnesus Redaktion](../testakten/ki-transparenz-pegnesus-redaktion/README.md): Text, Bild, Audio, Endfassung und Markierung. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-sammlung-v1.0.0/testakte-ki-transparenz-pegnesus-redaktion.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) | [PDF](../testakten/ki-transparenz-pegnesus-redaktion/gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf) |
