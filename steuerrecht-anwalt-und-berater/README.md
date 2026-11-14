@@ -5,7 +5,7 @@
 
 Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
 
-Dieses Plugin gehört zum Marketplace mit 314 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`steuerrecht-anwalt-und-berater-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [21 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 314 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -138,7 +138,7 @@ Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch 
 > | **Umsatzsteuerrecht** | `fa-stu-ust-vorsteuerabzug-15-ustg`, `fa-stu-ust-innergemeinschaftlich-6a-ustg`, `fa-stu-ust-rechnungspflicht-14-ustg`, `fa-stu-ust-organschaft-2-abs-2-ustg` |
 > | **Erbschaft- und Schenkungsteuer / Bewertung** | `fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg`, `fa-stu-schenkung-zehnjahresfrist`, `fa-stu-bewertung-immobilien-bewg` |
 > | **Bilanz- und Buchführungsrecht** | `fa-stu-bilanzberichtigung-4-abs-2-estg`, `fa-stu-handels-vs-steuerbilanz`, `fa-stu-rueckstellungen-249-hgb` |
-> | **Steuerstrafrecht (§§ 369 ff. AO, § 26b UStG)** | `fa-stu-steuerhinterziehung-370-ao`, `fa-stu-selbstanzeige-371-ao`, `fa-stu-leichtfertige-steuerverkuerzung-378-ao` |
+> | **Steuerstrafrecht (§§ 369 ff. AO, § 26c UStG)** | `fa-stu-steuerhinterziehung-370-ao`, `fa-stu-selbstanzeige-371-ao`, `fa-stu-leichtfertige-steuerverkuerzung-378-ao` |
 > | **Zoll-, Verbrauchsteuer- und Außenwirtschaftsrecht** | `fa-stu-zollwert-unionszollkodex`, `fa-stu-energiesteuerentlastung`, `fa-stu-aussenwirtschaftsembargo` |
 > | **Berufsrecht und Gebührenrecht** | `fa-stu-stberg-vereinbare-taetigkeit`, `fa-stu-rvg-steuerstreit`, `fa-stu-vorbehaltsaufgaben-stberg` |
 

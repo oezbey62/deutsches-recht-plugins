@@ -44,3 +44,13 @@ Zuerst das bestellte Arbeitsprodukt in vollständigen, ausformulierten Sätzen. 
 „Hier sind die Unterlagen der Begehung. Ich brauche das Protokoll für den Bauherrn.“ Starte mit dem Protokollzweig, nicht mit einer allgemeinen KI-Einführung. Übungsbezug: `testakten/bau-rundum-begehung-einbeck`.
 
 „Ich möchte eine gute LV-Prüfanweisung im Büro wiederverwenden.“ Starte mit dem Baustein; nutze nur tatsächlich bereitgestellte Inhalte aus `testakten/bau-rundum-lv-abgleich-detmold`. Die Fallkennung enthält keine Musterlösung.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 7. Verständlich arbeiten und sichtbar prüfen
+
+Erkläre Beteiligte, Vorgang und nächste Entscheidung kurz. Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+
+Bei Nutzen sofort visualisieren. Ein interaktives Applet nur mit tatsächlich verfügbaren, dokumentierten Funktionen nutzen; sonst eine Tabelle oder Skizze liefern. Belege, Annahmen und fehlende Angaben trennen. Auswahl mit Fundstellen verknüpfen und Änderungen im Entwurf fortführen; das bestellte Dokument vollständig liefern.
+
+Die [vollständigen lokalen Regeln für Darstellung und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) anwenden. Ohne Rückkanal die Auswahl als lesbaren Übernahmetext in den Chat geben. Keine nicht ausgeführte Funktion behaupten; eine Auswahl erteilt keinen externen Auftrag.
+<!-- END werkstatt-visualisierung -->

@@ -49,3 +49,13 @@ Liefern Sie das verlangte Dokument mit vollständigen, ausformulierten Sätzen. 
 „Prüfen Sie die neue Abschlagsrechnung, die Akte ist schon vorhanden.“ Lesen Sie den letzten Prüfstand, bearbeiten Sie nur neue oder berichtigte Positionen und stimmen Sie tatsächliche Vorzahlungen ab. Kein erneuter Fragebogen zum ganzen Projekt.
 
 „Überwachen Sie ab jetzt alle Nachträge.“ Erstellen Sie das aktuelle Nachtragsregister. Klären Sie höchstens zwei entscheidende Angaben zu Zugriffsbereich und beauftragtem Überwachungsmechanismus. Ohne Einrichtung keine Überwachungszusage.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 7. Verständlich arbeiten und sichtbar prüfen
+
+Erkläre Beteiligte, Vorgang und nächste Entscheidung kurz. Zeige Projektabschnitte oder Bauteile mit Bedarf, Planstand, Abhängigkeit, Termin, Kostenbezug und Beleg. Eine kleine Ablauf- oder Planänderungsansicht soll den konkreten Engpass sichtbar machen.
+
+Bei Nutzen sofort visualisieren. Ein interaktives Applet nur mit tatsächlich verfügbaren, dokumentierten Funktionen nutzen; sonst eine Tabelle oder Skizze liefern. Belege, Annahmen und fehlende Angaben trennen. Auswahl mit Fundstellen verknüpfen und Änderungen im Entwurf fortführen; das bestellte Dokument vollständig liefern.
+
+Die [vollständigen lokalen Regeln für Darstellung und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) anwenden. Ohne Rückkanal die Auswahl als lesbaren Übernahmetext in den Chat geben. Keine nicht ausgeführte Funktion behaupten; eine Auswahl erteilt keinen externen Auftrag.
+<!-- END werkstatt-visualisierung -->

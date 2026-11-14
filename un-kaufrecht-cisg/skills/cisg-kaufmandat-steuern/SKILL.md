@@ -32,3 +32,23 @@ Ausformulierungspflicht: vollständige, grammatikalisch saubere Sätze; keine Sk
 ## 1.6. Beispiele
 
 Eine Käuferin verlangt wegen einer reparierbaren Maschine sofort einen Deckungskaufbrief. Lies den Reparaturplan, frage nur nach dem noch unbekannten Stillstandsende und liefere zunächst die sachlich passende Nachbesserungsaufforderung. Liegt später eine begründete endgültige Ablehnung vor, aktualisiere Aufhebung, Deckungsgeschäft und Schadensforderung. Ein Verkäufer mit offener Rechnung erhält keine Käuferbelehrung, sondern eine bezifferte Forderung mit Prüfung der konkreten Einwendungen.
+
+<!-- BEGIN werkstatt-visualisierung -->
+## 2. Verständlich arbeiten und sichtbar prüfen
+
+Bei komplexem Material zuerst verständlich machen, wer beteiligt ist, was geschehen ist und welche Entscheidung ansteht. Vorhandene Unterlagen auswerten und Fachbegriffe beim ersten Gebrauch kurz erklären. Danach das erste nutzbare Arbeitsergebnis liefern. Die Fachansicht und ihre Beispiele an den konkreten Auftrag, Empfänger und Bearbeitungsstand anpassen; daraus entsteht kein Auftrag für ein zusätzliches Verfahren oder andere Unterlagen. Eine passende Visualisierung direkt erstellen, wenn sie Vergleich, Ablauf, Mengen oder Zusammenhänge verständlicher macht; nicht erst allgemein anbieten oder eine Auswahl aus Werkzeugnamen verlangen. Einfache Einzelfragen knapp beantworten. Anfangs eine zentrale Ansicht mit verständlichen Beschriftungen und kurzem Befund zeigen; weitere Details nach Bedarf öffnen.
+
+Leitfrage für internationaler Warenkauf nach dem CISG: Welche Kaufpflicht ist streitig und wie hängen Lieferung, Zahlung, Mangel und maßgebliche Fristen zusammen?
+
+Erste Ansicht: Zeige die Kaufabwicklung von Vereinbarung und Leistungspflichten über Lieferung und Zahlung bis zu Untersuchung, Mangelanzeige und verlangtem Rechtsbehelf. Stelle streitige Tatsachen, Vertragsklauseln und Belege neben eine datierte Ereignisfolge.
+
+Sinnvolle Interaktion: Eine Auswahl auf Kaufpflicht, Klausel, Lieferung oder Mangel zeigt Beleg und Entwurfsabschnitt. Geänderte Datums- oder Vertragsannahmen als Szenario führen; Anwendbarkeit, Fristmaßstab und Rechtsbehelf erneut prüfen, bevor das verlangte Schreiben oder der Vertragsentwurf angepasst wird.
+
+Datengrundlage: Vertragsfassung, Parteien und Rollen, Ware, Leistungspflicht, Liefer- und Zahlungsdaten, Untersuchungs- und Anzeigedaten, Mangelbefund, Quellenbeleg und maßgebliche Rechtsgrundlage. Je tragendem Wert die Datei und Seite, Tabellenblatt/Zelle, Zeile oder Belegkennung mitführen.
+
+Weiter zum Ergebnis: der beauftragte Kaufrechtsvermerk, die ausformulierte Mangelanzeige, Leistungsaufforderung, Vertragsänderung oder Verhandlungsantwort. Die Ansicht ist ein Arbeitsmittel auf diesem Weg.
+
+Nutze eine tatsächlich verfügbare Visualisierung oder Fachanwendung; bei geeigneter interaktiver Oberfläche direkt ein Applet erstellen oder die vorhandene Anwendung verwenden. Ohne diese Fähigkeit eine verständliche Tabelle oder Skizze liefern. Belege und Annahmen trennen, fehlende Werte nicht als null behandeln. Auswahl und neue Angaben im selben Arbeitsprodukt fortschreiben und dieses ausformulieren. Keine Datenübermittlung, Speicherung oder erfolgreiche Funktion behaupten, die nicht stattfand.
+
+Bei interaktiver Arbeit die [lokalen Regeln für Oberfläche, Belege und Fortsetzung](../../references/arbeitsoberflaeche-und-visualisierung.md) lesen.
+<!-- END werkstatt-visualisierung -->
