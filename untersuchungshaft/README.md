@@ -5,13 +5,13 @@
 
 Untersuchungshaft für Gericht, Staatsanwaltschaft, Verteidigung und Betroffene: zehn Skills zu Haftbefehl, Vorfuehrung, Haftverschonung, Haftpruefung, Beschwerde, Haftdauer, Vollzugsrechten und Jugendhaft. Mit konkreten Antraegen und Entscheidungsvorlagen.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`untersuchungshaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`untersuchungshaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/untersuchungshaft.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/untersuchungshaft.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md) |
@@ -45,12 +45,12 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`untersuchungshaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`untersuchungshaft.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/untersuchungshaft.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`untersuchungshaft-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`untersuchungshaft-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -97,8 +97,8 @@ Eigene Anträge des Betroffenen sind möglich; das Arbeitsmittel ersetzt jedoch 
 
 | Fassung / Format | Verwendung / Use | Download |
 | --- | --- | --- |
-| Plugin-ZIP | Zehn Skills und Referenzen; Marketplace-Name `untersuchungshaft` / Ten skills and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft.zip) |
-| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing plugin folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft-portable.zip) |
+| Plugin-ZIP | Zehn Skills und Referenzen; Marketplace-Name `untersuchungshaft` / Ten skills and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/untersuchungshaft.zip) |
+| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing plugin folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/untersuchungshaft-portable.zip) |
 | Werkstatt-Prompt | Ausführlicher eigenständiger Ablauf mit Rollen, Verzweigungen und Dokumentproduktion / Detailed standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md" download>Werkstatt als Markdown / Download workshop</a> |
 | Mini-Prompt / Schnellstart | Kompakter eigenständiger Ablauf für den konkreten Haftauftrag / Compact standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md" download>Mini als Markdown / Download quick start</a> |
 

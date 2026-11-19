@@ -5,13 +5,13 @@
 
 US-Sanktionen für Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschäfte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills führen zum belegten Vermerk, Antrag oder Schreiben.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`us-sanktionspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/us-sanktionspruefer.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`us-sanktionspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-sanktionspruefer.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/us-sanktionspruefer.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-schnellstart.md) |
@@ -46,13 +46,13 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`us-sanktionspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/us-sanktionspruefer.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`us-sanktionspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-sanktionspruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`us-sanktionspruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`us-sanktionspruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-werkstatt.md) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md" download>us-sanktionspruefer-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -94,8 +94,8 @@ Vor jeder tatsächlichen Ausführung müssen die dafür relevanten aktuellen Lis
 
 | Angebot | Verwendung | Download |
 | --- | --- | --- |
-| Plugin | Zehn gezielt eingesetzte Skills mit Quellenregister | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/us-sanktionspruefer.zip) |
-| Portables Plugin | Derselbe Fachinhalt in einem umschließenden Plugin-Ordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/sanktionen-eu-us-v1.0.0/us-sanktionspruefer-portable.zip) |
+| Plugin | Zehn gezielt eingesetzte Skills mit Quellenregister | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-sanktionspruefer.zip) |
+| Portables Plugin | Derselbe Fachinhalt in einem umschließenden Plugin-Ordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/us-sanktionspruefer-portable.zip) |
 | Werkstatt-Prompt | Ausführlicher eigenständiger Ablauf mit Verzweigungen und Dokumentenproduktion | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-werkstatt.md" download>Werkstatt als Markdown</a> |
 | Mini-Prompt | Kompakter Ablauf für die konkrete US-Sanktionsprüfung | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-schnellstart.md" download>Mini als Markdown</a> |
 | Hauptproblem-Prompt | Angehaltenes Geschäft vom Treffer bis zum benötigten Dokument bearbeiten | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-sanktionspruefer/us-sanktionspruefer-hauptproblem.md" download>Hauptproblem als Markdown</a> |

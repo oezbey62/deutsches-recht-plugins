@@ -11,7 +11,7 @@ Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Aussc
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude Desktop oder Cowork:** [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/konkurrenten-rechtsschutz.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
 - **Claude Code:**
 
 ```text
@@ -39,7 +39,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [konkurrenten-rechtsschutz-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md" download="konkurrenten-rechtsschutz-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [konkurrenten-rechtsschutz-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md" download="konkurrenten-rechtsschutz-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/konkurrenten-rechtsschutz.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/konkurrenten-rechtsschutz.md) | [`konkurrenten-rechtsschutz-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-konkurrenten.md) | [`vergaberecht-arbeitsprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-konkurrenten.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-konkurrenten.md) | [`vergaberecht-kurzprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-konkurrenten.md) |
@@ -171,7 +171,7 @@ Der vollständige Katalog enthält 20 Skills. Für die normale Fallbearbeitung g
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 21 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 22 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -188,6 +188,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/RECHTSSCHUTZ-UND-STRATEGIE.md` | [Ansehen](references/RECHTSSCHUTZ-UND-STRATEGIE.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/RECHTSSCHUTZ-UND-STRATEGIE.md) |
 | `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/bundeswehrbeschaffung-bwbbg-2026.md) |
+| `references/hauptworkflow-entscheidungen.md` | [Ansehen](references/hauptworkflow-entscheidungen.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/hauptworkflow-entscheidungen.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/methodik-vergaberecht.md) |
 | `references/netto-null-technologien-vergabe-2026.md` | [Ansehen](references/netto-null-technologien-vergabe-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/konkurrenten-rechtsschutz/references/netto-null-technologien-vergabe-2026.md) |

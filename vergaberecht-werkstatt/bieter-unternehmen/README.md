@@ -9,7 +9,7 @@
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bieter-unternehmen.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude Desktop oder Cowork:** [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bieter-unternehmen.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
 - **Claude Code:**
 
 ```text
@@ -37,7 +37,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [bieter-unternehmen-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md" download="bieter-unternehmen-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [bieter-unternehmen-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md" download="bieter-unternehmen-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/bieter-unternehmen.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/bieter-unternehmen.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/bieter-unternehmen.md) | [`bieter-unternehmen-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-bieter.md) | [`vergaberecht-arbeitsprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-bieter.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-bieter.md) | [`vergaberecht-kurzprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-bieter.md) |
@@ -200,7 +200,7 @@ Der vollständige Katalog enthält 8 Skills. Für die normale Fallbearbeitung ge
 Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plugin-ZIP enthalten.
 
 <details>
-<summary><strong>Alle 28 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
+<summary><strong>Alle 29 Vorlagen, Referenzen und Manifestdateien anzeigen</strong></summary>
 
 | Datei | Ansehen | Rohdatei |
 | --- | --- | --- |
@@ -224,6 +224,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/QUELLEN-AKTUALITAET.md` | [Ansehen](references/QUELLEN-AKTUALITAET.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/QUELLEN-AKTUALITAET.md) |
 | `references/arbeitsoberflaeche-und-visualisierung.md` | [Ansehen](references/arbeitsoberflaeche-und-visualisierung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/arbeitsoberflaeche-und-visualisierung.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/bundeswehrbeschaffung-bwbbg-2026.md) |
+| `references/hauptworkflow-entscheidungen.md` | [Ansehen](references/hauptworkflow-entscheidungen.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/hauptworkflow-entscheidungen.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/methodik-vergaberecht.md) |
 | `references/netto-null-technologien-vergabe-2026.md` | [Ansehen](references/netto-null-technologien-vergabe-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/bieter-unternehmen/references/netto-null-technologien-vergabe-2026.md) |

@@ -11,7 +11,7 @@
 
 Berliner Polizei- und Ordnungsrecht aus Betroffenensicht: Gefahrenabwehr, Identitätskontrolle, Platzverweis, Gewahrsam, Durchsuchung, Sicherstellung, Polizeidaten, Vollstreckung und Rechtsschutz. Zehn Fachskills und ein Hauptskill.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -19,7 +19,7 @@ Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`berliner-asog-polizeirecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berliner-asog-polizeirecht.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`berliner-asog-polizeirecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berliner-asog-polizeirecht.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/berliner-asog-polizeirecht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.txt) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.txt) |
@@ -57,12 +57,12 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`berliner-asog-polizeirecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berliner-asog-polizeirecht.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`berliner-asog-polizeirecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berliner-asog-polizeirecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`berliner-asog-polizeirecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md) · [`berliner-asog-polizeirecht-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`berliner-asog-polizeirecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md) · [`berliner-asog-polizeirecht-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -99,7 +99,7 @@ Das Plugin deckt Zuständigkeit und Gefahr, Identitätskontrolle, Platzverweis, 
 
 | Bestandteil | Einsatz | Download |
 | --- | --- | --- |
-| Plugin mit elf Skills | Installation mit allen mitgelieferten Fachreferenzen. | [Einzel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berliner-asog-polizeirecht.zip) |
+| Plugin mit elf Skills | Installation mit allen mitgelieferten Fachreferenzen. | [Einzel-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/berliner-asog-polizeirecht.zip) |
 | Mini-Prompt | Kompakter eigenständiger Ablauf für den konkreten ersten Entwurf; unter 7.500 Zeichen und UTF-8-Bytes. | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.txt) |
 | Werkstatt-Prompt | Vertiefte eigenständige Bearbeitung mit zehn Fachrouten, drei Arbeitslagen und zehn geprüften Entscheidungsankern. | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.txt) |
 | Hauptproblem-Prompt | Steuerung des ganzen Mandats vom Eingriff bis zum vollständigen Ergebnis; unter 7.500 Zeichen und UTF-8-Bytes. | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.txt) |

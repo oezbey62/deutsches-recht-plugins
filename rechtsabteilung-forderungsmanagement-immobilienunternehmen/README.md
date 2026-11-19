@@ -5,13 +5,13 @@
 
 Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/rechtsabteilung-forderungsmanagement-immobilienunternehmen.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
@@ -49,19 +49,19 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Für Fachangestellte und Fachkräfte der internen Immobilien-Rechtsabteilung: vom SAP-/DMS-Ordner bis zum begründeten Entwurf, zur Kostenakte und zur Vollstreckung. **50 Fachskills**, beide autarken Prompts und der gesamte Quellstand aus Version 5.27.1 sind erhalten. Der Name ist unternehmensneutral; Vermieterin, Vertretung und Befugnisse werden für jeden Fall aus den Unterlagen ermittelt.
 
 ## In einer Minute beginnen
 
-1. [Fachplugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) und im vorgesehenen Plugin-Import installieren.
+1. [Fachplugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) und im vorgesehenen Plugin-Import installieren.
 2. Fallordner oder bisherigen Arbeitsstand samt neuer Post bereitstellen.
 3. Auftrag: `Neuer Fall. Prüfe den gesamten Ordner, sichere zuerst alle Fristen und arbeite ohne Skillauswahl bis zur nächsten freigabefähigen Entscheidung weiter.`
 
@@ -71,7 +71,7 @@ Keine Skillnummer nötig. Bereits beantwortete Fragen werden übernommen. Bei ei
 
 | Gewünschtes Ergebnis | Richtiger Einstieg |
 |---|---|
-| Juristischen Fall bearbeiten | [Plugin mit 50 Fachmodule in 9 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.0/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| Juristischen Fall bearbeiten | [Plugin mit 50 Fachmodule in 9 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 | Vollworkflow ohne Plugin nutzen | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Kompakte Einzelprompt-Variante | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | Fertige Schriftsätze nur technisch vorbereiten | [Getrennte beA-Werkstatt](../schriftsatzwerkstatt-bea/README.md) |

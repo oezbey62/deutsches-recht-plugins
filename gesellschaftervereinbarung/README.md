@@ -5,13 +5,13 @@
 
 Gesellschaftervereinbarungen für GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gesellschaftervereinbarung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gesellschaftervereinbarung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftervereinbarung.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/gesellschaftervereinbarung.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md) |
@@ -45,12 +45,12 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gesellschaftervereinbarung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gesellschaftervereinbarung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftervereinbarung.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`gesellschaftervereinbarung-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftervereinbarung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -79,8 +79,8 @@ Beispiel: „Ich vertrete die beiden Gründer. Bereite aus dem Term Sheet eine G
 
 | Verwendung | Datei |
 | --- | --- |
-| Plugin mit elf Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
-| Portables Paket mit Hauptordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung-portable.zip) |
+| Plugin mit elf Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftervereinbarung.zip) |
+| Portables Paket mit Hauptordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gesellschaftervereinbarung-portable.zip) |
 | Ausführlicher eigenständiger Workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md" download>Werkstatt-Prompt als Markdown</a> |
 | Kompakter Einstieg | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md" download>Schnellstart-Prompt als Markdown</a> |
 | Kernauftrag Term Sheet zum Vertrag | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md" download>Hauptproblem-Prompt als Markdown</a> |

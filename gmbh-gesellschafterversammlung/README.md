@@ -10,7 +10,7 @@
 
 Gesellschafterversammlungen für GmbH und UG: fünf Fachskills plus Hauptproblem-Skill für Unterlagen, Einladung, Nachträge, Stimmen, Leitfaden, Protokoll und Vollzug. Mit eigenständiger Werkstatt, Mini-Prompt und exaktem Stimmenprüfer.
 
-Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -18,7 +18,7 @@ Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gmbh-gesellschafterversammlung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gmbh-gesellschafterversammlung.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`gmbh-gesellschafterversammlung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gmbh-gesellschafterversammlung.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/gmbh-gesellschafterversammlung.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md) |
@@ -60,12 +60,12 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gmbh-gesellschafterversammlung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gmbh-gesellschafterversammlung.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gmbh-gesellschafterversammlung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/gmbh-gesellschafterversammlung.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`gmbh-gesellschafterversammlung-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`gmbh-gesellschafterversammlung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Von der Satzung und den bereits vorhandenen Unterlagen zu einer vollständigen Einladung, zu Nachträgen und zu einem Leitfaden, der nach der Sitzung zum tatsächlichen Protokoll wird. Entwickelt aus dem bereitgestellten „Prompt des Monats: Der Gesellschafterversammlungs-Vorbereiter“ von Tom Braegelmann; eigenständig ausgearbeitet und um amtlich geprüfte Quellen ergänzt. Die Ausgangsdatei wird nicht mitveröffentlicht.
