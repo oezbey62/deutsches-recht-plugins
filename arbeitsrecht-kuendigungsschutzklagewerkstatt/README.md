@@ -5,7 +5,7 @@
 
 Kündigungsschutzklagen und Arbeitgeberverteidigung vom Zugang bis zum Vergleich oder Urteil: zehn Fachskills und ein Hauptskill für Fristen, Anträge, Kündigungsgründe, Beweise, Weiterbeschäftigung und Vergütung.
 
-Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,9 +52,11 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md" download>arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
+
+[Grundakten für Kündigungsschutz und Arbeitsrecht mit Eingangspost, Rückfragen und Belegen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/Fachakten.md#kündigungsschutz-und-arbeitsrecht)
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -201,13 +203,18 @@ Die zusätzlichen Angaben aus dem Mandantengespräch und die Quellenprüfung ste
 
 93 Aktenstücke und ein Aktenverzeichnis bilden 94 PDFs mit zusammen 185 Seiten. Die Arbeitsakte zum Workshop am 12. November 2026 führt von der Vertragsanbahnung 2008 über den KI-bedingten Stellenabbau und die vollständige erste Instanz bis zur fristwahrenden Berufungseinlegung am 30. Oktober 2026. Nachurteilskorrespondenz und weitere Belege geben Material für die eigene Einschätzung und Begründung. Ein PDF-Aktenverzeichnis erschließt die Unterlagen. Die Berufungsbegründung bleibt die eigene Bearbeitungsaufgabe. [Fall und Benutzung](testakte/uferwerk-berufung/README.md).
 
-Die Ausgabe besteht auf ausdrücklichen Wunsch ausschließlich aus dem ZIP mit einzelnen PDFs und README.txt. Die fünf bisherigen Fallfassungen behalten ihre drei Ausgabeformen.
+Die ursprüngliche Workshopfassung enthält die einzelnen PDFs und README.txt in einem ZIP. Die fünf bisherigen Fallfassungen behalten ihre drei Ausgabeformen.
+
+Für einen Einstieg mit der ersten Mandantenpost enthält die vollständige Arbeitsakte zusätzlich `Grundakte/00_Posteingang`. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Muster gegen Uferwerk – Berufung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/lebensakte-arbeitsrecht-muster-uferwerk-berufung.zip) | [Druckfassungen dieses Falls](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-fachakten-v1.1.0/druckakte-arbeitsrecht-muster-uferwerk-berufung.zip) |
+| Uferwerk-Berufungsakte in 94 Einzel-PDFs | [Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip) | PDF-Akte |
 
 ## 1.5. Rechtsprechung mit ihrem passenden Anwendungsbereich
 

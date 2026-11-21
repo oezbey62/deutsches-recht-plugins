@@ -5,13 +5,13 @@
 
 Prüft Arbeitszeugnisse aus Arbeitnehmersicht: gezielte Rückfragen, vertiefte Rechtsprechung, belegbare Änderungen, kurzer Mandantenbrief und passendes Arbeitgeberschreiben. Führt den Fall bis zur Kontrolle der Neufassung; auch für Chat und Word ausgearbeitet.
 
-Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/arbeitszeugnispruefer.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.11/arbeitszeugnispruefer.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/arbeitszeugnispruefer.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
@@ -45,12 +45,12 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/arbeitszeugnispruefer.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.11/arbeitszeugnispruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`arbeitszeugnispruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitszeugnispruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [beide Aktenbestände](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -69,6 +69,18 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Prüfe und analysiere ein vorliegendes deutsches Arbeitszeugnis bis zum beauftragten Ergebnis. Der gemeinsame Prüfer verbindet die ausführliche Arbeitnehmerberatung mit begrenzten Analyseaufträgen, Satz- und Fassungsvergleichen sowie den besonderen Fragen von Ausbildung und Führung. Die [Arbeitsmodi](references/arbeitszeugnis-auslegung-und-arbeitsmodi.md) zeigen, welche Unterlagen und Endprodukte zum konkreten Auftrag gehören.
+
+## Floristik und Kassenabschluss
+
+Beginnen Sie mit der Eingangspost und vergleichen Sie die Beobachtungen zum Kassenabschluss mit der Darstellung im Zeugnis. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Floristik – der Kassenabschluss | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-arbeitszeugnis-floristik-kassenabschluss.zip) | [Druckpaket 04](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-04.zip) |
 
 ## Wenn du das brauchst
 
@@ -96,6 +108,8 @@ Die unabhängigen [Dialogproben](../docs/arbeitszeugnis-dialogpruefung.md) dokum
 ## 1. Arbeitsbuch und konkrete Fallprüfung
 
 Das [Arbeitsbuch](references/arbeitszeugnis-handbuch.md) ergänzt die Prüfung um ausführliche Entscheidungsbesprechungen, Beweisfragen, Gegenfälle und eigene Mandatsbeispiele. Kapitel 20 führt durch Chat, Plugin und Word; Kapitel 21 behandelt Leistung, Verhalten und Beweise; Kapitel 22 Schlussformeln, Bindung und Status; Kapitel 23 Form, Fristen und Verfahren. Die Skills ziehen die zum Fall passenden Teile heran und arbeiten danach bis zu den geschuldeten Entwürfen weiter. Das Buch ersetzt weder die Prüfung der Originalunterlagen noch die aktuelle Verifikation einer tragenden Quelle.
+
+Bei einem Zeugnisvergleich prüft der Hauptskill den vereinbarten Wortlaut, den letzten Entwurf und die tatsächlich erteilte Fassung. Das Arbeitsbuch zeigt in Abschnitt 22.2.11, wann „viel Erfolg“ die vereinbarte Schlussformel erfüllt. Abschnitt 23.8.7 behandelt den Fall, dass eine einzige wesentliche Tätigkeit streitig bleibt. Für Ausbildungszeugnisse unterscheiden die Fachmodule den gesetzlichen Pflichtinhalt von einer zusätzlich verlangten Leistungs- und Verhaltensbeurteilung.
 
 Die [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) enthält das Arbeitsbuch vollständig und kann als einzelne Datei verwendet werden. Das Plugin nutzt dieselbe Fassung als mitgepackte Referenz; die Werkstatt selbst bleibt außerhalb des Pluginpakets. Alle 78 Fachvertiefungen sind über 8 Skills erreichbar, und der [kleine Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) wird nicht zum Handbuch aufgebläht. Bei Word richtet sich die Bearbeitung nach den tatsächlich verfügbaren Lese- und Änderungsfunktionen. Ohne Dateiexport werden die vollständigen Texte im Chat ausgegeben; eine nicht erzeugte Datei wird nicht behauptet.
 

@@ -5,7 +5,7 @@
 
 Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung.
 
-Dieses Plugin gehört zum Marketplace mit 312 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 315 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 312 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 315 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Für Fachangestellte und Fachkräfte der internen Immobilien-Rechtsabteilung: vom SAP-/DMS-Ordner bis zum begründeten Entwurf, zur Kostenakte und zur Vollstreckung. **50 Fachskills**, beide autarken Prompts und der gesamte Quellstand aus Version 5.27.1 sind erhalten. Der Name ist unternehmensneutral; Vermieterin, Vertretung und Befugnisse werden für jeden Fall aus den Unterlagen ermittelt.
@@ -295,6 +295,24 @@ Die fachliche Leitung prüft dabei nicht nur den Textentwurf, sondern auch Chron
 ## Testakten
 
 Die [neun Fälle und der Mietspiegel mit jeweils drei Downloadformen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/TESTAKTEN.md) gehören zum Projekt. Für den ersten Durchlauf genügt der Ordner `Grundakte` im Arbeits-ZIP. Beginne mit Lange (Bankwechsel, Kulanz und Belegdublette), danach Braun (Betriebskosten und Beleglücken). Lade je Fall nur eine Darreichungsform, damit dasselbe Aktenstück nicht mehrfach im Eingang landet.
+
+Wählen Sie den Haushalt und öffnen Sie zuerst `Grundakte/00_Posteingang`. Dort beginnt die Bearbeitung mit Mieterpost und Unterlagen der Verwaltung. [Fallordner im Druckpaket nachschlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/docs/grundakten-lebenswelt/README.md#weitere-arbeitsakten-und-eigenständige-pluginfassungen).
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Fall | Originalunterlagen und Eingangspost | Lesefassungen |
+| --- | --- | --- |
+| Becker in Tempelhof · Mieterhöhung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-mieterhoehung-becker-tempelhof.zip) | [Druckpaket 20](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-20.zip) |
+| Schulz · Verteidigung gegen die Mieterklage wegen Schimmels | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-mieterklage-schimmel-schulz-verteidigung.zip) | [Druckpaket 20](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-20.zip) |
+| Demir · fünf offene Mietraten | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-mietrueckstand-demir-fuenf-raten-absichtlich.zip) | [Druckpaket 20](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-20.zip) |
+| Lange · zwei versehentlich ausgebliebene Raten | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-mietrueckstand-lange-zwei-raten-versehen.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| Meier in der Wilhelmstraße · Mietrückstand | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-mietrueckstand-meier-wilhelmstrasse.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| Braun · offene Nebenkostennachzahlung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-nebenkosten-braun-nachzahlung-unbezahlt.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| Kowalski in Friedrichshain · Räumung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-raeumungsklage-kowalski-friedrichshain.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| Riedel · Ratenplan mit ausgebliebener Zahlung | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-ratenplan-riedel-gebrochen.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
+| Krüger · Teilzahlung auf einen Titel | [Arbeits-ZIP mit Eingangspost](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lebensakte-immobilien-vollstreckung-krueger-titel-teilzahlung.zip) | [Druckpaket 21](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/grundakten-lebenswelt-v1.0.0/lesepaket-21.zip) |
 
 ## Quellen und Konsistenz
 
