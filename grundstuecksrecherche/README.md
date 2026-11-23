@@ -51,7 +51,7 @@ Mit `--case vorgang.json` wird dessen Ort vorbereitet; erst `--include-case` sch
 
 English: Use `Vorgang` → `Website als ZIP herunterladen`, extract the complete archive and open `index.html`. No Python or server is required on the receiving computer. Document editing and generation run in the browser; live maps and searches still require internet and provider permission for browser access. Case details are excluded unless explicitly selected.
 
-[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
 
 Das ZIP ist der Installationsweg nach Veröffentlichung dieser Version; der lokale Start verwendet die Dateien im Arbeitsverzeichnis.
 <!-- END direkt-loslegen (autogen) -->
@@ -92,7 +92,7 @@ English: Complete list of all 2 skills in this plugin. Both links in each row do
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
 | [`auskunftsentwuerfe-vorbereiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/auskunftsentwuerfe-vorbereiten/SKILL.md) | Bereitet in der Grundstücksrecherche-App vier Auskunftsentwürfe für Katasterbehörde, Grundbuchamt, Notariat und Rechtsabteilung als echte DOCX-Dateien und ZIP vor. Prüft Flurstücksangaben, Zweck und Nachweise; versendet nichts. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/auskunftsentwuerfe-vorbereiten/SKILL.md) |
-| [`grundstuecksrecherche-starten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/grundstuecksrecherche-starten/SKILL.md) | Startet die lokale Grundstücksrecherche-App und begleitet Stadtsuche, verifizierte NRW-Katasterauswahl oder manuelle Flurstückserfassung. Erklärt fehlende Ausführungs- oder Browsermöglichkeiten ohne eine Einbettung vorzutäuschen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/grundstuecksrecherche-starten/SKILL.md) |
+| [`grundstuecksrecherche-starten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/grundstuecksrecherche-starten/SKILL.md) | Grundstücksrecherche bis zum belegten Ergebnis steuern. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundstuecksrecherche/skills/grundstuecksrecherche-starten/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 

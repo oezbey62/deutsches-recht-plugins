@@ -5,7 +5,7 @@
 
 Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation allein startet keinen Server und garantiert keine eingebettete Browseransicht.
 
-[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatzwerkstatt-bea.zip) · [Plugin-Dateien](.)
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/schriftsatzwerkstatt-bea.zip) · [Plugin-Dateien](.)
 <!-- END direkt-loslegen (autogen) -->
 
 Eigenständiges Cowork-Plugin für die letzte technische Strecke vor einer gerichtlichen Einreichung. Der rechtliche Inhalt ist bereits fertig und freigegeben; die Werkstatt inventarisiert den Ordner, sperrt die richtige Schriftsatzversion, ordnet Anlagen, erzeugt einzelne PDFs, prüft jede Seite, bildet kurze ASCII-Dateinamen und bereitet Signatur, Versandauftrag und Eingangsnachlauf vor.
@@ -144,7 +144,7 @@ Ein grüner Skriptlauf ersetzt weder die visuelle Seitenkontrolle noch die reale
 ## Downloads und Navigation
 
 - [Projektübersicht: Rechtsabteilung Forderungsmanagement Immobilienunternehmen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.9/schriftsatzwerkstatt-bea.zip)
+- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/paketpflege-20261122-v445.36.9/schriftsatzwerkstatt-bea.zip)
 - [Fachplugin für die inhaltliche Bearbeitung](../rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
 - [Arbeitsregeln und Abgrenzung](./AGENTS.md)
 - [Root-README](../README.md)
@@ -162,7 +162,7 @@ English: Complete list of all 9 skills in this plugin. Both links in each row do
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
-| [`01-bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) | Bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln: startet die technische Werkstatt ohne juristische Inhaltsänderung. Inventarisiert Originale, klärt fehlende Pflichtdaten und führt durch Version, A... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) |
+| [`01-bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) | beA-Werkstatt vom Dateiordner zur geprüften Mappe führen. Verarbeitet vorhandene Unterlagen, verbindet entscheidende Fachprüfungen und belegte Quellen, erstellt das beauftragte Ergebnis und führt denselben Vorgang nach neuen Angaben fort. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) |
 | [`02-schriftsatzversion-festlegen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md) | Bei mehreren DOCX-, ODT- oder PDF-Fassungen, Kommentaren, Änderungen, Platzhaltern oder unklarem Unterschriftsblock: bestimmt die fachlich freigegebene Schriftsatzversion vor der PDF-Konvertierung. Prüft Version und technische Vollständi... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md) |
 | [`03-anlagenfolge-kennzeichnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md) | Bei fertigem Schriftsatz mit gemischten Belegen: ordnet Anlagen technisch zu, führt vorhandene K- oder B-Nummern fort und bereitet die Kennzeichnung rechts oben vor. Prüft Zitate, Dubletten, Seitenfolge und fehlende Dateien. Liefert eine... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md) |
 | [`04-dateien-in-pdf-umwandeln`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md) | Bei fertigem Schriftsatz und Anlagen aus Office, Tabellen, E-Mails, Bildern, Scans oder PDF: erzeugt separate PDF-Arbeitskopien. Behandelt Layout, Druckbereiche, Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Erhält Origi... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md) |
