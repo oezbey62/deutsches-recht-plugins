@@ -2,7 +2,7 @@
 
 Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
 
-[Interstate AG · sieben Testakten aus der Niederlassung West](Interstate%20AG/README.md). Prüfen Sie am Betriebshof Weidenstück Teillose und Fachlose anhand der Leistungsverzeichnisse. Weitere Fälle führen vom Angebotsausschluss und dem Erwerb von Ökopunkten bis zur Prüfung eines Nachtrags anhand des Auftrags-LV.
+Die [elf Testakten der Interstate AG, Niederlassung West](Interstate%20AG/README.md) führen vom Vergabevermerk bis zur Auseinandersetzung auf der Baustelle. Prüfen Sie anhand von Leistungsverzeichnissen, Angeboten und Eingangsbelegen, was ein Unternehmen konkret beanstandet und wie die Vergabestelle reagieren sollte. Für eine Sitzung können Sie unter anderem Leitplanung, Brückenneubau, Fahrbahnmarkierung oder IT für die Bauprüfung wählen.
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) | [Gesamtkatalog](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/vergabestelle-behoerden.md) | [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
@@ -13,7 +13,7 @@ Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen b
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.13/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.15/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
 - **Claude Code:**
 
 ```text
@@ -41,7 +41,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [vergabestelle-behoerden-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md" download="vergabestelle-behoerden-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [vergabestelle-behoerden-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md" download="vergabestelle-behoerden-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.13/vergabestelle-behoerden.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/qualitaetsrunde-v445.36.15/vergabestelle-behoerden.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/vergabestelle-behoerden.md) | [`vergabestelle-behoerden-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-vergabestelle.md) | [`vergaberecht-arbeitsprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-vergabestelle.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-vergabestelle.md) | [`vergaberecht-kurzprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-vergabestelle.md) |
@@ -153,7 +153,7 @@ Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Sch
 
 <!-- BEGIN FACHMODULE-NAVIGATION -->
 
-Das Plugin bietet **8 auswählbare Skills**. Die **122 vollständigen Fachmodule** und ihre Hilfsdateien bleiben in der [Fachbibliothek](FACHMODULE.md) zugänglich. Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
+Das Plugin bietet **8 auswählbare Skills**. Die **122 vollständigen Fachmodule** und ihre Hilfsdateien stehen in der [Fachbibliothek](FACHMODULE.md). Wählen Sie den Arbeitsweg nach dem gewünschten Ergebnis; er führt zu den passenden Vertiefungen.
 
 <!-- END FACHMODULE-NAVIGATION -->
 
@@ -251,4 +251,4 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Die KI-Fachvertiefung steht als [Komponentenausgabe 445.35.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2) zur Verfügung.
